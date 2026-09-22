@@ -1,0 +1,13 @@
+# Three-scent mockup 02
+
+Created 2026-09-15 using built-in ImageGen. Pending user approval; not published or added to website source. Image: `launch-three-scents-physical-reference-mockup-02.png`.
+
+References: physical bottle front and artwork-side photos dated 2026-09-15; finalized label PNGs 3, 2, and 6. Liquid colors are provisional. Visual inspection: names and chapters match; black/transparent cap and wrap placement are represented. Generated proportions and lettering remain approximations, not a print master.
+
+## Generation prompt
+
+Use case: product-mockup.
+Create a high-resolution photorealistic landscape product launch mockup for AFTERSTORY's three fragrances, for review before website implementation.
+Inputs 1-2 are authoritative photographs of the REAL physical bottle front and artwork side. Replicate this exact bottle geometry and attached cap assembly: clear cylindrical glass, rounded shoulders, short glass neck, thick rounded glass base, wide flat black top, black inner cap inside clear transparent outer cylindrical collar with a projecting clear rim. Match relative cap height and width precisely. Do not substitute generic perfume caps or ink bottles.
+Inputs 3-5 are the exact finalized wrap labels for FIRST LIGHT CHAPTER 03, TOBACCO BLOOM CHAPTER 02, WHITE MUSK CHAPTER 06 respectively. Map each corresponding label onto one bottle with realistic cylindrical curvature, matching the placement/height and front typography visible in photograph 1. The label is 138mm wide x40mm high wrapped around the body; only its central front panel is visible head-on, artwork and notes go around the sides/back. Preserve the supplied label identity, typography, cream background #F6F1E6, scent names, chapter numbers, 'Extrait De Parfum', '25% Concentration', '50 ML'. Do not squeeze the whole flat label onto the front. No invented artwork, decorative borders, logo or fonts.
+Show three same-size 50ml bottles arranged clearly with balanced space, front labels facing camera and readable, tiny natural changes of angle. FIRST LIGHT left, TOBACCO BLOOM center, WHITE MUSK right. Clean premium vintage editorial product photography on a warm ivory matte surface against a softly lit warm ivory background, subtle natural window-light shadows, restrained atmosphere. Eye-level slightly elevated camera similar to reference, realistic glass and small highlights, all bottles fully in frame and sharp. Use nearly clear liquid as a provisional visualization; do not copy the strong yellow Slow Caramel color as a claim about these other scents. The reference bottle shape must remain recognizable. No extra headline, no website UI, no props, no other bottles, no sensual imagery. This is a faithful physical packaging mockup, not a redesign.

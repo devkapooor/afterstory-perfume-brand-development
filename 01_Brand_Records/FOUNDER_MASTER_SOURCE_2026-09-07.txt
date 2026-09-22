@@ -1,0 +1,433 @@
+Below is the consolidated AFTERSTORY project master based on what we have finalized so far. You can copy this directly into your project folder as your source of truth.
+AFTERSTORY — MASTER PROJECT SPECIFICATION
+1. Brand
+Brand: AFTERSTORY
+Instagram: @wearafterstory
+Website: afterstory.in
+Established: 2026
+Category: Unisex fragrance
+Positioning: Accessible mid-premium / niche-inspired fragrance brand
+Primary product: Extrait de Parfum
+Concentration: 25%
+Maceration: 14–21 days
+Core brand line
+Fragrance for what remains after the moment.
+Other established brand language:
+Scents for what remains.
+Made to be remembered.
+Brand concept
+AFTERSTORY treats fragrances as chapters attached to memories.
+The communication should focus on moments, people, places, absence, presence and what lingers afterward—not conventional ingredient-heavy perfume marketing.
+2. FINAL FRAGRANCE COLLECTION
+CHAPTER 01 — STILL HERE
+Inspiration: Gucci Flora Gorgeous Gardenia
+Scent profile:
+Pear · White Florals · Brown Sugar
+Story:
+Still here, even after the room has forgotten us.
+
+Character: Soft, floral, sweet, feminine-leaning but presented as unisex.
+CHAPTER 02 — TOBACCO BLOOM
+Inspiration: Tom Ford Tobacco Vanille
+Scent profile:
+Tobacco · Vanilla · Warm Woods
+Story:
+Tobacco bloom, lingering softly after the evening ends.
+
+Character: Warm, rich, tobacco-vanilla, evening fragrance.
+CHAPTER 03 — FIRST LIGHT
+Inspiration: Calvin Klein CK One
+Scent profile:
+Citrus · Green Florals · Clean Woods
+Story:
+First light, finding its way through quiet mornings.
+
+Character: Fresh, clean, citrus-green.
+CHAPTER 04 — LAST LOOK
+Inspiration: Rabanne 1 Million
+Scent profile:
+Grapefruit · Cinnamon · Leather
+Story:
+Last look, before the moment disappears behind you.
+
+Character: Warm spicy, bold, evening-oriented.
+CHAPTER 05 — DARK WOOD
+Inspiration: Tom Ford Oud Wood
+Scent profile:
+Spice · Oud · Amber
+Story:
+Dark wood, where warmth settles beneath the silence.
+
+Character: Woody, dark, sophisticated.
+50 ml artwork: Mist-covered rocky landscape/cliff with lone windswept tree.
+This artwork/design is the reference standard for the entire 50 ml collection.
+CHAPTER 06 — WHITE MUSK
+Inspiration: Al Nuaim White Musk
+Scent profile:
+Powder · White Florals · Musk
+Story:
+White musk, resting softly against warm bare skin.
+
+Character: Clean, powdery, intimate musk.
+CHAPTER 07 — GOLDEN ORCHID
+Inspiration: Victoria's Secret Bombshell
+Scent profile:
+Tropical Fruit · Orchid · Soft Woods
+Story:
+Golden orchid, glowing softly long after midnight passes.
+
+Character: Fruity-floral, bright, sensual.
+ANTHOLOGY / MICRO-BATCH COLLECTION
+08 — YUZU WAVE
+Inspiration: Issey Miyake L'Eau d'Issey Pour Homme
+Scent profile:
+Yuzu · Watery Florals · Vetiver
+Story:
+Yuzu wave, cutting cleanly through the summer air.
+
+Character: Aquatic, citrus, fresh.
+09 — LAST CALL
+Inspiration: Gucci Guilty Pour Homme
+Scent profile:
+Lemon · Orange Blossom · Cedar
+Story:
+Last call, when the night refuses to end.
+
+Character: Aromatic citrus-wood evening fragrance.
+10 — CANDY FLOSS
+Inspiration: Dolce & Gabbana Devotion
+Scent profile:
+Candied Lemon · Cream · Vanilla
+Story:
+Candy floss, sweetness lingering after everything else disappears.
+
+Character: Sweet citrus gourmand.
+11 — SLOW CARAMEL
+Inspiration: Giardini di Toscana Bianco Latte
+Scent profile:
+Caramel · Honey · White Musk
+Story:
+Slow caramel, melting softly into warmth and skin.
+
+Character: Creamy gourmand / vanilla-oriented.
+Important: If one fragrance from the collection is positioned as the primary vanilla/gourmand scent, use SLOW CARAMEL.
+12 — OLD ESTATE
+Inspiration: Ajmal Aristocrat
+Scent profile:
+Citrus · Florals · Oud
+Story:
+Old estate, where time still lives in silence.
+
+Character: Floral-oud, traditional richness with a modern presentation.
+13 — QUIET SHADOW
+Inspiration: Ajmal Misk / Royal Misk Al Rijali
+Scent profile:
+Clean Musk · Soft Florals · Creamy Musk
+Story:
+Quiet shadow, staying close without asking for attention.
+
+Character: Clean, creamy, intimate musk.
+3. NAMING SYSTEM
+Every fragrance name must remain exactly two words.
+The two-word fragrance name begins its corresponding story sentence.
+Example:
+DARK WOOD
+Dark wood, where warmth settles beneath the silence.
+
+Do not casually rename existing fragrances. The above 13 names are currently locked.
+4. 8 ML PRODUCT
+Bottle
+Square spray bottle.
+Approximate dimensions established:
+Total height: ~85 mm
+Glass/labelable height: ~55 mm
+Each flat side: 15 mm
+Final label
+One continuous wraparound label:
+60 mm W × 55 mm H
+Four equal faces:
+15 + 15 + 15 + 15 mm
+Panel 1 — Front
+- AFTERSTORY
+- Chapter / number
+- Fragrance name
+- Scent-specific restrained accent line/bar
+Panel 2 — Story
+Vertical treatment of the fragrance's short story sentence.
+Panel 3 — Product information
+- Extrait de Parfum
+- 8 ML
+- 25%
+All aligned on one clean vertical axis.
+Panel 4 — Scent
+Three-part scent profile.
+Example:
+SPICE · OUD · AMBER
+8 ml aesthetic
+- Ivory/off-white label
+- Dark charcoal typography
+- Full vertical typography system
+- Strong negative space
+- Minimal editorial layout
+- One restrained scent-specific color
+- No gradients
+- No excessive metallics
+- No clutter
+5. 8 ML ACCENT SYSTEM
+Current direction:
+Fragrance	Accent
+STILL HERE	Dusty rose
+TOBACCO BLOOM	Muted tobacco brown
+FIRST LIGHT	Pale yellow
+LAST LOOK	Deep burgundy
+DARK WOOD	Forest green
+WHITE MUSK	Soft grey-blue
+GOLDEN ORCHID	Muted ochre
+YUZU WAVE	Yuzu / acid-lime green
+LAST CALL	Burnt orange
+CANDY FLOSS	Soft pink
+SLOW CARAMEL	Caramel tan
+OLD ESTATE	Olive
+QUIET SHADOW	Smoky violet-grey
+
+
+Use these as subtle accents—not dominant label colors.
+6. 50 ML PRODUCT
+The 50 ml is a separate premium product treatment. It is NOT simply an enlarged version of the 8 ml label.
+Bottle
+Diameter: 45 mm
+Desired label height:
+45 mm
+Bottle circumference:
+Approximately 141.4 mm.
+Final label width selected:
+138 mm
+This leaves approximately 3.4 mm between the two ends when wrapped.
+FINAL LABEL SIZE
+138 mm W × 45 mm H
+Layout ratio:
+1 : 2 : 1
+Meaning:
+34.5 mm | 69 mm | 34.5 mm
+7. 50 ML LABEL — FINAL STRUCTURE
+LEFT — 25%
+Width: 34.5 mm
+Contains:
+NOTES
+Three simplified scent notes.
+Example DARK WOOD:
+Spice
+Oud
+Amber
+Then:
+afterstory.in
+@wearafterstory
+Bottom micro-copy:
+SCENTS FOR
+WHAT REMAINS
+Keep this panel sparse.
+MIDDLE — 50%
+Width: 69 mm
+This is the primary branding panel.
+Contains:
+AFTERSTORY
+CHAPTER 05
+DARK WOOD
+Small horizontal rule.
+Story:
+Dark wood, where warmth
+settles beneath the silence.
+
+Bottom:
+Extrait de Parfum
+25% concentration
+Separator
+50 ML
+This hierarchy should be adapted to each fragrance without changing the overall system.
+RIGHT — 25%
+Width: 34.5 mm
+Contains ONLY scent-specific artwork.
+No unnecessary text over the artwork.
+Artwork should be:
+- monochromatic or extremely restrained
+- editorial
+- atmospheric
+- slightly vintage/printed in character
+- complementary to the fragrance
+- integrated into the ivory label
+- not a generic stock photograph
+The approved DARK WOOD misty cliff/tree artwork establishes the visual benchmark.
+8. 50 ML MATERIAL / VISUAL DIRECTION
+Preferred label appearance:
+Warm ivory/off-white textured stock
+Typography:
+Dark charcoal
+Separators:
+Very fine charcoal/grey rules
+Corners:
+Subtly rounded
+Overall impression:
+Editorial / literary / collectible fragrance chapter
+Avoid:
+- glossy white sticker appearance
+- excessive gold
+- gradients
+- colorful backgrounds
+- busy illustrations
+- generic perfume iconography
+- multiple competing visual elements
+9. TYPOGRAPHY SYSTEM
+Brand typography direction:
+Primary / Display
+Cormorant Garamond
+Use for:
+- AFTERSTORY
+- fragrance names
+- major editorial statements
+- selected story copy
+Supporting
+Manrope
+Use for:
+- chapter numbers
+- technical information
+- small supporting text
+- notes
+- concentration
+- web/social information
+Brand wordmark
+AFTERSTORY
+Always uppercase with relatively generous tracking.
+Avoid ultra-thin type at actual label size because of print legibility.
+10. 50 ML ARTWORK DIRECTION BY FRAGRANCE
+Current visual concepts used for the production set:
+01 STILL HERE — delicate botanical / fading floral memory
+02 TOBACCO BLOOM — tobacco leaves / organic foliage
+03 FIRST LIGHT — hazy sunrise / morning landscape
+04 LAST LOOK — distant city / disappearing urban moment
+05 DARK WOOD — misty rocky cliff + windswept tree (approved benchmark)
+06 WHITE MUSK — soft misted white-floral abstraction
+07 GOLDEN ORCHID — restrained orchid botanical
+08 YUZU WAVE — abstract water movement + yuzu reference
+09 LAST CALL — atmospheric late-night street
+10 CANDY FLOSS — soft cloud-like abstraction
+11 SLOW CARAMEL — organic honey / warm flowing texture
+12 OLD ESTATE — old architectural estate
+13 QUIET SHADOW — soft shadow + botanical silhouette
+The overall art direction is locked, but only DARK WOOD's specific image has been individually approved as the reference artwork. The other images can still be refined individually before a large production run.
+11. INSTAGRAM
+Handle: @wearafterstory
+Bio previously established:
+Fragrance for what remains after the moment.
+Unisex scents made to be remembered.
+
+Feed aesthetic
+Alternate between:
+cinematic memory photography
+and
+minimal ivory satin typography posts
+Recommended rhythm:
+2–3 cinematic posts → 1 satin typography post
+Cinematic scenes
+Use situations such as:
+- café after someone leaves
+- rainy car
+- hotel corridor
+- train
+- restaurant
+- balcony
+- rainy street
+- bookstore
+- elevator
+- cinema lobby
+- terrace
+- airport
+- train platform
+Avoid repeatedly using bedrooms.
+Scenes should show evidence of an incident, not necessarily the people involved.
+Examples:
+- empty chair
+- scarf
+- unfinished coffee
+- note
+- rain
+- jacket
+- receipt
+- glass
+- open book
+12. INSTAGRAM VISUAL SETTINGS
+Photography:
+35–50 mm editorial look
+Occasionally:
+85 mm for intimate details.
+Approximate aperture aesthetic:
+f/1.8–f/4
+Lighting:
+- directional
+- warm
+- naturalistic
+- soft but deep shadows
+- golden hour
+- dusk
+- rainy city reflections
+- practical café lights
+- dashboard illumination
+- window light
+Color palette:
+Ivory · champagne · camel · taupe · brown · charcoal · amber
+Occasional muted accents only.
+Avoid:
+- neon
+- saturated blue
+- strong teal/orange grading
+- HDR
+- stock-photo lighting
+- influencer photography
+13. INSTAGRAM NARRATIVE RULE
+Captions should read like small remembered incidents.
+They should NOT simply repeat the headline printed on the image.
+Example we finalized:
+You had already left.
+But your scarf was still on the seat,
+the coffee was still warm,
+and the car still smelled like you.
+I sat there a little longer than I needed to.
+AFTERSTORY
+
+Typical hashtags:
+#AFTERSTORY #WearAfterstory #ScentMemory #UnisexFragrance #MadeToBeRemembered
+14. CURRENT INSTAGRAM STORY SEQUENCE
+The established progression is:
+Post 1
+AFTERSTORY
+Scents for the moments you keep thinking about.
+Post 2
+SOME MOMENTS PASS.
+SOME STAY.
+Fragrance for what remains after the moment.
+Post 3
+YOU LEFT.
+THE SCENT DIDN'T.
+Post 4
+SOME PRESENCES
+OUTLAST THE MOMENT.
+Sometimes, all they leave behind is a scent.
+Café visual.
+Post 5
+YOU FORGET THE DETAILS.
+NOT THE FEELING.
+Some memories stay without asking to.
+Rainy car visual.
+Post 6
+EVERY SCENT
+HAS A STORY.
+Fragrance for what remains after the moment.
+Ivory satin typography visual + small AFTERSTORY watermark.
+The feed can now transition into the Chapter/fragrance reveal phase.
+15. PRODUCTION FILES ALREADY CREATED
+8 ml
+Current corrected print-ready master:
+AFTERSTORY_8ml_Wraparound_Labels_Print_Ready_v2.pdf
+Specification:
+60 × 55 mm per label
+50 ml
+Combined production file:

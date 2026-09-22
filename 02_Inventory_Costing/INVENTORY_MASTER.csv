@@ -1,0 +1,56 @@
+SKU_or_Product_ID,Product_Name,Size_ml,Quantity_On_Hand,Unit,Last_Updated,Status,Notes
+AS-03-50,FIRST LIGHT 50 mL,50,1,pcs,2026-09-23,ON_HAND,"One bottle gifted to founder's mother on 2026-09-23; remaining bottle is available for the confirmed order"
+AS-01-50,STILL HERE 50 mL,50,2,pcs,2026-09-22,FRIEND_SALE_DISCLOSURE_REQUIRED,"SH-P02 is 30.12% w/w; founder permits friend sale only with concentration disclosed as approximately 30%; labels state 25%"
+AS-02-50,TOBACCO BLOOM 50 mL,50,2,pcs,2026-09-22,ON_HAND,TB-P01 output; final stickers applied
+AS-04-50,LAST LOOK 50 mL,50,1,pcs,2026-09-22,RESERVED,"LL-P03 filled to 52 mL; final sticker applied; reserved for Shahzar"
+AS-05-50,DARK WOOD 50 mL,50,2,pcs,2026-09-22,ON_HAND,DW-P01 output; final stickers applied
+AS-06-50,WHITE MUSK 50 mL,50,1,pcs,2026-09-23,ON_HAND,"One bottle gifted to founder's mother on 2026-09-23; remaining bottle is available for the confirmed order"
+AS-07-50,GOLDEN ORCHID 50 mL,50,2,pcs,2026-09-22,FRIEND_SALE_DISCLOSURE_REQUIRED,"GO-P01 used 30 mL oil plus 72 g premix; founder permits friend sale only with concentration communicated as approximately 30%; labels state 25%"
+AS-08-50,YUZU WAVE 50 mL,50,2,pcs,2026-09-22,ON_HAND,YW-P01 output; final stickers applied
+AS-09-50,LAST CALL 50 mL,50,2,pcs,2026-09-22,ON_HAND,"LC-P01 output; one bottle reserved for Shahzar; final stickers applied"
+AS-10-50,CANDY FLOSS 50 mL,50,2,pcs,2026-09-22,ON_HAND,"Final labels applied; batch is 24.51% w/w and allocation to confirmed order remains pending"
+AS-11-50,SLOW CARAMEL 50 mL,50,1,pcs,2026-09-22,ON_HAND,"Final label applied; fill level and allocation remain pending"
+AS-03-08,FIRST LIGHT 8 mL,8,2,pcs,2026-09-22,TESTER_POOL,"Generic handwritten labels; not branded 8 mL labels"
+AS-04-08,LAST LOOK 8 mL,8,1,pcs,2026-09-22,ON_HAND_TEMPORARY_LABEL,LL-P03 output; white handwritten label applied
+AS-05-08,DARK WOOD 8 mL,8,2,pcs,2026-09-22,ON_HAND_TEMPORARY_LABEL,DW-P01 output; handwritten white labels applied
+AS-02-08,TOBACCO BLOOM 8 mL,8,3,pcs,2026-09-22,ON_HAND_TEMPORARY_LABEL,TB-P01 output; handwritten white labels applied
+AS-03-04-TESTER,FIRST LIGHT 4 mL tester,4,1,pcs,2026-09-22,TESTER_POOL,Partial bottle from FL-P01
+AS-06-08,WHITE MUSK 8 mL,8,3,pcs,2026-09-22,TESTER_POOL,"Generic handwritten labels; not branded 8 mL labels"
+AS-07-08,GOLDEN ORCHID 8 mL,8,3,pcs,2026-09-22,ON_HAND_TEMPORARY_LABEL,GO-P01 output; handwritten white labels applied
+AS-08-08,YUZU WAVE 8 mL,8,3,pcs,2026-09-22,ON_HAND_TEMPORARY_LABEL,YW-P01 output; handwritten white labels assumed under current operating rule
+AS-09-08,LAST CALL 8 mL,8,3,pcs,2026-09-22,ON_HAND_TEMPORARY_LABEL,LC-P01 output; handwritten white labels applied
+AS-10-07-TESTER,CANDY FLOSS 7 mL tester,7,2,pcs,2026-09-22,TESTER_POOL,Partial bottles from CF-P01
+AS-10-06-TESTER,CANDY FLOSS 6 mL tester,6,1,pcs,2026-09-22,TESTER_POOL,Partial bottle from CF-P01
+AS-02-05-TESTER,TOBACCO BLOOM 5 mL tester,5,2,pcs,2026-09-22,ON_HAND_TEMPORARY_LABEL,TB-P01 output in standard 8 mL containers; handwritten white labels applied
+AS-05-06-TESTER,DARK WOOD 6 mL tester,6,1,pcs,2026-09-22,ON_HAND_TEMPORARY_LABEL,DW-P01 output in standard 8 mL container; handwritten white label applied
+AS-11-08,SLOW CARAMEL 8 mL,8,1,pcs,2026-09-22,TESTER_POOL,"Generic handwritten label; fill level remains pending"
+AS-04-50-PERSONAL,LAST LOOK 50 mL personal bottle,50,1,pcs,2026-09-22,NOT_FOR_SALE,Founder personal bottle
+AS-04-08-REFERENCE,LAST LOOK 8 mL reference sample,8,1,pcs,2026-09-22,NOT_FOR_SALE,Internal retained sample
+AS-12-08-REFERENCE,OLD ESTATE 8 mL reference sample,8,1,pcs,2026-09-22,NOT_FOR_SALE,Internal retained sample OE-A01
+RM-CKONE-A,CK One perfume oil,,193,g,2026-09-22,VERIFIED,"250 g opening less 32 g CL-P01 and 25 g FL-P01"
+RM-TOBACCO-VANILLA-A,Tobacco Vanilla perfume oil,,223,g,2026-09-22,VERIFIED,27 g taken for TB-P01
+RM-1MILLION-A,1 Million perfume oil,,62.5,g,2026-09-22,VERIFIED,12.5 g taken for LL-P03
+RM-GUCCI-FLORA-A,Gucci Flora perfume oil,,75,g,2026-09-22,VERIFIED,25 g taken for SH-P02
+RM-WHITE-MUSK-A,White Musk perfume oil,,46,g,2026-09-22,VERIFIED,"100 g opening less 29 g MK-P01 and 25 g WM-P01"
+RM-OUD-WOOD-A,Oud Wood perfume oil,,75,g,2026-09-22,VERIFIED,25 g taken for DW-P01
+RM-ISSEY-MIYAKE-MAN-A,Issey Miyake Man perfume oil,,0,g,2026-09-22,VERIFIED,25 g taken for YW-P01
+RM-GUCCI-GUILTY-MEN-A,Gucci Guilty Men perfume oil,,0,g,2026-09-22,VERIFIED,25 g taken for LC-P01
+RM-DG-DEVOTION-A,D&G Devotion perfume oil,,0,g,2026-09-22,VERIFIED,25 g used in CF-P01
+RM-BIANCO-LATTE-A,Bianco Latte perfume oil,,0,g,2026-09-22,VERIFIED,25 g used across SC-P01 and SC-P02
+RM-AJMAL-ARISTOCRAT-A,Ajmal Aristocrat perfume oil,,0,g,2026-09-22,VERIFIED,Founder-confirmed zero balance
+RM-MUSK-RIJALI-A,Ajmal Musk Rijali Spl perfume oil,,0,g,2026-09-22,VERIFIED,Founder-confirmed zero balance
+RM-GUCCI-FLORA-B,Gucci Flora perfume oil,,,g,2026-09-22,UNRESOLVED,"Zaveri lot; 12.5 mL historical sample use confirmed, but current mass balance requires physical measurement"
+RM-BOMBSHELL-A,Bombshell perfume oil,,,g,2026-09-22,UNRESOLVED,"Perfume Cartel invoice lot; 100 g purchased. EMBER use and GO-P01's 30 mL use are not fully measured, so current balance requires physical measurement"
+RM-BOMBSHELL-B,Victoria Secret Bombshell perfume oil,,100,g,2026-09-22,VERIFIED,No recorded consumption; EMBER used Perfume Cartel Bombshell
+RM-BOMBSHELL-PC,Bombshell perfume oil,,,g,2026-09-22,HISTORICAL_REFERENCE,"Legacy GO-P01 transaction reference; supplier mapping confirmed as the Perfume Cartel invoice lot. Current balance is maintained under RM-BOMBSHELL-A"
+RM-PREMIX,Alcohol plus fixatives premix,,1227.12,mL,2026-09-22,ESTIMATED,"50 mL session wastage deducted; remeasure physically"
+RM-PLAIN-ALCOHOL,Plain perfumer's alcohol,,650,mL,2026-09-22,VERIFIED,50 mL session wastage deducted
+PK-BOTTLE-50,50 mL Amore full-set bottle,,20,pcs,2026-09-22,VERIFIED,SH-P02 used 2 bottle sets
+PK-BOTTLE-08,Bare 8 mL tester bottle,,575,pcs,2026-09-22,VERIFIED,GO-P01 used 3 bottles
+PK-LABEL-50-FINAL,Final 50 mL sticker,,0,pcs,2026-09-22,VERIFIED,GO-P01 used final 2 stickers
+PK-LABEL-NS-CROWN-08,CROWN 8 mL label,,10,pcs,2026-09-22,VERIFIED,No recorded use
+PK-LABEL-NS-HIDE-08,HIDE 8 mL label,,12,pcs,2026-09-22,VERIFIED,Founder physical count
+PK-LABEL-NS-EMBER-08,EMBER 8 mL label,,1,pcs,2026-09-22,VERIFIED,Founder physical count
+PK-LABEL-NS-MUSK-08,MUSK 8 mL label,,0,pcs,2026-09-22,VERIFIED,15 used in MK-P01
+PK-LABEL-NS-CLEAN-08,CLEAN 8 mL label,,0,pcs,2026-09-22,VERIFIED,Founder physical count
+PK-GLOVES-NITRILE,Nitrile gloves,,90,pcs,2026-09-22,ESTIMATED,Two gloves used in session

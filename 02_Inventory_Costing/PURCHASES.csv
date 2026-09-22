@@ -1,0 +1,7 @@
+Date,Purchase_ID,Supplier_ID,Purchase_Category,Description,Amount_INR,Payment_Status,Source_Document,Notes
+2026-08-19,PUR-20260819-AR3,SUP-PERFUME-CARTEL,Materials,"Perfume oils; 8 mL bottles; alcohol plus fixatives premix",14335.82,PAID,05_Invoices_Receipts/Purchase Invoices/Tax Invoice_202627106_19_08_26.pdf,Invoice total reconstructed from recorded line values; founder confirmed AR3 is Perfume Cartel
+2026-08-19,PUR-20260819-ZB69,SUP-ZAVERI,Materials,"50 mL bottles; Gucci Flora oil; Bombshell oil; pusher",3208.00,PAID,Founder confirmation,Original ZB-69 invoice/screenshot is unavailable
+,PUR-FREIGHT-001,,Freight,Combined inward freight,1500.00,PAID,Founder-reported,Invoice-level allocation unknown
+2026-09-12,PUR-SETUP-001,,Equipment,"Borosilicate beakers; stirring rods; funnels; filter paper",1200.00,PAID,Founder-reported,Individual item costs not split
+,PUR-GLOVES-001,,Consumable,Nitrile gloves 100 pcs,450.00,PAID,Founder-reported,Purchase date not recorded
+2026-09-15,PUR-LABEL-50-001,,Packaging,50 mL stickers 26 pcs,100.00,PAID,Founder-reported,Two stickers printed per chapter

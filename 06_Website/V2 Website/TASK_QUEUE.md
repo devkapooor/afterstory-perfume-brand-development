@@ -19,10 +19,10 @@ Work through these tasks in order. Do not start a dependent task until its prere
 - **Completion criteria:** Final images are approved for FIRST LIGHT, TOBACCO BLOOM, and WHITE MUSK, with the approved mapping recorded in the project handoff.
 
 ### 3. Confirm final product content
-- **Status:** Queued
+- **Status:** Ready for review
 - **Owner:** Brand owner
 - **Dependency:** None
-- **Completion criteria:** Product names, fragrance descriptions, notes, usage instructions, size, concentration, price, MRP, and stock display copy are approved.
+- **Completion criteria:** Product names, fragrance descriptions, notes, usage instructions, size, concentration, price, MRP, and stock display copy are approved. Canonical product content has been prepared; usage instructions remain to be confirmed.
 
 ## Phase 2 — Catalog and storefront
 

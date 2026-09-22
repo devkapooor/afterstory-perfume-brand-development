@@ -1,0 +1,13 @@
+SKU_or_Product_ID,Product_Name,MRP,Public_Selling_Price,Retailer_Price,Wholesale_Price,Friends_Family_Price,Effective_From,Status,Notes
+AS-02-50,TOBACCO BLOOM 50 mL,799,499,,,,,ACTIVE,"Website launch price; delivery and prepaid terms are separate"
+AS-03-50,FIRST LIGHT 50 mL,799,499,,,,,ACTIVE,"Website launch price; delivery and prepaid terms are separate"
+AS-06-50,WHITE MUSK 50 mL,799,499,,,,,ACTIVE,"Website launch price; delivery and prepaid terms are separate"
+AS-50ML-FNF-1,Any one AFTERSTORY 50 mL,, ,,,499,,ACTIVE,"System-generated pricing-rule ID; friend-and-family single-bottle offer"
+AS-50ML-FNF-2,Any two AFTERSTORY 50 mL,, ,,,899,,ACTIVE,"System-generated pricing-rule ID; friend-and-family two-bottle offer; delivery included"
+AS-50ML-FNF-3,Any three AFTERSTORY 50 mL,, ,,,1199,,ACTIVE,"System-generated pricing-rule ID; friend-and-family three-bottle offer; delivery included"
+NS-CLEAN-08,CLEAN 8 mL,79,,60,,,2026-09-20,HISTORICAL,Confirmed New Shop sale price
+NS-MUSK-08,MUSK 8 mL,79,,60,,,2026-09-20,HISTORICAL,Confirmed New Shop sale price
+NS-EMBER-08,EMBER 8 mL,79,,60,,,2026-09-20,HISTORICAL,Confirmed New Shop sale price
+NS-CROWN-08,CROWN 8 mL,79,,60,,,2026-09-22,ACTIVE,Founder-confirmed current New Shop price
+NS-HIDE-08,HIDE 8 mL,79,,60,,,2026-09-22,ACTIVE,Founder-confirmed current New Shop price
+AS-50ML-TRADE,AFTERSTORY branded 50 mL trade policy,,,,,,2026-09-22,NOT_SET,Founder confirmed no retailer or wholesale price is set

@@ -1,0 +1,29 @@
+/* Original-image coordinates: changing the image requires checking these masks. */
+.motion-demo {
+  --sky-speed: 7s;
+  --sky-travel: 12%;
+  --sky-strength-min: .4;
+  --sky-strength-max: .75;
+  --water-speed: 2.5s;
+  --water-strength: .45;
+  --water-step: 13px;
+  --sky-mask: polygon(56% 1%, 91% 1%, 91% 20%, 82% 23%, 78% 29%, 68% 29%, 63% 33%, 56% 33%);
+  --water-mask: polygon(32% 58%, 49% 58%, 55% 60%, 50% 62%, 44% 65%, 32% 67%);
+}
+.still-life { margin: 0; animation: arrive 1s .12s ease-out both; }
+.campaign-stage { position: relative; width: 100%; overflow: hidden; isolation: isolate; background: #d6c8b1; }
+.campaign-stage > img { display: block; width: 100%; max-width: 100%; height: auto; }
+.sky-mask, .water-mask { position: absolute; inset: 0; pointer-events: none; }
+.sky-mask { clip-path: var(--sky-mask); }
+.sky-haze { position: absolute; inset: 0; background: radial-gradient(ellipse 17% 3.5% at 62% 12%, #fffef4 12%, transparent 100%), radial-gradient(ellipse 21% 4% at 83% 22%, #fffbed 10%, transparent 100%); animation: drift-haze var(--sky-speed) ease-in-out infinite alternate; }
+.water-mask { clip-path: var(--water-mask); mask-image: linear-gradient(transparent 56%, #000 59%, #000 63%, transparent 68%); }
+.water-glints { position: absolute; inset: 0; opacity: var(--water-strength); background: repeating-linear-gradient(176deg, transparent 0px, transparent 4px, #fff1c7 5px, transparent 7px, transparent var(--water-step)); animation: river-shimmer var(--water-speed) linear infinite; }
+.still-life figcaption { display: flex; justify-content: space-between; gap: 16px; padding-top: 12px; font-size: .75rem; color: var(--muted-foreground); }
+.still-life figcaption > span:first-child { font-style: italic; }
+.still-life figcaption > span:last-child { text-transform: uppercase; font-size: .75rem; letter-spacing: .08em; }
+@keyframes drift-haze { from { transform: translateX(calc(-1 * var(--sky-travel))); opacity: var(--sky-strength-min); } to { transform: translateX(var(--sky-travel)); opacity: var(--sky-strength-max); } }
+@keyframes river-shimmer { from { background-position: 0 0; } to { background-position: 0 var(--water-step); } }
+@media (prefers-reduced-motion: reduce) {
+  .sky-mask, .water-mask { display: none; }
+  .still-life, .sky-haze, .water-glints { animation: none; }
+}

@@ -1,0 +1,67 @@
+Product_ID,Identifier_Type,Product_Name,Fragrance,Size_ml,Product_Type,Status,Notes
+AS-01-50,SYSTEM_INTERNAL,STILL HERE 50 mL,STILL HERE,50,Extrait de Parfum,COLLECTION_LOCKED,Production quantity is not locked
+AS-02-50,SYSTEM_INTERNAL,TOBACCO BLOOM 50 mL,TOBACCO BLOOM,50,Extrait de Parfum,WEB_LAUNCH_ACTIVE,Website launch product
+AS-03-50,SYSTEM_INTERNAL,FIRST LIGHT 50 mL,FIRST LIGHT,50,Extrait de Parfum,WEB_LAUNCH_ACTIVE,Website launch product
+AS-04-50,SYSTEM_INTERNAL,LAST LOOK 50 mL,LAST LOOK,50,Extrait de Parfum,COLLECTION_LOCKED,Production quantity is not locked
+AS-05-50,SYSTEM_INTERNAL,DARK WOOD 50 mL,DARK WOOD,50,Extrait de Parfum,COLLECTION_LOCKED,Production quantity is not locked
+AS-06-50,SYSTEM_INTERNAL,WHITE MUSK 50 mL,WHITE MUSK,50,Extrait de Parfum,WEB_LAUNCH_ACTIVE,Website launch product
+AS-07-50,SYSTEM_INTERNAL,GOLDEN ORCHID 50 mL,GOLDEN ORCHID,50,Extrait de Parfum,COLLECTION_LOCKED,Production quantity is not locked
+AS-08-50,SYSTEM_INTERNAL,YUZU WAVE 50 mL,YUZU WAVE,50,Extrait de Parfum,COLLECTION_LOCKED,Production quantity is not locked
+AS-09-50,SYSTEM_INTERNAL,LAST CALL 50 mL,LAST CALL,50,Extrait de Parfum,COLLECTION_LOCKED,Production quantity is not locked
+AS-10-50,SYSTEM_INTERNAL,CANDY FLOSS 50 mL,CANDY FLOSS,50,Extrait de Parfum,COLLECTION_LOCKED,Production quantity is not locked
+AS-11-50,SYSTEM_INTERNAL,SLOW CARAMEL 50 mL,SLOW CARAMEL,50,Extrait de Parfum,COLLECTION_LOCKED,Production quantity is not locked
+AS-12-50,SYSTEM_INTERNAL,OLD ESTATE 50 mL,OLD ESTATE,50,Extrait de Parfum,COLLECTION_LOCKED,Production quantity is not locked
+AS-13-50,SYSTEM_INTERNAL,QUIET SHADOW 50 mL,QUIET SHADOW,50,Extrait de Parfum,COLLECTION_LOCKED,Production quantity is not locked
+AS-01-08,SYSTEM_INTERNAL,STILL HERE 8 mL,STILL HERE,8,Extrait de Parfum,LABEL_RELEASE_PENDING,8 mL architecture is locked but branded label release is pending
+AS-02-08,SYSTEM_INTERNAL,TOBACCO BLOOM 8 mL,TOBACCO BLOOM,8,Extrait de Parfum,LABEL_RELEASE_PENDING,8 mL architecture is locked but branded label release is pending
+AS-03-08,SYSTEM_INTERNAL,FIRST LIGHT 8 mL,FIRST LIGHT,8,Extrait de Parfum,LABEL_RELEASE_PENDING,8 mL architecture is locked but branded label release is pending
+AS-04-08,SYSTEM_INTERNAL,LAST LOOK 8 mL,LAST LOOK,8,Extrait de Parfum,LABEL_RELEASE_PENDING,8 mL architecture is locked but branded label release is pending
+AS-05-08,SYSTEM_INTERNAL,DARK WOOD 8 mL,DARK WOOD,8,Extrait de Parfum,LABEL_RELEASE_PENDING,8 mL architecture is locked but branded label release is pending
+AS-06-08,SYSTEM_INTERNAL,WHITE MUSK 8 mL,WHITE MUSK,8,Extrait de Parfum,LABEL_RELEASE_PENDING,8 mL architecture is locked but branded label release is pending
+AS-07-08,SYSTEM_INTERNAL,GOLDEN ORCHID 8 mL,GOLDEN ORCHID,8,Extrait de Parfum,LABEL_RELEASE_PENDING,8 mL architecture is locked but branded label release is pending
+AS-08-08,SYSTEM_INTERNAL,YUZU WAVE 8 mL,YUZU WAVE,8,Extrait de Parfum,LABEL_RELEASE_PENDING,8 mL architecture is locked but branded label release is pending
+AS-09-08,SYSTEM_INTERNAL,LAST CALL 8 mL,LAST CALL,8,Extrait de Parfum,LABEL_RELEASE_PENDING,8 mL architecture is locked but branded label release is pending
+AS-10-08,SYSTEM_INTERNAL,CANDY FLOSS 8 mL,CANDY FLOSS,8,Extrait de Parfum,LABEL_RELEASE_PENDING,8 mL architecture is locked but branded label release is pending
+AS-11-08,SYSTEM_INTERNAL,SLOW CARAMEL 8 mL,SLOW CARAMEL,8,Extrait de Parfum,LABEL_RELEASE_PENDING,8 mL architecture is locked but branded label release is pending
+AS-12-08,SYSTEM_INTERNAL,OLD ESTATE 8 mL,OLD ESTATE,8,Extrait de Parfum,LABEL_RELEASE_PENDING,8 mL architecture is locked but branded label release is pending
+AS-13-08,SYSTEM_INTERNAL,QUIET SHADOW 8 mL,QUIET SHADOW,8,Extrait de Parfum,LABEL_RELEASE_PENDING,8 mL architecture is locked but branded label release is pending
+NS-CLEAN-08,SYSTEM_INTERNAL,CLEAN 8 mL,CK One,8,New Shop product,HISTORICAL,Non-branded New Shop label line
+NS-MUSK-08,SYSTEM_INTERNAL,MUSK 8 mL,Al Nuaim White Musk,8,New Shop product,HISTORICAL,Non-branded New Shop label line
+NS-EMBER-08,SYSTEM_INTERNAL,EMBER 8 mL,Bombshell,8,New Shop product,HISTORICAL,Non-branded New Shop label line
+NS-CROWN-08,SYSTEM_INTERNAL,CROWN 8 mL,,8,New Shop product,PLANNED,Oil mapping is not confirmed
+NS-HIDE-08,SYSTEM_INTERNAL,HIDE 8 mL,Tobacco Vanilla,8,New Shop product,PLANNED,No recorded production
+AS-04-50-PERSONAL,SYSTEM_INTERNAL,LAST LOOK 50 mL personal bottle,LAST LOOK,50,Personal reference,NOT_FOR_SALE,Founder personal bottle
+AS-04-08-REFERENCE,SYSTEM_INTERNAL,LAST LOOK 8 mL reference sample,LAST LOOK,8,Reference sample,NOT_FOR_SALE,Internal retained sample
+AS-12-08-REFERENCE,SYSTEM_INTERNAL,OLD ESTATE 8 mL reference sample,OLD ESTATE,8,Reference sample,NOT_FOR_SALE,Internal retained sample OE-A01
+AS-03-04-TESTER,SYSTEM_INTERNAL,FIRST LIGHT 4 mL tester,FIRST LIGHT,4,Tester,NOT_FOR_SALE,Partial bottle from FL-P01
+AS-10-07-TESTER,SYSTEM_INTERNAL,CANDY FLOSS 7 mL tester,CANDY FLOSS,7,Tester,NOT_FOR_SALE,Partial bottles from CF-P01
+AS-10-06-TESTER,SYSTEM_INTERNAL,CANDY FLOSS 6 mL tester,CANDY FLOSS,6,Tester,NOT_FOR_SALE,Partial bottle from CF-P01
+AS-02-05-TESTER,SYSTEM_INTERNAL,TOBACCO BLOOM 5 mL tester,TOBACCO BLOOM,5,Tester,NOT_FOR_SALE,Output from TB-P01 in standard 8 mL container
+AS-05-06-TESTER,SYSTEM_INTERNAL,DARK WOOD 6 mL tester,DARK WOOD,6,Tester,NOT_FOR_SALE,Output from DW-P01 in standard 8 mL container
+RM-CKONE-A,SYSTEM_INTERNAL,CK One perfume oil,CK One,,Raw material,ACTIVE,Supplier lot A
+RM-TOBACCO-VANILLA-A,SYSTEM_INTERNAL,Tobacco Vanilla perfume oil,Tobacco Vanilla,,Raw material,ACTIVE,Supplier lot A
+RM-1MILLION-A,SYSTEM_INTERNAL,1 Million perfume oil,1 Million,,Raw material,ACTIVE,Supplier lot A
+RM-GUCCI-FLORA-A,SYSTEM_INTERNAL,Gucci Flora perfume oil,Gucci Flora,,Raw material,ACTIVE,Supplier lot A
+RM-WHITE-MUSK-A,SYSTEM_INTERNAL,White Musk perfume oil,White Musk,,Raw material,ACTIVE,Supplier lot A
+RM-OUD-WOOD-A,SYSTEM_INTERNAL,Oud Wood perfume oil,Oud Wood,,Raw material,ACTIVE,Supplier lot A
+RM-BOMBSHELL-A,SYSTEM_INTERNAL,Bombshell perfume oil,Bombshell,,Raw material,ACTIVE,Supplier lot A
+RM-ISSEY-MIYAKE-MAN-A,SYSTEM_INTERNAL,Issey Miyake Man perfume oil,Issey Miyake Man,,Raw material,ACTIVE,Supplier lot A
+RM-GUCCI-GUILTY-MEN-A,SYSTEM_INTERNAL,Gucci Guilty Men perfume oil,Gucci Guilty Men,,Raw material,ACTIVE,Supplier lot A
+RM-DG-DEVOTION-A,SYSTEM_INTERNAL,D&G Devotion perfume oil,D&G Devotion,,Raw material,ACTIVE,Supplier lot A
+RM-BIANCO-LATTE-A,SYSTEM_INTERNAL,Bianco Latte perfume oil,Bianco Latte,,Raw material,ACTIVE,Supplier lot A
+RM-AJMAL-ARISTOCRAT-A,SYSTEM_INTERNAL,Ajmal Aristocrat perfume oil,Ajmal Aristocrat,,Raw material,ACTIVE,Supplier lot A
+RM-MUSK-RIJALI-A,SYSTEM_INTERNAL,Ajmal Musk Rijali Spl perfume oil,Ajmal Musk Rijali Spl,,Raw material,ACTIVE,Supplier lot A
+RM-GUCCI-FLORA-B,SYSTEM_INTERNAL,Gucci Flora perfume oil,Gucci Flora,,Raw material,REVIEW_REQUIRED,Supplier lot B
+RM-BOMBSHELL-B,SYSTEM_INTERNAL,Victoria Secret Bombshell perfume oil,Victoria Secret Bombshell,,Raw material,REVIEW_REQUIRED,Supplier lot B
+RM-BOMBSHELL-PC,SYSTEM_INTERNAL,Bombshell perfume oil,Bombshell,,Raw material,HISTORICAL,Legacy GO-P01 reference; supplier confirmed as Perfume Cartel invoice lot
+RM-PREMIX,SYSTEM_INTERNAL,Alcohol plus fixatives premix,,,Raw material,REVIEW_REQUIRED,Current balance cannot be reconciled across mixed volume and weight records
+RM-PLAIN-ALCOHOL,SYSTEM_INTERNAL,Plain perfumer's alcohol,,,Raw material,REVIEW_REQUIRED,Current balance requires density or direct volume measurement
+PK-BOTTLE-50,SYSTEM_INTERNAL,50 mL Amore full-set bottle,,,Packaging,ACTIVE,Bottle set
+PK-BOTTLE-08,SYSTEM_INTERNAL,Bare 8 mL tester bottle,,,Packaging,ACTIVE,Bottle
+PK-LABEL-50-FINAL,SYSTEM_INTERNAL,Final 50 mL sticker,,,Packaging,ACTIVE,Current 13-artwork print run
+PK-LABEL-NS-CROWN-08,SYSTEM_INTERNAL,CROWN 8 mL label,,,Packaging,ACTIVE,New Shop label
+PK-LABEL-NS-HIDE-08,SYSTEM_INTERNAL,HIDE 8 mL label,,,Packaging,ACTIVE,New Shop label
+PK-LABEL-NS-EMBER-08,SYSTEM_INTERNAL,EMBER 8 mL label,,,Packaging,ACTIVE,New Shop label
+PK-LABEL-NS-MUSK-08,SYSTEM_INTERNAL,MUSK 8 mL label,,,Packaging,ACTIVE,New Shop label
+PK-LABEL-NS-CLEAN-08,SYSTEM_INTERNAL,CLEAN 8 mL label,,,Packaging,REVIEW_REQUIRED,Usage count is not confirmed
+PK-GLOVES-NITRILE,SYSTEM_INTERNAL,Nitrile gloves,,,Consumable,ACTIVE,Count is estimated from recorded use

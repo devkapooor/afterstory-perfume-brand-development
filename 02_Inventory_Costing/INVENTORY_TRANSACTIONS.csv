@@ -1,0 +1,95 @@
+Date,Transaction_ID,SKU_or_Product_ID,Product_Name,Transaction_Type,Quantity_Change,Reference,Notes
+2026-09-22,OPEN-20260922-001,AS-03-50,FIRST LIGHT 50 mL,OPENING_BALANCE,2,Phase 3 consolidation,"Ledger starts from verified current position; prior history is preserved in 99_Archive/Inventory_Old/INVENTORY.md"
+2026-09-22,OPEN-20260922-002,AS-04-50,LAST LOOK 50 mL,OPENING_BALANCE,1,Phase 3 consolidation,Reserved for Shahzar order
+2026-09-22,OPEN-20260922-003,AS-06-50,WHITE MUSK 50 mL,OPENING_BALANCE,2,Phase 3 consolidation,"Allocation pending"
+2026-09-22,OPEN-20260922-004,AS-10-50,CANDY FLOSS 50 mL,OPENING_BALANCE,2,Phase 3 consolidation,"Allocation pending; 24.51% w/w batch"
+2026-09-22,OPEN-20260922-005,AS-11-50,SLOW CARAMEL 50 mL,OPENING_BALANCE,1,Phase 3 consolidation,Fill level pending
+2026-09-22,OPEN-20260922-006,AS-03-08,FIRST LIGHT 8 mL,OPENING_BALANCE,2,Phase 3 consolidation,Tester pool
+2026-09-22,OPEN-20260922-007,AS-03-04-TESTER,FIRST LIGHT 4 mL tester,OPENING_BALANCE,1,Phase 3 consolidation,Tester pool
+2026-09-22,OPEN-20260922-008,AS-06-08,WHITE MUSK 8 mL,OPENING_BALANCE,3,Phase 3 consolidation,Tester pool
+2026-09-22,OPEN-20260922-009,AS-10-07-TESTER,CANDY FLOSS 7 mL tester,OPENING_BALANCE,2,Phase 3 consolidation,Tester pool
+2026-09-22,OPEN-20260922-010,AS-10-06-TESTER,CANDY FLOSS 6 mL tester,OPENING_BALANCE,1,Phase 3 consolidation,Tester pool
+2026-09-22,OPEN-20260922-011,AS-11-08,SLOW CARAMEL 8 mL,OPENING_BALANCE,1,Phase 3 consolidation,Tester pool
+2026-09-22,OPEN-20260922-012,AS-04-50-PERSONAL,LAST LOOK 50 mL personal bottle,OPENING_BALANCE,1,Phase 3 consolidation,Not for sale
+2026-09-22,OPEN-20260922-013,AS-04-08-REFERENCE,LAST LOOK 8 mL reference sample,OPENING_BALANCE,1,Phase 3 consolidation,Not for sale
+2026-09-22,OPEN-20260922-014,AS-12-08-REFERENCE,OLD ESTATE 8 mL reference sample,OPENING_BALANCE,1,Phase 3 consolidation,Not for sale
+2026-09-22,OPEN-20260922-015,RM-CKONE-A,CK One perfume oil,OPENING_BALANCE,193,Phase 3 consolidation,Verified current balance
+2026-09-22,OPEN-20260922-016,RM-TOBACCO-VANILLA-A,Tobacco Vanilla perfume oil,OPENING_BALANCE,250,Phase 3 consolidation,Verified current balance
+2026-09-22,OPEN-20260922-017,RM-1MILLION-A,1 Million perfume oil,OPENING_BALANCE,75,Phase 3 consolidation,Verified current balance
+2026-09-22,OPEN-20260922-018,RM-GUCCI-FLORA-A,Gucci Flora perfume oil,OPENING_BALANCE,100,Phase 3 consolidation,Verified current balance
+2026-09-22,OPEN-20260922-019,RM-WHITE-MUSK-A,White Musk perfume oil,OPENING_BALANCE,46,Phase 3 consolidation,Verified current balance
+2026-09-22,OPEN-20260922-020,RM-OUD-WOOD-A,Oud Wood perfume oil,OPENING_BALANCE,100,Phase 3 consolidation,Verified current balance
+2026-09-22,OPEN-20260922-021,RM-ISSEY-MIYAKE-MAN-A,Issey Miyake Man perfume oil,OPENING_BALANCE,25,Phase 3 consolidation,Verified current balance
+2026-09-22,OPEN-20260922-022,RM-GUCCI-GUILTY-MEN-A,Gucci Guilty Men perfume oil,OPENING_BALANCE,25,Phase 3 consolidation,Verified current balance
+2026-09-22,OPEN-20260922-023,RM-DG-DEVOTION-A,D&G Devotion perfume oil,OPENING_BALANCE,0,Phase 3 consolidation,Founder-confirmed consumption
+2026-09-22,OPEN-20260922-024,RM-BIANCO-LATTE-A,Bianco Latte perfume oil,OPENING_BALANCE,0,Phase 3 consolidation,Founder-confirmed consumption
+2026-09-22,OPEN-20260922-025,RM-AJMAL-ARISTOCRAT-A,Ajmal Aristocrat perfume oil,OPENING_BALANCE,0,Phase 3 consolidation,Founder-confirmed zero balance
+2026-09-22,OPEN-20260922-026,RM-MUSK-RIJALI-A,Ajmal Musk Rijali Spl perfume oil,OPENING_BALANCE,0,Phase 3 consolidation,Founder-confirmed zero balance
+2026-09-22,OPEN-20260922-027,PK-BOTTLE-50,50 mL Amore full-set bottle,OPENING_BALANCE,33,Phase 3 consolidation,Verified current balance
+2026-09-22,OPEN-20260922-028,PK-BOTTLE-08,Bare 8 mL tester bottle,OPENING_BALANCE,593,Phase 3 consolidation,Verified current balance
+2026-09-22,OPEN-20260922-029,PK-LABEL-50-FINAL,Final 50 mL sticker,OPENING_BALANCE,13,Phase 3 consolidation,Verified current balance
+2026-09-22,OPEN-20260922-030,PK-LABEL-NS-CROWN-08,CROWN 8 mL label,OPENING_BALANCE,10,Phase 3 consolidation,Verified current balance
+2026-09-22,OPEN-20260922-031,PK-LABEL-NS-HIDE-08,HIDE 8 mL label,OPENING_BALANCE,7,Phase 3 consolidation,Verified current balance
+2026-09-22,OPEN-20260922-032,PK-LABEL-NS-MUSK-08,MUSK 8 mL label,OPENING_BALANCE,0,Phase 3 consolidation,Verified current balance
+2026-09-22,OPEN-20260922-033,PK-GLOVES-NITRILE,Nitrile gloves,OPENING_BALANCE,92,Phase 3 consolidation,Estimated current balance
+2026-09-22,SALE-20260922-001,AS-04-50,LAST LOOK 50 mL,SALE,-1,Harshvardhan,"Payment pending; this sale did not fulfil the Shahzar reservation"
+2026-09-22,ADJ-20260922-001,RM-PREMIX,Alcohol plus fixatives premix,ADJUSTMENT,2000,Founder physical measurement,"Establishes current measured balance; no prior ledger opening existed because the balance was unresolved"
+2026-09-22,ADJ-20260922-002,RM-PLAIN-ALCOHOL,Plain perfumer's alcohol,ADJUSTMENT,700,Founder physical measurement,"Establishes current measured balance; no prior ledger opening existed because the balance was unresolved"
+2026-09-22,PROD-20260922-001,RM-TOBACCO-VANILLA-A,Tobacco Vanilla perfume oil,PRODUCTION,-27,TB-P01,27 g weighed for in-progress TOBACCO BLOOM batch
+2026-09-22,PROD-20260922-002,RM-PREMIX,Alcohol plus fixatives premix,PRODUCTION,-123.66,TB-P01,"81 g weighed for in-progress TOBACCO BLOOM batch; converted at recorded 0.655 g/mL density"
+2026-09-22,PROD-20260922-003,AS-02-50,TOBACCO BLOOM 50 mL,PRODUCTION,2,TB-P01,Two bottles reported filled; label status pending
+2026-09-22,PROD-20260922-004,AS-02-08,TOBACCO BLOOM 8 mL,PRODUCTION,3,TB-P01,Three bottles reported filled; label status pending
+2026-09-22,PROD-20260922-005,AS-02-05-TESTER,TOBACCO BLOOM 5 mL tester,PRODUCTION,2,TB-P01,Two tester containers reported filled
+2026-09-22,PROD-20260922-006,PK-BOTTLE-50,50 mL Amore full-set bottle,PRODUCTION,-2,TB-P01,Used for finished bottles
+2026-09-22,PROD-20260922-007,PK-BOTTLE-08,Bare 8 mL tester bottle,PRODUCTION,-3,TB-P01,Used for finished bottles
+2026-09-22,PROD-20260922-008,PK-BOTTLE-08,Bare 8 mL tester bottle,PRODUCTION,-2,TB-P01,Used for two partial 5 mL tester fills
+2026-09-22,PROD-20260922-009,RM-1MILLION-A,1 Million perfume oil,PRODUCTION,-12.5,LL-P03,12.5 g weighed for LAST LOOK batch
+2026-09-22,PROD-20260922-010,RM-PREMIX,Alcohol plus fixatives premix,PRODUCTION,-57.25,LL-P03,"37.5 g weighed for LAST LOOK batch; converted at recorded 0.655 g/mL density"
+2026-09-22,PROD-20260922-011,AS-04-50,LAST LOOK 50 mL,PRODUCTION,1,LL-P03,52 mL filled; reserved for Shahzar; label status pending
+2026-09-22,PROD-20260922-012,AS-04-08,LAST LOOK 8 mL,PRODUCTION,1,LL-P03,8 mL filled; label status pending
+2026-09-22,PROD-20260922-013,PK-BOTTLE-50,50 mL Amore full-set bottle,PRODUCTION,-1,LL-P03,Used for finished bottle
+2026-09-22,PROD-20260922-014,PK-BOTTLE-08,Bare 8 mL tester bottle,PRODUCTION,-1,LL-P03,Used for finished bottle
+2026-09-22,PROD-20260922-015,PK-LABEL-50-FINAL,Final 50 mL sticker,PRODUCTION,-1,LL-P03,Applied to LAST LOOK 50 mL bottle
+2026-09-22,PROD-20260922-016,RM-GUCCI-GUILTY-MEN-A,Gucci Guilty Men perfume oil,PRODUCTION,-25,LC-P01,25 g weighed for LAST CALL batch
+2026-09-22,PROD-20260922-017,RM-PREMIX,Alcohol plus fixatives premix,PRODUCTION,-114.50,LC-P01,"75 g weighed for LAST CALL batch; converted at recorded 0.655 g/mL density"
+2026-09-22,PROD-20260922-018,AS-09-50,LAST CALL 50 mL,PRODUCTION,2,LC-P01,"Two bottles filled; one reserved for Shahzar; final stickers applied"
+2026-09-22,PROD-20260922-019,AS-09-08,LAST CALL 8 mL,PRODUCTION,3,LC-P01,Three bottles filled; label type pending
+2026-09-22,PROD-20260922-020,PK-BOTTLE-50,50 mL Amore full-set bottle,PRODUCTION,-2,LC-P01,Used for finished bottles
+2026-09-22,PROD-20260922-021,PK-BOTTLE-08,Bare 8 mL tester bottle,PRODUCTION,-3,LC-P01,Used for finished bottles
+2026-09-22,PROD-20260922-022,PK-LABEL-50-FINAL,Final 50 mL sticker,PRODUCTION,-2,LC-P01,Applied to LAST CALL 50 mL bottles
+2026-09-22,PROD-20260922-023,PK-LABEL-50-FINAL,Final 50 mL sticker,PRODUCTION,-2,TB-P01,Applied to TOBACCO BLOOM 50 mL bottles
+2026-09-22,PROD-20260922-024,RM-ISSEY-MIYAKE-MAN-A,Issey Miyake Man perfume oil,PRODUCTION,-25,YW-P01,25 g weighed for YUZU WAVE batch
+2026-09-22,PROD-20260922-025,RM-PREMIX,Alcohol plus fixatives premix,PRODUCTION,-114.50,YW-P01,"75 g weighed for YUZU WAVE batch; converted at recorded 0.655 g/mL density"
+2026-09-22,PROD-20260922-026,AS-08-50,YUZU WAVE 50 mL,PRODUCTION,2,YW-P01,Two bottles filled; final sticker status pending
+2026-09-22,PROD-20260922-027,AS-08-08,YUZU WAVE 8 mL,PRODUCTION,3,YW-P01,Three bottles filled; handwritten white labels under current operating rule
+2026-09-22,PROD-20260922-028,PK-BOTTLE-50,50 mL Amore full-set bottle,PRODUCTION,-2,YW-P01,Used for finished bottles
+2026-09-22,PROD-20260922-029,PK-BOTTLE-08,Bare 8 mL tester bottle,PRODUCTION,-3,YW-P01,Used for finished bottles
+2026-09-22,PROD-20260922-030,PK-LABEL-50-FINAL,Final 50 mL sticker,PRODUCTION,-2,YW-P01,Applied to YUZU WAVE 50 mL bottles
+2026-09-22,PROD-20260922-031,RM-OUD-WOOD-A,Oud Wood perfume oil,PRODUCTION,-25,DW-P01,25 g weighed for DARK WOOD batch
+2026-09-22,PROD-20260922-032,RM-PREMIX,Alcohol plus fixatives premix,PRODUCTION,-114.50,DW-P01,"75 g weighed for DARK WOOD batch; converted at recorded 0.655 g/mL density"
+2026-09-22,PROD-20260922-033,AS-05-50,DARK WOOD 50 mL,PRODUCTION,2,DW-P01,Two bottles filled; final stickers applied
+2026-09-22,PROD-20260922-034,AS-05-08,DARK WOOD 8 mL,PRODUCTION,2,DW-P01,Two bottles filled; handwritten white labels applied
+2026-09-22,PROD-20260922-035,AS-05-06-TESTER,DARK WOOD 6 mL tester,PRODUCTION,1,DW-P01,Partial fill in standard 8 mL container; handwritten white label applied
+2026-09-22,PROD-20260922-036,PK-BOTTLE-50,50 mL Amore full-set bottle,PRODUCTION,-2,DW-P01,Used for finished bottles
+2026-09-22,PROD-20260922-037,PK-BOTTLE-08,Bare 8 mL tester bottle,PRODUCTION,-3,DW-P01,Used for finished bottles including partial fill
+2026-09-22,PROD-20260922-038,PK-LABEL-50-FINAL,Final 50 mL sticker,PRODUCTION,-2,DW-P01,Applied to DARK WOOD 50 mL bottles
+2026-09-22,PROD-20260922-039,RM-GUCCI-FLORA-A,Gucci Flora perfume oil,PRODUCTION,-25,SH-P02,25 g weighed for in-progress STILL HERE batch
+2026-09-22,PROD-20260922-040,RM-PREMIX,Alcohol plus fixatives premix,PRODUCTION,-88.55,SH-P02,"58 g weighed for in-progress STILL HERE batch; converted at recorded 0.655 g/mL density"
+2026-09-22,PROD-20260922-041,PK-LABEL-50-FINAL,Final 50 mL sticker,PRODUCTION,-2,SH-P02,"Applied to 30.12% w/w test batch; labels state 25% concentration"
+2026-09-22,PROD-20260922-042,RM-BOMBSHELL-PC,Bombshell perfume oil,PRODUCTION,,GO-P01,"30 mL from Perfume Cartel source; oil density and opening balance were not recorded"
+2026-09-22,PROD-20260922-043,RM-PREMIX,Alcohol plus fixatives premix,PRODUCTION,-109.92,GO-P01,"72 g weighed for GOLDEN ORCHID batch; converted at recorded 0.655 g/mL density"
+2026-09-22,PROD-20260922-044,AS-07-50,GOLDEN ORCHID 50 mL,PRODUCTION,2,GO-P01,"Two bottles filled; standard 25% labels applied, but actual w/w concentration is unverified"
+2026-09-22,PROD-20260922-045,AS-07-08,GOLDEN ORCHID 8 mL,PRODUCTION,3,GO-P01,Three bottles filled; handwritten white labels applied
+2026-09-22,PROD-20260922-046,PK-BOTTLE-50,50 mL Amore full-set bottle,PRODUCTION,-2,GO-P01,Used for finished bottles
+2026-09-22,PROD-20260922-047,PK-BOTTLE-08,Bare 8 mL tester bottle,PRODUCTION,-3,GO-P01,Used for finished bottles
+2026-09-22,PROD-20260922-048,PK-LABEL-50-FINAL,Final 50 mL sticker,PRODUCTION,-2,GO-P01,"Applied to batch with unverified w/w concentration; labels state 25% concentration"
+2026-09-22,PROD-20260922-049,AS-01-50,STILL HERE 50 mL,PRODUCTION,2,SH-P02,"Two bottles filled; standard 25% labels applied to 30.12% w/w batch"
+2026-09-22,PROD-20260922-050,PK-BOTTLE-50,50 mL Amore full-set bottle,PRODUCTION,-2,SH-P02,Used for finished bottles
+2026-09-22,ADJ-20260922-004,PK-LABEL-NS-HIDE-08,HIDE 8 mL label,ADJUSTMENT,5,Founder physical count,"Physical count is 12; prior recorded balance was 7"
+2026-09-22,ADJ-20260922-005,PK-LABEL-NS-EMBER-08,EMBER 8 mL label,ADJUSTMENT,1,Founder physical count,First tracked balance
+2026-09-22,ADJ-20260922-006,PK-LABEL-NS-CLEAN-08,CLEAN 8 mL label,ADJUSTMENT,0,Founder physical count,Physical count confirms zero balance
+2026-09-22,WASTE-20260922-001,PK-GLOVES-NITRILE,Nitrile gloves,OTHER,-2,Today's preparation session,Used during preparation
+2026-09-22,WASTE-20260922-002,RM-PREMIX,Alcohol plus fixatives premix,OTHER,-50,Today's preparation session,Equipment and session wastage
+2026-09-22,WASTE-20260922-003,RM-PLAIN-ALCOHOL,Plain perfumer's alcohol,OTHER,-50,Today's preparation session,Equipment and session wastage
+2026-09-23,GIFT-20260923-001,AS-03-50,FIRST LIGHT 50 mL,GIFT,-1,Founder family gift,Gifted to founder's mother; no revenue or receivable
+2026-09-23,GIFT-20260923-002,AS-06-50,WHITE MUSK 50 mL,GIFT,-1,Founder family gift,Gifted to founder's mother; no revenue or receivable
