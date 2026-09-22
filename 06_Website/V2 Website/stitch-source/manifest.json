@@ -1,0 +1,251 @@
+{
+    "projectName":  "projects/18236276433058826667",
+    "projectTitle":  "AFTERSTORY Fragrance Storefront Concept",
+    "projectUrl":  "https://stitch.withgoogle.com/projects/18236276433058826667",
+    "retrievedAt":  "2026-09-23T02:49:21+05:30",
+    "designTheme":  {
+                        "bodyFont":  "INTER",
+                        "bodyFontFamily":  "Inter",
+                        "colorMode":  "LIGHT",
+                        "colorVariant":  "FIDELITY",
+                        "customColor":  "#111923",
+                        "designMd":  "---\nname: Nocturnal Gallery Editorial\ncolors:\n  surface: \u0027#f9f9fd\u0027\n  surface-dim: \u0027#d9dade\u0027\n  surface-bright: \u0027#f9f9fd\u0027\n  surface-container-lowest: \u0027#ffffff\u0027\n  surface-container-low: \u0027#f3f3f7\u0027\n  surface-container: \u0027#ededf2\u0027\n  surface-container-high: \u0027#e8e8ec\u0027\n  surface-container-highest: \u0027#e2e2e6\u0027\n  on-surface: \u0027#1a1c1f\u0027\n  on-surface-variant: \u0027#44474b\u0027\n  inverse-surface: \u0027#2f3034\u0027\n  inverse-on-surface: \u0027#f0f0f4\u0027\n  outline: \u0027#75777c\u0027\n  outline-variant: \u0027#c5c6cc\u0027\n  surface-tint: \u0027#575f6b\u0027\n  primary: \u0027#000000\u0027\n  on-primary: \u0027#ffffff\u0027\n  primary-container: \u0027#141c26\u0027\n  on-primary-container: \u0027#7c8491\u0027\n  inverse-primary: \u0027#bfc7d5\u0027\n  secondary: \u0027#ac3400\u0027\n  on-secondary: \u0027#ffffff\u0027\n  secondary-container: \u0027#fb6732\u0027\n  on-secondary-container: \u0027#5a1700\u0027\n  tertiary: \u0027#000000\u0027\n  on-tertiary: \u0027#ffffff\u0027\n  tertiary-container: \u0027#051e2b\u0027\n  on-tertiary-container: \u0027#708797\u0027\n  error: \u0027#ba1a1a\u0027\n  on-error: \u0027#ffffff\u0027\n  error-container: \u0027#ffdad6\u0027\n  on-error-container: \u0027#93000a\u0027\n  primary-fixed: \u0027#dbe3f1\u0027\n  primary-fixed-dim: \u0027#bfc7d5\u0027\n  on-primary-fixed: \u0027#141c26\u0027\n  on-primary-fixed-variant: \u0027#3f4753\u0027\n  secondary-fixed: \u0027#ffdbd0\u0027\n  secondary-fixed-dim: \u0027#ffb59d\u0027\n  on-secondary-fixed: \u0027#390b00\u0027\n  on-secondary-fixed-variant: \u0027#832600\u0027\n  tertiary-fixed: \u0027#cee6f8\u0027\n  tertiary-fixed-dim: \u0027#b2cadc\u0027\n  on-tertiary-fixed: \u0027#051e2b\u0027\n  on-tertiary-fixed-variant: \u0027#334958\u0027\n  background: \u0027#f9f9fd\u0027\n  on-background: \u0027#1a1c1f\u0027\n  surface-variant: \u0027#e2e2e6\u0027\ntypography:\n  display-hero:\n    fontFamily: EB Garamond\n    fontSize: 56px\n    fontWeight: \u0027400\u0027\n    lineHeight: 64px\n    letterSpacing: -0.02em\n  display-hero-mobile:\n    fontFamily: EB Garamond\n    fontSize: 36px\n    fontWeight: \u0027400\u0027\n    lineHeight: 44px\n    letterSpacing: -0.01em\n  headline-lg:\n    fontFamily: EB Garamond\n    fontSize: 40px\n    fontWeight: \u0027400\u0027\n    lineHeight: 48px\n    letterSpacing: -0.01em\n  headline-lg-mobile:\n    fontFamily: EB Garamond\n    fontSize: 28px\n    fontWeight: \u0027400\u0027\n    lineHeight: 36px\n    letterSpacing: 0em\n  headline-md:\n    fontFamily: EB Garamond\n    fontSize: 28px\n    fontWeight: \u0027400\u0027\n    lineHeight: 36px\n    letterSpacing: 0em\n  headline-sm:\n    fontFamily: EB Garamond\n    fontSize: 22px\n    fontWeight: \u0027500\u0027\n    lineHeight: 28px\n    letterSpacing: 0em\n  title-editorial:\n    fontFamily: EB Garamond\n    fontSize: 18px\n    fontWeight: \u0027400\u0027\n    lineHeight: 26px\n    letterSpacing: 0.02em\n  body-lg:\n    fontFamily: Inter\n    fontSize: 16px\n    fontWeight: \u0027400\u0027\n    lineHeight: 26px\n    letterSpacing: -0.01em\n  body-md:\n    fontFamily: Inter\n    fontSize: 14px\n    fontWeight: \u0027400\u0027\n    lineHeight: 22px\n    letterSpacing: 0em\n  body-sm:\n    fontFamily: Inter\n    fontSize: 12px\n    fontWeight: \u0027400\u0027\n    lineHeight: 18px\n    letterSpacing: 0.01em\n  label-caps:\n    fontFamily: Inter\n    fontSize: 11px\n    fontWeight: \u0027600\u0027\n    lineHeight: 16px\n    letterSpacing: 0.08em\n  price-num:\n    fontFamily: Inter\n    fontSize: 15px\n    fontWeight: \u0027500\u0027\n    lineHeight: 20px\n    letterSpacing: -0.01em\nspacing:\n  gutter: 1.5rem\n  gutter-mobile: 1rem\n  margin: 3rem\n  margin-mobile: 1.25rem\n  space-xs: 0.25rem\n  space-sm: 0.5rem\n  space-md: 1rem\n  space-lg: 1.5rem\n  space-xl: 2.5rem\n  space-2xl: 4rem\n  space-3xl: 6rem\n---\n\n## Brand \u0026 Style\n\nThis design system establishes an atmospheric, literary visual language modeled after contemporary nocturnal photography galleries. It rejects traditional perfume tropesâ€”there are no ornate filigrees, faux-vintage labels, gold foils, or warm organic papers. The aesthetic is cool, restrained, and deliberate: clinical precision framing evocative olfactive poetry.\n\nThe emotional experience balances the contemplative quiet of late-night art spaces with the effortless frictionlessness of top-tier modern digital commerce. Layouts prioritize generous spatial rhythm, absolute contrast, and razor-sharp structural lines over decorative embellishments. Interface elements remain silent until needed, permitting photography, prose, and scent compositions to command attention.\n\n## Colors\n\nThe system uses an intentional dual-canvas approach:\n- **Canvas Base:** Cool White (`#F7F9FA`) serves as the primary canvas for catalog browsing, product detail exploration, checkout, and general editorial reading.\n- **Deep Nocturnal Surfaces:** Midnight (`#111923`) anchors immersive narrative chapters, hero viewports, interactive olfactive pyramids, and footers. Slate (`#23313C`) is used for secondary structural framing, drawers, and nested panels within nocturnal zones.\n- **Typography \u0026 Structure:** Near-Black (`#17191C`) delivers razor-sharp legibility on light fields, while Steel Blue (`#839AAB`) supports secondary data, technical specifications, scent notes, and architectural dividers.\n- **Signal Accent:** Ember Orange (`#FF6A35`) is restricted to strictly ~5% surface presenceâ€”reserved exclusively for primary purchase triggers, active state indicators, and editorial badges. Text overlaid on Ember Orange surfaces must always resolve to Near-Black (`#17191C`) for uncompromising contrast and optical punch.\n\nIvory, beige, tan, brown, gold, gradients, and paper skeuomorphism are strictly prohibited across all surfaces.\n\n## Typography\n\nThe typographic hierarchy implements an intentional dialogue between literary romance and functional clarity:\n- **Display \u0026 Headings:** `EB Garamond` introduces a contemplative, editorial cadence. Use roman styling predominantly; reserve italics for scent notes, olfactive excerpts, and literary quotations.\n- **Operational UI \u0026 Product Data:** `Inter` handles prices, navigational targets, checkout forms, ingredient tables, and microcopy. Its utilitarian precision ensures instant legibility and anchors the high-end retail experience.\n- **Labels \u0026 Metatags:** Render categorical indicators, chapter counts, notes (e.g., \"BASE NOTES\", \"50 ML / 1.7 FL OZ\"), and filter toggles in `label-caps` with uppercase styling and expanded tracking (+0.08em).\n\n## Layout \u0026 Spacing\n\nThe structural layout relies on a strict 12-column grid on desktop screens (max width `1440px`), collapsing to 6 columns on tablet devices (`768px - 1023px`), and 4 columns on mobile viewports (`\u003c768px`).\n\nGrid margins expand dynamically to create breathing room around hero imagery and scent essays, evoking the curated isolation of fine-art photography prints:\n- Desktop sections utilize `margin` (3rem) with wide internal section breaks (`space-3xl`).\n- Elements within cards and lists align precisely to the structural gutter lines, avoiding offset padding that disrupts visual vertical axes.\n- Tap targets on mobile retain minimum 44px active heights while maintaining an optical profile governed strictly by `space-sm` and `space-md` internal padding.\n\n## Elevation \u0026 Depth\n\nThis system avoids ambient drop shadows, blurred glows, and stacked elevation tiers. Visual structure is articulated entirely through crisp structural delineation, contrast, and depth-of-field:\n\n- **Borders \u0026 Dividers:** 1px hairline rules defined by Slate (`#23313C`) against dark surfaces and Steel Blue at 30% opacity (`rgba(131, 154, 171, 0.3)`) against light surfaces provide the singular structural framework.\n- **Overlays \u0026 Drawers:** Modal sheets, quick-view flyouts, and the cart drawer utilize solid opaque backgrounds (Midnight `#111923` or Cool White `#F7F9FA`) framed with a razor-thin 1px perimeter outline.\n- **Layering:** Visual prominence is achieved through scale, stark contrast, and negative space rather than physical depth metaphors.\n\n## Shapes\n\nThe design system enforces a sharp geometric radius (`0px`). All buttons, input boxes, product cards, dialogue panels, and category chips possess uncompromising 90-degree corners.\n\nThis architectural sharpness reflects modern gallery architecture, photographic matting, and the monolithic silhouette of luxury glass flacons. Pill-shaped buttons, circular pill tags, and rounded container corners are strictly forbidden.\n\n## Components\n\n### Buttons\n- **Primary CTA (\"Add to Bag\", \"Complete Purchase\"):** Solid Ember Orange (`#FF6A35`) fill, sharp corners (0px), text set in `Near-Black` (`#17191C`) Inter 13px uppercase with 0.08em letter spacing. Hover state transitions background color subtly to `#E85B28`. No shadows or outlines.\n- **Secondary CTA (\"Explore Chapter\", \"Discover Formulation\"):** Transparent fill with 1px border. On light surfaces, border is Near-Black (`#17191C`); on Midnight surfaces, border is Cool White (`#F7F9FA`). Text matches border color. Hover shifts surface to a solid inverted fill.\n- **Tertiary / Inline Actions:** Underlined text links using 1px stroke set 4px beneath the baseline, with hover shifting link color from Near-Black to Ember Orange.\n\n### Inputs \u0026 Select Fields\n- Form inputs feature a transparent background with a crisp 1px bottom border in Slate or Steel Blue. Active/focused inputs transition the bottom border to Ember Orange (`#FF6A35`) without a halo or focus ring.\n- Labels sit above input fields in `label-caps` in Steel Blue (`#839AAB`), persisting in place rather than floating.\n\n### Chips \u0026 Product Filtering\n- Selection chips (e.g., volume sizes \"50 ML\", \"100 ML\", olfactive family toggles) are flat rectangular bounding boxes with 1px hairline borders.\n- Default state: Unselected chips feature transparent backgrounds and Steel Blue borders with Near-Black or Cool White text.\n- Active/Selected state: Solid Near-Black (`#17191C`) fill with Cool White text on light canvas; solid Cool White fill with Near-Black text on nocturnal surfaces.\n\n### Cards \u0026 Catalog Modules\n- **Product Card:** Borderless imagery floating directly on the Cool White canvas. Image frame ratio is 3:4. Scent name renders in `headline-sm` EB Garamond; volume, key notes, and price render in Inter `body-sm` and `price-num`. The card displays a persistent or quiet reveal on hover: a secondary lifestyle photograph replaces the packshot, accompanied by a razor-thin 1px top border above the purchase action.\n- **Editorial Card:** Framing scent origin stories or archival photographs with an intentional 1px Slate border on Midnight panels.\n\n### Fragrance Note Pyramid \u0026 Accord Indicators\n- A bespoke component representing Top, Heart, and Base notes via a disciplined horizontal rule layout. Each tier is delineated by a 1px hairline border, marked with a `label-caps` prefix in Steel Blue, followed by ingredients in EB Garamond italic.\n- Interactive accord sliders render as a minimalist 1px track in Slate with a solid 2px Ember Orange square thumb denoting note dominance.\n\n### Checkboxes \u0026 Radios\n- Square 14px boxes with 0px radius and 1px border. Selected state shows a filled Ember Orange interior with an inset 2px border gap in the canvas color.",
+                        "font":  "EB_GARAMOND",
+                        "headlineFont":  "EB_GARAMOND",
+                        "headlineFontFamily":  "EB Garamond",
+                        "labelFont":  "INTER",
+                        "labelFontFamily":  "Inter",
+                        "namedColors":  {
+                                            "background":  "#f9f9fd",
+                                            "error":  "#ba1a1a",
+                                            "error_container":  "#ffdad6",
+                                            "inverse_on_surface":  "#f0f0f4",
+                                            "inverse_primary":  "#bfc7d5",
+                                            "inverse_surface":  "#2f3034",
+                                            "on_background":  "#1a1c1f",
+                                            "on_error":  "#ffffff",
+                                            "on_error_container":  "#93000a",
+                                            "on_primary":  "#ffffff",
+                                            "on_primary_container":  "#7c8491",
+                                            "on_primary_fixed":  "#141c26",
+                                            "on_primary_fixed_variant":  "#3f4753",
+                                            "on_secondary":  "#ffffff",
+                                            "on_secondary_container":  "#5a1700",
+                                            "on_secondary_fixed":  "#390b00",
+                                            "on_secondary_fixed_variant":  "#832600",
+                                            "on_surface":  "#1a1c1f",
+                                            "on_surface_variant":  "#44474b",
+                                            "on_tertiary":  "#ffffff",
+                                            "on_tertiary_container":  "#708797",
+                                            "on_tertiary_fixed":  "#051e2b",
+                                            "on_tertiary_fixed_variant":  "#334958",
+                                            "outline":  "#75777c",
+                                            "outline_variant":  "#c5c6cc",
+                                            "primary":  "#000000",
+                                            "primary_container":  "#141c26",
+                                            "primary_fixed":  "#dbe3f1",
+                                            "primary_fixed_dim":  "#bfc7d5",
+                                            "secondary":  "#ac3400",
+                                            "secondary_container":  "#fb6732",
+                                            "secondary_fixed":  "#ffdbd0",
+                                            "secondary_fixed_dim":  "#ffb59d",
+                                            "surface":  "#f9f9fd",
+                                            "surface_bright":  "#f9f9fd",
+                                            "surface_container":  "#ededf2",
+                                            "surface_container_high":  "#e8e8ec",
+                                            "surface_container_highest":  "#e2e2e6",
+                                            "surface_container_low":  "#f3f3f7",
+                                            "surface_container_lowest":  "#ffffff",
+                                            "surface_dim":  "#d9dade",
+                                            "surface_tint":  "#575f6b",
+                                            "surface_variant":  "#e2e2e6",
+                                            "tertiary":  "#000000",
+                                            "tertiary_container":  "#051e2b",
+                                            "tertiary_fixed":  "#cee6f8",
+                                            "tertiary_fixed_dim":  "#b2cadc"
+                                        },
+                        "overrideNeutralColor":  "#17191c",
+                        "overridePrimaryColor":  "#111923",
+                        "overrideSecondaryColor":  "#ff6a35",
+                        "overrideTertiaryColor":  "#839aab",
+                        "spacing":  {
+                                        "gutter":  "1.5rem",
+                                        "gutter-mobile":  "1rem",
+                                        "margin":  "3rem",
+                                        "margin-mobile":  "1.25rem",
+                                        "space-2xl":  "4rem",
+                                        "space-3xl":  "6rem",
+                                        "space-lg":  "1.5rem",
+                                        "space-md":  "1rem",
+                                        "space-sm":  "0.5rem",
+                                        "space-xl":  "2.5rem",
+                                        "space-xs":  "0.25rem"
+                                    },
+                        "spacingScale":  2,
+                        "typography":  {
+                                           "body-lg":  {
+                                                           "fontFamily":  "Inter",
+                                                           "fontSize":  "16px",
+                                                           "fontWeight":  "400",
+                                                           "letterSpacing":  "-0.01em",
+                                                           "lineHeight":  "26px"
+                                                       },
+                                           "body-md":  {
+                                                           "fontFamily":  "Inter",
+                                                           "fontSize":  "14px",
+                                                           "fontWeight":  "400",
+                                                           "letterSpacing":  "0em",
+                                                           "lineHeight":  "22px"
+                                                       },
+                                           "body-sm":  {
+                                                           "fontFamily":  "Inter",
+                                                           "fontSize":  "12px",
+                                                           "fontWeight":  "400",
+                                                           "letterSpacing":  "0.01em",
+                                                           "lineHeight":  "18px"
+                                                       },
+                                           "display-hero":  {
+                                                                "fontFamily":  "EB Garamond",
+                                                                "fontSize":  "56px",
+                                                                "fontWeight":  "400",
+                                                                "letterSpacing":  "-0.02em",
+                                                                "lineHeight":  "64px"
+                                                            },
+                                           "display-hero-mobile":  {
+                                                                       "fontFamily":  "EB Garamond",
+                                                                       "fontSize":  "36px",
+                                                                       "fontWeight":  "400",
+                                                                       "letterSpacing":  "-0.01em",
+                                                                       "lineHeight":  "44px"
+                                                                   },
+                                           "headline-lg":  {
+                                                               "fontFamily":  "EB Garamond",
+                                                               "fontSize":  "40px",
+                                                               "fontWeight":  "400",
+                                                               "letterSpacing":  "-0.01em",
+                                                               "lineHeight":  "48px"
+                                                           },
+                                           "headline-lg-mobile":  {
+                                                                      "fontFamily":  "EB Garamond",
+                                                                      "fontSize":  "28px",
+                                                                      "fontWeight":  "400",
+                                                                      "letterSpacing":  "0em",
+                                                                      "lineHeight":  "36px"
+                                                                  },
+                                           "headline-md":  {
+                                                               "fontFamily":  "EB Garamond",
+                                                               "fontSize":  "28px",
+                                                               "fontWeight":  "400",
+                                                               "letterSpacing":  "0em",
+                                                               "lineHeight":  "36px"
+                                                           },
+                                           "headline-sm":  {
+                                                               "fontFamily":  "EB Garamond",
+                                                               "fontSize":  "22px",
+                                                               "fontWeight":  "500",
+                                                               "letterSpacing":  "0em",
+                                                               "lineHeight":  "28px"
+                                                           },
+                                           "label-caps":  {
+                                                              "fontFamily":  "Inter",
+                                                              "fontSize":  "11px",
+                                                              "fontWeight":  "600",
+                                                              "letterSpacing":  "0.08em",
+                                                              "lineHeight":  "16px"
+                                                          },
+                                           "price-num":  {
+                                                             "fontFamily":  "Inter",
+                                                             "fontSize":  "15px",
+                                                             "fontWeight":  "500",
+                                                             "letterSpacing":  "-0.01em",
+                                                             "lineHeight":  "20px"
+                                                         },
+                                           "title-editorial":  {
+                                                                   "fontFamily":  "EB Garamond",
+                                                                   "fontSize":  "18px",
+                                                                   "fontWeight":  "400",
+                                                                   "letterSpacing":  "0.02em",
+                                                                   "lineHeight":  "26px"
+                                                               }
+                                       }
+                    },
+    "screens":  [
+                    {
+                        "id":  "86f97534746e48e5ad6822b62410b9f4",
+                        "title":  "AFTERSTORY â€” Tobacco Bloom Product Page",
+                        "deviceType":  "MOBILE",
+                        "width":  "780",
+                        "height":  "4890",
+                        "codeFile":  "stitch-source/code/tobacco-bloom-product.html",
+                        "previewFile":  "stitch-source/previews/tobacco-bloom-product.png",
+                        "codeUrl":  "https://contribution.usercontent.google.com/download?c=CgthaWRhX2NvZGVmeBJ8Eh1hcHBfY29tcGFuaW9uX2dlbmVyYXRlZF9maWxlcxpbCiVodG1sXzAwMDY1YzE4ODdiYzM4NTkwODlhZjVhNGIzMDBiZWQ5EgsSBxDM3pjG9BsYAZIBJAoKcHJvamVjdF9pZBIWQhQxODIzNjI3NjQzMzA1ODgyNjY2Nw\u0026filename=\u0026opi=89354086",
+                        "imageUrl":  "https://lh3.googleusercontent.com/aida/AEtjO1VUcN4a6AchINrrCRWPqVNp_a9Wj73MHXb3_OTKjTIsFHqlqnfuST96b0loAaomrqdD4SdtmMPnSHfXZM3nnFbPXPB-97MPIHX6TvMmPp9OAAUfWcHvhdYGignMS7GZHLNySkTxznoxQhzDVXKMMXSV0WHA5Ank7FwqCZr8PkPdzuj2RS3hf0Kz3lhgueHZAjtSFIyW_dGPLcglr7ME3zWMp6oryvydzVCj_bPuVDLj_KudcBCWQZZxQZxl"
+                    },
+                    {
+                        "id":  "cf79ab35335b4e678931a66550bc811f",
+                        "title":  "AFTERSTORY â€” Cart \u0026 Direct Checkout",
+                        "deviceType":  "MOBILE",
+                        "width":  "780",
+                        "height":  "3918",
+                        "codeFile":  "stitch-source/code/cart-checkout.html",
+                        "previewFile":  "stitch-source/previews/cart-checkout.png",
+                        "codeUrl":  "https://contribution.usercontent.google.com/download?c=CgthaWRhX2NvZGVmeBJ8Eh1hcHBfY29tcGFuaW9uX2dlbmVyYXRlZF9maWxlcxpbCiVodG1sXzAwMDY1YzE4ODZmZDA5NmIwMzM4NWM2MTYyMTQ1ZTUxEgsSBxDM3pjG9BsYAZIBJAoKcHJvamVjdF9pZBIWQhQxODIzNjI3NjQzMzA1ODgyNjY2Nw\u0026filename=\u0026opi=89354086",
+                        "imageUrl":  "https://lh3.googleusercontent.com/aida/AEtjO1U9ahRl-6JoH8hQNumx5RB7TT-YpEBhrKaidexiwmSykY1O7iAXOjBRz2Gfsw6sCcBN9SN2Bc0wSXuVOC40KRe6eJmj0yn7wuhcFdKvTk_rrnq3QHTFG4kg_MGr_Crx1GchodZi4md-DcurSlKtAhdmqNU98H9759sZzetkgQM0HXVrPvkUbBwjIIM3YwPLu69c2XcYxj5nr95MNXpFvdhNnBn7c6GasyxnKTs04c_6uBKYkVtArO-dNQ3l"
+                    },
+                    {
+                        "id":  "fef8f78cb9824e1899b63f387dd1dcdf",
+                        "title":  "Minimalist luxury perfume bottle on a cool dark slate stone pedestal in a contemporary photography gallery at night. Sleek rectangular glass bottle with minimalist white and black typography label reading \u0027TOBACCO BLOOM - CHAPTER 02\u0027. Deep directional moonlight and soft shadow, atmospheric dark midnight blue background #111923, amber warm glow inside the fragrance liquid, cinematic quiet mood.",
+                        "deviceType":  null,
+                        "width":  "896",
+                        "height":  "1200",
+                        "codeFile":  null,
+                        "previewFile":  "stitch-source/previews/tobacco-bloom-concept-image.jpg",
+                        "codeUrl":  null,
+                        "imageUrl":  "https://lh3.googleusercontent.com/aida/AEtjO1UVWa6pzx27eXPFf2f03Ne2QxlmoJT2Tb2BQkIA02XUxolE3eSopAVjtHWKeLaWAI4k7MHu3hdfEUX-AqEdB0u58mF13CIk9V1i_yQxpPwIF6M-qOzFC8NrM6pP0SEmm9wbUPX7rCX6Tc21gjCAP3YVVQg9SCxXC6SjLLTauNuQoOTPx9eDrHj7sgcQYChVDovhX48oxpbx96-ir5Rl3DhxD5ruqwmSkIN2SkqerdVhru1cXw0Vtu6mXI8"
+                    },
+                    {
+                        "id":  "ed7259f299e54b0b970ce94d5f92384e",
+                        "title":  "AFTERSTORY â€” 13-Chapter Collection",
+                        "deviceType":  "MOBILE",
+                        "width":  "792",
+                        "height":  "8230",
+                        "codeFile":  "stitch-source/code/collection-13-chapters.html",
+                        "previewFile":  "stitch-source/previews/collection-13-chapters.png",
+                        "codeUrl":  "https://contribution.usercontent.google.com/download?c=CgthaWRhX2NvZGVmeBJ8Eh1hcHBfY29tcGFuaW9uX2dlbmVyYXRlZF9maWxlcxpbCiVodG1sXzAwMDY1YzE4ODljNmFjMGQwMjJkNmFkMGU0MjI4NmM4EgsSBxDM3pjG9BsYAZIBJAoKcHJvamVjdF9pZBIWQhQxODIzNjI3NjQzMzA1ODgyNjY2Nw\u0026filename=\u0026opi=89354086",
+                        "imageUrl":  "https://lh3.googleusercontent.com/aida/AEtjO1XVz-roNTDtIIadXonfV2dqBe5Ya-YwkuK90NRe_L2fcX5eG6OupHyEC460on53htkb_9Jqrm24ir5gwnHl7LDnGOiHJca6vMHr0TXpX0AkmTrmrS-AaL-0HZ-7JE2Ug9Y8XmV-RAhX1OcRTb4LN0W9mCsDZnAybpVw6fQHDLJHcDn3Co54VY_FlbreMkgRkFF9gswuGeq9SR6baEWUqhecrMV6LpA52nMXxKYHP7Ufgp79Ca5UrJxprBg"
+                    },
+                    {
+                        "id":  "a38386bae2e54d839d5e13ee273165e9",
+                        "title":  "Fragrance E-Commerce Flow",
+                        "deviceType":  "MOBILE",
+                        "width":  "390",
+                        "height":  "884",
+                        "codeFile":  "stitch-source/code/fragrance-ecommerce-prototype.html",
+                        "previewFile":  null,
+                        "codeUrl":  "https://contribution.usercontent.google.com/download?c=CgthaWRhX2NvZGVmeBJ8Eh1hcHBfY29tcGFuaW9uX2dlbmVyYXRlZF9maWxlcxpbCiVodG1sXzAwMDY1YzE4OGUwNDA5NjgwNzc5YWU2ZmM2MjM5NTk4EgsSBxDM3pjG9BsYAZIBJAoKcHJvamVjdF9pZBIWQhQxODIzNjI3NjQzMzA1ODgyNjY2Nw\u0026filename=\u0026opi=89354086",
+                        "imageUrl":  null
+                    },
+                    {
+                        "id":  "af679b244f8e4f77b9f18795e56eb174",
+                        "title":  "AFTERSTORY â€” Mobile Homepage",
+                        "deviceType":  "MOBILE",
+                        "width":  "792",
+                        "height":  "6918",
+                        "codeFile":  "stitch-source/code/mobile-homepage.html",
+                        "previewFile":  "stitch-source/previews/mobile-homepage.png",
+                        "codeUrl":  "https://contribution.usercontent.google.com/download?c=CgthaWRhX2NvZGVmeBJ8Eh1hcHBfY29tcGFuaW9uX2dlbmVyYXRlZF9maWxlcxpbCiVodG1sXzAwMDY1YzE4ODc4MDNjNTUwODlhZjVhNGIzMDBiZWQ5EgsSBxDM3pjG9BsYAZIBJAoKcHJvamVjdF9pZBIWQhQxODIzNjI3NjQzMzA1ODgyNjY2Nw\u0026filename=\u0026opi=89354086",
+                        "imageUrl":  "https://lh3.googleusercontent.com/aida/AEtjO1Uhy02t__csHGmyPi0SOqD4Tcv8k3MG7SuNvFwjoMhhVJHZZPSREyAVwcM4Hf32IUyFn3KFd5kK7Kzu6pjH9G2rlPuweUFG-PuBkSbAHervqWHgFMQqaSuKJYWw81l2o0MuHvt92RZhgZ635z3NW88Fi1HnIG-AeXacx5VH22VRMZnOB71SLHaa5FSycGqQsCFfBLFP78eAnIcO-h5iZH1jHvGbttZ2XdFvSAO2M1kHPZaCBhjC4_f2tLw0"
+                    },
+                    {
+                        "id":  "7d0eed12437b410cbee8d63a612075a6",
+                        "title":  "AFTERSTORY Logo Mark",
+                        "deviceType":  null,
+                        "width":  "240",
+                        "height":  "40",
+                        "codeFile":  "stitch-source/code/afterstory-logo-mark.svg",
+                        "previewFile":  "stitch-source/previews/afterstory-logo-mark.png",
+                        "codeUrl":  "https://contribution.usercontent.google.com/download?c=CgthaWRhX2NvZGVmeBJ8Eh1hcHBfY29tcGFuaW9uX2dlbmVyYXRlZF9maWxlcxpbCiVodG1sXzAwMDY1YzE4ODI3NTA5ZWUwMzM4NWM5NjE4MzZmMzZkEgsSBxDM3pjG9BsYAZIBJAoKcHJvamVjdF9pZBIWQhQxODIzNjI3NjQzMzA1ODgyNjY2Nw\u0026filename=\u0026opi=89354086",
+                        "imageUrl":  "https://lh3.googleusercontent.com/aida/AEtjO1Uaoi6BiFpWvs75VebpNTyR6cjzlkZ6FboZ7Btpsygq41g5Iriyqrbky8D-dGpFLe2slvJ4dUC91sCh6vN3Nxkq4z9zZH30zWnArUSKbtjKVPc61OD5X5eEXCz4MnCLBOxhHzFuZDkihc12rX9lMghsGKkAzfi3DaXG-QnNj1VdMR9a5YhkVFfsDIMcGqwpl4EZ-wY2QLBjTjmfHVmsEd4GZxFZxNzHLCVqHN5eJDsDZMWHGJBofJuI2XPx"
+                    }
+                ]
+}

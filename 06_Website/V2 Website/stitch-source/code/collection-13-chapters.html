@@ -1,0 +1,403 @@
+<!DOCTYPE html>
+
+<html lang="en"><head><meta charset="utf-8"/><meta content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no, viewport-fit=cover" name="viewport"/><meta content="mobile_tab" name="shell-type"/><link href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@20..48,100..700,0..1,-50..200" rel="stylesheet"/><link href="https://fonts.googleapis.com" rel="preconnect"/><link crossorigin="" href="https://fonts.gstatic.com" rel="preconnect"/><link href="https://fonts.googleapis.com/css2?family=EB+Garamond:ital,wght@0,400;0,500;1,400&amp;family=Inter:wght@400;500;600&amp;display=swap" rel="stylesheet"/>
+<link href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:wght,FILL@100..700,0..1&amp;display=swap" rel="stylesheet"/><style>@layer base{html,body{width:100vw;margin:0;padding:0;}body{overscroll-behavior:none;}.pb-safe{padding-bottom:env(safe-area-inset-bottom,0px);}.pt-safe{padding-top:env(safe-area-inset-top,0px);}main>:first-child{margin-top:0!important;}main>:last-child{margin-bottom:0!important;}}::-webkit-scrollbar{display:none;}</style><script src="https://cdn.tailwindcss.com"></script><script id="tailwind-config">tailwind.config = { darkMode: "class", theme: { extend: { "colors": { "primary-fixed-dim": "#bfc7d5", "on-secondary-fixed": "#390b00", "tertiary": "#000000", "tertiary-fixed-dim": "#b2cadc", "secondary-fixed": "#ffdbd0", "on-background": "#1a1c1f", "surface": "#f9f9fd", "outline": "#75777c", "on-surface-variant": "#44474b", "surface-container": "#ededf2", "surface-bright": "#f9f9fd", "error-container": "#ffdad6", "surface-tint": "#575f6b", "on-secondary-fixed-variant": "#832600", "secondary-container": "#fb6732", "surface-container-highest": "#e2e2e6", "on-tertiary-container": "#708797", "on-secondary-container": "#5a1700", "inverse-on-surface": "#f0f0f4", "primary-fixed": "#dbe3f1", "on-error": "#ffffff", "outline-variant": "#c5c6cc", "tertiary-fixed": "#cee6f8", "primary-container": "#141c26", "on-error-container": "#93000a", "surface-container-low": "#f3f3f7", "on-surface": "#1a1c1f", "secondary-fixed-dim": "#ffb59d", "on-tertiary-fixed-variant": "#334958", "error": "#ba1a1a", "background": "#f9f9fd", "on-primary-container": "#7c8491", "surface-container-lowest": "#ffffff", "inverse-primary": "#bfc7d5", "on-tertiary": "#ffffff", "on-primary-fixed": "#141c26", "primary": "#000000", "on-primary-fixed-variant": "#3f4753", "surface-variant": "#e2e2e6", "inverse-surface": "#2f3034", "secondary": "#ac3400", "surface-container-high": "#e8e8ec", "surface-dim": "#d9dade", "on-tertiary-fixed": "#051e2b", "on-primary": "#ffffff", "tertiary-container": "#051e2b", "on-secondary": "#ffffff" }, "borderRadius": { "DEFAULT": "0.25rem", "lg": "0.5rem", "xl": "0.75rem", "full": "9999px" }, "spacing": { "space-md": "1rem", "margin-mobile": "1.25rem", "space-3xl": "6rem", "margin": "3rem", "gutter": "1.5rem", "space-lg": "1.5rem", "gutter-mobile": "1rem", "space-xs": "0.25rem", "space-2xl": "4rem", "space-sm": "0.5rem", "space-xl": "2.5rem" }, "fontFamily": { "price-num": ["Inter"], "body-md": ["Inter"], "body-sm": ["Inter"], "headline-lg-mobile": ["EB Garamond"], "title-editorial": ["EB Garamond"], "label-caps": ["Inter"], "display-hero": ["EB Garamond"], "headline-sm": ["EB Garamond"], "display-hero-mobile": ["EB Garamond"], "headline-lg": ["EB Garamond"], "headline-md": ["EB Garamond"], "body-lg": ["Inter"] }, "fontSize": { "price-num": ["15px", {"lineHeight": "20px", "letterSpacing": "-0.01em", "fontWeight": "500"}], "body-md": ["14px", {"lineHeight": "22px", "letterSpacing": "0em", "fontWeight": "400"}], "body-sm": ["12px", {"lineHeight": "18px", "letterSpacing": "0.01em", "fontWeight": "400"}], "headline-lg-mobile": ["28px", {"lineHeight": "36px", "letterSpacing": "0em", "fontWeight": "400"}], "title-editorial": ["18px", {"lineHeight": "26px", "letterSpacing": "0.02em", "fontWeight": "400"}], "label-caps": ["11px", {"lineHeight": "16px", "letterSpacing": "0.08em", "fontWeight": "600"}], "display-hero": ["56px", {"lineHeight": "64px", "letterSpacing": "-0.02em", "fontWeight": "400"}], "headline-sm": ["22px", {"lineHeight": "28px", "letterSpacing": "0em", "fontWeight": "500"}], "display-hero-mobile": ["36px", {"lineHeight": "44px", "letterSpacing": "-0.01em", "fontWeight": "400"}], "headline-lg": ["40px", {"lineHeight": "48px", "letterSpacing": "-0.01em", "fontWeight": "400"}], "headline-md": ["28px", {"lineHeight": "36px", "letterSpacing": "0em", "fontWeight": "400"}], "body-lg": ["16px", {"lineHeight": "26px", "letterSpacing": "-0.01em", "fontWeight": "400"}] } } } }</script><style>
+    body {
+      min-height: max(884px, 100dvh);
+    }
+  </style>
+  </head><body class="bg-surface text-on-surface font-body-md text-body-md flex flex-col min-h-screen"><header class="fixed top-0 w-full z-50 pt-safe bg-tertiary-container/95 backdrop-blur-xl shadow-[0_1px_8px_rgba(0,0,0,0.08)]"><div class="h-16 px-margin-mobile flex items-center justify-between"><div class="flex items-center gap-space-sm"><img alt="AFTERSTORY Logo Mark" class="h-8 w-auto object-contain" src="https://lh3.googleusercontent.com/aida/AEtjO1VE9aWdVOCWCgG4rShzE8QjN-5uhy0gVK6bBR66W84DviDsVVmOk83p1vhC-qjx-cm7WebV5w2bkze9L6miFyXDdv1rGVjdnHstcdL3RJAWWP1LMEpdwDytYP759vhk1J_3Sf7HdjHiG9FZza2Z_2Yri6BuwD_t2lmFBb7JpXeqmMN8byri4xVthj8Y0JUeRBHUqCaQDykrRncsM6M2jp6nshMIOnBPHOaGIdwGgAKOUAsYIBcXHlwHHqCo"/><span class="font-label-caps text-label-caps uppercase tracking-widest text-surface-container-lowest">AFTERSTORY</span><span class="font-body-sm text-body-sm text-on-primary-container px-space-xs">/</span><span class="font-headline-sm text-headline-sm text-surface-container-lowest italic">Catalog</span></div><div class="flex items-center gap-space-md"><nav class="hidden sm:flex items-center gap-space-md" data-active-classes="text-secondary-container"><a aria-current="page" class="font-label-caps uppercase tracking-wider min-h-[44px] inline-flex items-center text-secondary-container" data-path="catalog" href="#">Shop</a><a class="font-label-caps text-label-caps uppercase tracking-wider text-on-primary-container hover:text-surface-container-lowest min-h-[44px] inline-flex items-center" data-path="our-story" href="#">Our Story</a><a class="font-label-caps text-label-caps uppercase tracking-wider text-on-primary-container hover:text-surface-container-lowest min-h-[44px] inline-flex items-center" data-path="shopping-cart" href="#">Cart (1)</a></nav><div class="w-8 h-8 rounded-full bg-primary flex items-center justify-center"><span class="material-symbols-outlined text-on-primary text-[18px]">person</span></div></div></div></header><main class="flex-1 w-full bg-surface pt-16 flex flex-col"><div class="flex flex-col w-full">
+<div class="px-margin-mobile pt-space-md pb-space-lg flex flex-col gap-space-md bg-surface-bright">
+<div class="flex flex-col gap-space-xs">
+<span class="font-label-caps text-label-caps uppercase text-on-tertiary-container tracking-widest">Compendium · Series 01</span>
+<h1 class="font-headline-lg-mobile text-headline-lg-mobile text-on-surface">The Collection</h1>
+<p class="font-body-md text-body-md text-on-surface-variant max-w-sm">
+        Thirteen olfactory chapters. Extrait de Parfum crafted in limited small batches.
+      </p>
+</div>
+<div class="relative w-full pt-space-xs">
+<div class="relative flex items-center bg-surface-container-low px-space-md py-space-sm rounded">
+<span class="material-symbols-outlined text-[18px] text-on-tertiary-container mr-space-sm">search</span>
+<input class="w-full bg-transparent font-body-sm text-body-sm text-on-surface placeholder:text-on-tertiary-container focus:outline-none" id="collection-search" placeholder="Search fragrance or notes..." type="text"/>
+<button class="hidden text-on-tertiary-container hover:text-on-surface" id="clear-search">
+<span class="material-symbols-outlined text-[16px]">close</span>
+</button>
+</div>
+</div>
+<div class="flex items-center gap-space-xs overflow-x-auto no-scrollbar -mx-margin-mobile px-margin-mobile pt-space-xs pb-space-xs" id="filter-container">
+<button class="filter-chip whitespace-nowrap px-space-md py-space-xs bg-primary text-on-primary font-label-caps text-label-caps uppercase tracking-wider rounded" data-filter="all">
+        All (13)
+      </button>
+<button class="filter-chip whitespace-nowrap px-space-md py-space-xs bg-surface-container text-on-surface-variant hover:text-on-surface font-label-caps text-label-caps uppercase tracking-wider rounded" data-filter="woods">
+        Warm Woods
+      </button>
+<button class="filter-chip whitespace-nowrap px-space-md py-space-xs bg-surface-container text-on-surface-variant hover:text-on-surface font-label-caps text-label-caps uppercase tracking-wider rounded" data-filter="citrus">
+        Citrus &amp; Florals
+      </button>
+<button class="filter-chip whitespace-nowrap px-space-md py-space-xs bg-surface-container text-on-surface-variant hover:text-on-surface font-label-caps text-label-caps uppercase tracking-wider rounded" data-filter="musk">
+        Musk &amp; Amber
+      </button>
+<button class="filter-chip whitespace-nowrap px-space-md py-space-xs bg-surface-container text-on-surface-variant hover:text-on-surface font-label-caps text-label-caps uppercase tracking-wider rounded" data-filter="resins">
+        Resins
+      </button>
+</div>
+</div>
+<div class="px-margin-mobile py-space-md bg-surface">
+<div class="grid grid-cols-2 gap-x-gutter-mobile gap-y-space-xl" id="fragrance-grid">
+<div class="product-item flex flex-col justify-between" data-category="resins" data-name="STILL HERE" data-notes="dry woods resin ambergris">
+<div class="flex flex-col">
+<div class="relative w-full aspect-[3/4] bg-surface-container-high rounded overflow-hidden mb-space-sm flex items-center justify-center">
+<img class="w-full h-full object-cover grayscale opacity-75" data-alt="Monochrome minimalist glass perfume flacon placed in an empty museum brutalist interior bathed in cool ambient morning skylight." src="https://lh3.googleusercontent.com/aida-public/AB6AXuB0BypM5hPHKOpFgjf7ZWc2u85N5hBZXe0o2LUbUUV2_Bz5fi9xfU8McPUhkioQmcaHFM40Ob6Der28u_-VcncJDbjsAVuyMTRyIzV16KQWpXogY3POvsa-JwQWhKuhvgXRfyBNb5kZhvf8b7koyPumR446bxBT8yNTh6L4R9OEB4XKDU7gxmfCaxM5TRoiHyiXQOOqZC3E9X1xJjGc-GesE83ml-n42GtdTOJaBvzI_gUfmdpOEVSeHg"/>
+<span class="absolute top-2 left-2 px-space-xs py-[2px] bg-primary/80 backdrop-blur-sm text-on-primary font-label-caps text-[9px] uppercase tracking-widest rounded-sm">Archive</span>
+</div>
+<span class="font-label-caps text-label-caps uppercase text-on-tertiary-container tracking-wider">Chapter 01</span>
+<h2 class="font-headline-sm text-headline-sm text-on-surface mt-[2px] leading-tight">STILL HERE</h2>
+<p class="font-body-sm text-body-sm text-on-surface-variant mt-space-xs line-clamp-1">Incense · Grey Amber · Cedar</p>
+</div>
+<div class="mt-space-md pt-space-xs">
+<span class="inline-flex items-center justify-center w-full py-space-sm bg-surface-container text-on-tertiary-container font-label-caps text-label-caps uppercase tracking-wider rounded-none">
+            Archived
+          </span>
+</div>
+</div>
+<div class="product-item flex flex-col justify-between" data-category="woods" data-name="TOBACCO BLOOM" data-notes="tobacco vanilla warm woods tonka">
+<div class="flex flex-col">
+<div class="relative w-full aspect-[3/4] bg-surface-container-high rounded overflow-hidden mb-space-sm">
+<img alt="Tobacco Bloom Chapter 02 perfume bottle atop a raw slate plinth inside an art gallery." class="w-full h-full object-cover transition-transform duration-700 hover:scale-105" src="https://lh3.googleusercontent.com/aida-public/AB6AXuDpx9bZC-nVJRZu8bsUnw_28fl4ynxEb8ZAF2T1bOgl0rTvdI-LH8IsEbuJ6sigRytRFHSWKHjaDPbLGMe_LyyHeTlsvJyHWl3RKT5M0aM4jIH-b0gAjslYnf4Zc6NHpZlkfI8zJhyvQlFOdUHQuucVzgk5bzZnd2vrXYzxduMf35sZVDw_0eWaZ4-IAhXcb8GAbTKdksd14Iqm_geiHKSB-v2_Lhxj1a3XK3hBDz_W0SZaU2pOUGaUUQ"/>
+<span class="absolute top-2 left-2 px-space-xs py-[2px] bg-secondary-container text-on-secondary-container font-label-caps text-[9px] uppercase tracking-widest font-semibold rounded-sm">Extrait</span>
+</div>
+<span class="font-label-caps text-label-caps uppercase text-on-tertiary-container tracking-wider">Chapter 02</span>
+<h2 class="font-headline-sm text-headline-sm text-on-surface mt-[2px] leading-tight">TOBACCO BLOOM</h2>
+<p class="font-body-sm text-body-sm text-on-surface-variant mt-space-xs line-clamp-1">Tobacco · Vanilla · Warm Woods</p>
+<div class="flex items-baseline gap-space-xs mt-space-xs">
+<span class="font-price-num text-price-num text-on-surface">₹499</span>
+<span class="font-price-num text-body-sm text-on-tertiary-container line-through">₹799</span>
+</div>
+</div>
+<div class="mt-space-sm">
+<button class="add-to-cart-btn w-full py-space-sm bg-secondary-container text-on-secondary-container hover:opacity-95 font-label-caps text-label-caps uppercase tracking-wider transition-colors flex items-center justify-center gap-space-xs rounded-none" data-product="Chapter 02 Tobacco Bloom">
+<span class="material-symbols-outlined text-[14px]">local_mall</span>
+<span>Add to Bag</span>
+</button>
+</div>
+</div>
+<div class="product-item flex flex-col justify-between" data-category="citrus" data-name="FIRST LIGHT" data-notes="citrus green florals clean woods bergamot">
+<div class="flex flex-col">
+<div class="relative w-full aspect-[3/4] bg-surface-container-high rounded overflow-hidden mb-space-sm">
+<img class="w-full h-full object-cover" data-alt="Glass flacon with pale chartreuse liquid sitting in razor-sharp morning light against raw pale concrete in a minimal contemporary gallery." src="https://lh3.googleusercontent.com/aida-public/AB6AXuCVHdMuWvOzwurEz4R2aY01uRDxTUeV2j980HRcK299zSJYktJYdur7fooO-A1EJr4CL4pGQsLFGvosYcqZpo3ZmTOMd397PgTQ1gZmuSDFqdQ7EoGNv0HmOr0-xTub1eEf0BcuFzISaqzbujcUg3HMhNp7GOezQKiAmkVIELv8kQV1hpmb6O8nvMmknCYb070xYBu-x3g2MEF2z2uM7ddEvDsF1qR8I_c2yMqAXa70l2H7vWlJbyZedg"/>
+<span class="absolute top-2 left-2 px-space-xs py-[2px] bg-secondary-container text-on-secondary-container font-label-caps text-[9px] uppercase tracking-widest font-semibold rounded-sm">Extrait</span>
+</div>
+<span class="font-label-caps text-label-caps uppercase text-on-tertiary-container tracking-wider">Chapter 03</span>
+<h2 class="font-headline-sm text-headline-sm text-on-surface mt-[2px] leading-tight">FIRST LIGHT</h2>
+<p class="font-body-sm text-body-sm text-on-surface-variant mt-space-xs line-clamp-1">Citrus · Green Florals · Clean Woods</p>
+<div class="flex items-baseline gap-space-xs mt-space-xs">
+<span class="font-price-num text-price-num text-on-surface">₹499</span>
+<span class="font-price-num text-body-sm text-on-tertiary-container line-through">₹799</span>
+</div>
+</div>
+<div class="mt-space-sm">
+<button class="add-to-cart-btn w-full py-space-sm bg-secondary-container text-on-secondary-container hover:opacity-95 font-label-caps text-label-caps uppercase tracking-wider transition-colors flex items-center justify-center gap-space-xs rounded-none" data-product="Chapter 03 First Light">
+<span class="material-symbols-outlined text-[14px]">local_mall</span>
+<span>Add to Bag</span>
+</button>
+</div>
+</div>
+<div class="product-item flex flex-col justify-between" data-category="woods" data-name="LAST LOOK" data-notes="suede violet dry cedar woods">
+<div class="flex flex-col">
+<div class="relative w-full aspect-[3/4] bg-surface-container-high rounded overflow-hidden mb-space-sm">
+<img class="w-full h-full object-cover opacity-85" data-alt="Rectangular luxury perfume bottle reflecting atmospheric moody indigo shadows in a contemporary dark art gallery space." src="https://lh3.googleusercontent.com/aida-public/AB6AXuA1yDoAnDl1hw-H8aan4Gg-m4imK_-b2CcL22vWLaMwR8KPFdmnmkW0oG_5r9OdI4oq0cXhtsQcicwas3U2LL8MmYqnfueyQqfBG2rewDLtG1YAFtsqfLIrGX2iO-Cc2iN11qR2MpLJgEOPVyM9htE1Qla4NZ1QwsbnEkUyne0jWSAAyFtVYNi80E_sZD0dex_XZ3dWCDIpl0IyjmFOIWfKpSik0Wzp7WgToohglgshN631eNLsw2gM3Q"/>
+</div>
+<span class="font-label-caps text-label-caps uppercase text-on-tertiary-container tracking-wider">Chapter 04</span>
+<h2 class="font-headline-sm text-headline-sm text-on-surface mt-[2px] leading-tight">LAST LOOK</h2>
+<p class="font-body-sm text-body-sm text-on-surface-variant mt-space-xs line-clamp-1">Suede · Violet · Dry Cedar</p>
+</div>
+<div class="mt-space-md pt-space-xs">
+<span class="inline-flex items-center justify-center w-full py-space-sm bg-surface-container text-on-tertiary-container font-label-caps text-label-caps uppercase tracking-wider rounded-none">
+            Coming Soon
+          </span>
+</div>
+</div>
+<div class="product-item flex flex-col justify-between" data-category="woods" data-name="DARK WOOD" data-notes="incense birch tar vetiver woods">
+<div class="flex flex-col">
+<div class="relative w-full aspect-[3/4] bg-surface-container-high rounded overflow-hidden mb-space-sm">
+<img class="w-full h-full object-cover opacity-85" data-alt="Deep smoky obsidian glass bottle placed on charred dark driftwood, high contrast dramatic studio lighting." src="https://lh3.googleusercontent.com/aida-public/AB6AXuAPeTV3xramt3Hl9t4WOVLAL8Unq_fViWa3H4ZDjUvew9mgFPpSa3LdvTwszPOIdzoTQ4tC6RzjaZqlhR6Pmgj4SSLtmty80pKtGTbd42vdzcdO6DdFvkaRTCQxdG5YzI8zLKxUuzpNPWn_-P1byHFsQRoS0Zm_cVfaoXF7Llqs4jwyJg8ACdHikkd0KdHtmhXxs1gcmTCjbn07Lvu3igxBtgSahD4jkBwliulNqUtClpkwi04iqHpoYQ"/>
+</div>
+<span class="font-label-caps text-label-caps uppercase text-on-tertiary-container tracking-wider">Chapter 05</span>
+<h2 class="font-headline-sm text-headline-sm text-on-surface mt-[2px] leading-tight">DARK WOOD</h2>
+<p class="font-body-sm text-body-sm text-on-surface-variant mt-space-xs line-clamp-1">Incense · Birch Tar · Vetiver</p>
+</div>
+<div class="mt-space-md pt-space-xs">
+<span class="inline-flex items-center justify-center w-full py-space-sm bg-surface-container text-on-tertiary-container font-label-caps text-label-caps uppercase tracking-wider rounded-none">
+            Coming Soon
+          </span>
+</div>
+</div>
+<div class="product-item flex flex-col justify-between" data-category="musk" data-name="WHITE MUSK" data-notes="powder white florals musk clean">
+<div class="flex flex-col">
+<div class="relative w-full aspect-[3/4] bg-surface-container-high rounded overflow-hidden mb-space-sm">
+<img class="w-full h-full object-cover" data-alt="Frosted crystal flacon with pure white label illuminated by soft diffused museum illumination on matte grey steel pedestal." src="https://lh3.googleusercontent.com/aida-public/AB6AXuCUcRNiFADSeGyRzv5WJX8XOTIxw6QNmOmpZq3JZA-EtranbTmE522qzneTOZ2Wf5qQUK4T0HPEyeZYcA0Uz4VHN-lPKgLeoJOgU5SMefWzIf5QomCZBQeCqr1CTTeRQbJTdqeaFYMg_kiu3kDcOV6QeXNXgPqqfG2XTA4b_7a5FqAp99jMOwEMdI1jSRv9GcjanEwsS4_5ge04iaqeROa3m7wFgtR0e6DkTySHcMEK0otA1GD3SG9bJw"/>
+<span class="absolute top-2 left-2 px-space-xs py-[2px] bg-secondary-container text-on-secondary-container font-label-caps text-[9px] uppercase tracking-widest font-semibold rounded-sm">Extrait</span>
+</div>
+<span class="font-label-caps text-label-caps uppercase text-on-tertiary-container tracking-wider">Chapter 06</span>
+<h2 class="font-headline-sm text-headline-sm text-on-surface mt-[2px] leading-tight">WHITE MUSK</h2>
+<p class="font-body-sm text-body-sm text-on-surface-variant mt-space-xs line-clamp-1">Powder · White Florals · Musk</p>
+<div class="flex items-baseline gap-space-xs mt-space-xs">
+<span class="font-price-num text-price-num text-on-surface">₹499</span>
+<span class="font-price-num text-body-sm text-on-tertiary-container line-through">₹799</span>
+</div>
+</div>
+<div class="mt-space-sm">
+<button class="add-to-cart-btn w-full py-space-sm bg-secondary-container text-on-secondary-container hover:opacity-95 font-label-caps text-label-caps uppercase tracking-wider transition-colors flex items-center justify-center gap-space-xs rounded-none" data-product="Chapter 06 White Musk">
+<span class="material-symbols-outlined text-[14px]">local_mall</span>
+<span>Add to Bag</span>
+</button>
+</div>
+</div>
+<div class="product-item flex flex-col justify-between" data-category="musk" data-name="GOLDEN ORCHID" data-notes="night jasmine amber patchouli florals">
+<div class="flex flex-col">
+<div class="relative w-full aspect-[3/4] bg-surface-container-high rounded overflow-hidden mb-space-sm">
+<img class="w-full h-full object-cover opacity-85" data-alt="Dark amber glass fragrance flacon catching faint golden reflection in a darkened minimalist nocturnal art exhibition room." src="https://lh3.googleusercontent.com/aida-public/AB6AXuCo2NQ5qMfdDzjPds2F5_WUZhmZfljtbGtblYnJ9LWsbBX2hE3pYfb5BurL5mswswm0F0ufVSYS338jzpcg4GGjka7YY_QAytj35N7r4zSbwkc7fYqr726pDgPU5hJA_dvqOosR2u8iDNUus0REzbxzXHV7zJTuQFjBQXuCN41q_mkt7T9vSmXKj-3QkEgCBzRfC8iHSzWkwnFiEqTanH51xeP5DqnvcEhqVnG2Rc6szjptOFcKWzorNQ"/>
+</div>
+<span class="font-label-caps text-label-caps uppercase text-on-tertiary-container tracking-wider">Chapter 07</span>
+<h2 class="font-headline-sm text-headline-sm text-on-surface mt-[2px] leading-tight">GOLDEN ORCHID</h2>
+<p class="font-body-sm text-body-sm text-on-surface-variant mt-space-xs line-clamp-1">Night Jasmine · Amber · Patchouli</p>
+</div>
+<div class="mt-space-md pt-space-xs">
+<span class="inline-flex items-center justify-center w-full py-space-sm bg-surface-container text-on-tertiary-container font-label-caps text-label-caps uppercase tracking-wider rounded-none">
+            Coming Soon
+          </span>
+</div>
+</div>
+<div class="product-item flex flex-col justify-between" data-category="citrus" data-name="YUZU WAVE" data-notes="yuzu zest marine sea salt hinoki citrus">
+<div class="flex flex-col">
+<div class="relative w-full aspect-[3/4] bg-surface-container-high rounded overflow-hidden mb-space-sm">
+<img class="w-full h-full object-cover opacity-85" data-alt="Clear modern perfume flask standing on wet dark volcanic slate with faint cool sea salt mist in background." src="https://lh3.googleusercontent.com/aida-public/AB6AXuBg06Fa2w4OlhkKqvKAFgcQJHhXe-8km5cdWdVmcnnDLZ74G36FTZNMDnW5jR2DjBwxN-jzMGXHai5oGY4EChrdMIUY9vBzHZKo7-Vomcb2A0nsume0AranYGuZiZIMcEe9nwMl6gSoukt41WEVuFf5n9JE5nyZzQrcMVjcVgV7TcEDYpFbNIAMUqiYNe6VLX7lSINX6ZRI-j2PoxCHZWq5vapmNMqvNxIH2byTZ2ZSQ4oVfl1W8Q6cJg"/>
+</div>
+<span class="font-label-caps text-label-caps uppercase text-on-tertiary-container tracking-wider">Chapter 08</span>
+<h2 class="font-headline-sm text-headline-sm text-on-surface mt-[2px] leading-tight">YUZU WAVE</h2>
+<p class="font-body-sm text-body-sm text-on-surface-variant mt-space-xs line-clamp-1">Yuzu Zest · Sea Salt · Hinoki</p>
+</div>
+<div class="mt-space-md pt-space-xs">
+<span class="inline-flex items-center justify-center w-full py-space-sm bg-surface-container text-on-tertiary-container font-label-caps text-label-caps uppercase tracking-wider rounded-none">
+            Coming Soon
+          </span>
+</div>
+</div>
+<div class="product-item flex flex-col justify-between" data-category="resins" data-name="LAST CALL" data-notes="bourbon roasted coffee tonka warm">
+<div class="flex flex-col">
+<div class="relative w-full aspect-[3/4] bg-surface-container-high rounded overflow-hidden mb-space-sm">
+<img class="w-full h-full object-cover opacity-85" data-alt="Deep brown glass extrait bottle positioned under a single warm spot beam inside a shadowy subterranean gallery." src="https://lh3.googleusercontent.com/aida-public/AB6AXuCbTbgF7QyvvVJjvHyYynSK2FP3Dv49aDDUVWiKPsMFPNIg5f5dQWZL1ueN6hdB2UJ5Qhj5lWMRSn9rgJOcn21cpiCIpxghVSHbbwtG0t03oypmHM8EMaP0zTLo9I8VgkgbO2ZQ-HDfDHdj2nKs5FdVUgiGsqF9FN73fAPoRqBCgZV-SYebbMtIdb9yqoc7xda_DcbdskLV-ndjeYVjUBXVHvgp2JQWG-63sWq-eVWfCm0zFXy_O00Ayw"/>
+</div>
+<span class="font-label-caps text-label-caps uppercase text-on-tertiary-container tracking-wider">Chapter 09</span>
+<h2 class="font-headline-sm text-headline-sm text-on-surface mt-[2px] leading-tight">LAST CALL</h2>
+<p class="font-body-sm text-body-sm text-on-surface-variant mt-space-xs line-clamp-1">Bourbon · Roasted Coffee · Tonka</p>
+</div>
+<div class="mt-space-md pt-space-xs">
+<span class="inline-flex items-center justify-center w-full py-space-sm bg-surface-container text-on-tertiary-container font-label-caps text-label-caps uppercase tracking-wider rounded-none">
+            Coming Soon
+          </span>
+</div>
+</div>
+<div class="product-item flex flex-col justify-between" data-category="resins" data-name="CANDY FLOSS" data-notes="burnt sugar strawberry leaf iso e super sweet">
+<div class="flex flex-col">
+<div class="relative w-full aspect-[3/4] bg-surface-container-high rounded overflow-hidden mb-space-sm">
+<img class="w-full h-full object-cover opacity-85" data-alt="Sleek square perfume bottle with translucent coral-toned liquid against neutral textured concrete wall." src="https://lh3.googleusercontent.com/aida-public/AB6AXuB37OGn-3v6qirHcwxnnTkD51myxvL6lHXozeJ_9p6rS631-2WjVGb33flPoB4jrCvkX72tBWbEQZxqfUmZzRH3ShwQHye0P_Wio7Hld3JWwSYn9AePw12GqBAJWq8zS1OMHqqZw6IOVqwVTZOxsTu2NtZXqXtJgfg8mFk56ZOJY3-ueIeaZC_qThQsM4kZNvZZT7S-lVfw299IVJmM4GgGBIYDab6uB4-opOkUaatbp6ds6O3GBVzspw"/>
+</div>
+<span class="font-label-caps text-label-caps uppercase text-on-tertiary-container tracking-wider">Chapter 10</span>
+<h2 class="font-headline-sm text-headline-sm text-on-surface mt-[2px] leading-tight">CANDY FLOSS</h2>
+<p class="font-body-sm text-body-sm text-on-surface-variant mt-space-xs line-clamp-1">Burnt Sugar · Strawberry Leaf</p>
+</div>
+<div class="mt-space-md pt-space-xs">
+<span class="inline-flex items-center justify-center w-full py-space-sm bg-surface-container text-on-tertiary-container font-label-caps text-label-caps uppercase tracking-wider rounded-none">
+            Coming Soon
+          </span>
+</div>
+</div>
+<div class="product-item flex flex-col justify-between" data-category="resins" data-name="SLOW CARAMEL" data-notes="salted caramel bitter almond benzoin resin">
+<div class="flex flex-col">
+<div class="relative w-full aspect-[3/4] bg-surface-container-high rounded overflow-hidden mb-space-sm">
+<img class="w-full h-full object-cover opacity-85" data-alt="Artisanal perfume flacon glowing like molten caramel under focused gallery key lighting on raw basalt rock." src="https://lh3.googleusercontent.com/aida-public/AB6AXuCJonX3zvw5nTDrVTkgj-SGOXMSPcPHbWGxCnRDW-YKl7VVAcRe-mh8L44ysvng2YhVMKBxGAd8MCYnAMtk3XjG5HdX15qP16tGrJ6dc0NmoPv2AgIM6dYJ9e7K1k6IdhbPhWOX7ekBbGQ75yUYH8yokIXPH8_e672i-ot_IYDnUEVbS5iJUr7lsTK1ZVhlceCviyp9m27P7ziufo1o9TzNJYmpoTZYBnm6nCBQ0x581ombR8nKv0EsFA"/>
+</div>
+<span class="font-label-caps text-label-caps uppercase text-on-tertiary-container tracking-wider">Chapter 11</span>
+<h2 class="font-headline-sm text-headline-sm text-on-surface mt-[2px] leading-tight">SLOW CARAMEL</h2>
+<p class="font-body-sm text-body-sm text-on-surface-variant mt-space-xs line-clamp-1">Salted Caramel · Bitter Almond</p>
+</div>
+<div class="mt-space-md pt-space-xs">
+<span class="inline-flex items-center justify-center w-full py-space-sm bg-surface-container text-on-tertiary-container font-label-caps text-label-caps uppercase tracking-wider rounded-none">
+            Coming Soon
+          </span>
+</div>
+</div>
+<div class="product-item flex flex-col justify-between" data-category="citrus" data-name="OLD ESTATE" data-notes="english rose wet earth oakmoss floral woods">
+<div class="flex flex-col">
+<div class="relative w-full aspect-[3/4] bg-surface-container-high rounded overflow-hidden mb-space-sm">
+<img class="w-full h-full object-cover opacity-85" data-alt="Heavy glass fragrance bottle standing in dim, moody botanical conservatory, damp stone and dark greenery in background." src="https://lh3.googleusercontent.com/aida-public/AB6AXuCb_7HA9SpkNPp3hhmQDXRdQGiLhh3z9tS_TTWfJqlj6ZLi9eJbXaZGzzqgLvGZA_-Ahg7PhAkMPJmEkS38bZVZ5xDdowGFfBVVBqOiMQzC9urrP4VMmBLUAcACirNTo2MmPRXjHaxo0TcNOtVEW_1Ci4RxRZ03UOCWUJ_g8zfhTHBYBjy6tsCDWBWM7nT1opH12SSbV_hbqVnnqjxVMpGFPcU3HzQe8LlDa1norvUJNVFBm-YszJeJOg"/>
+</div>
+<span class="font-label-caps text-label-caps uppercase text-on-tertiary-container tracking-wider">Chapter 12</span>
+<h2 class="font-headline-sm text-headline-sm text-on-surface mt-[2px] leading-tight">OLD ESTATE</h2>
+<p class="font-body-sm text-body-sm text-on-surface-variant mt-space-xs line-clamp-1">English Rose · Wet Earth · Oakmoss</p>
+</div>
+<div class="mt-space-md pt-space-xs">
+<span class="inline-flex items-center justify-center w-full py-space-sm bg-surface-container text-on-tertiary-container font-label-caps text-label-caps uppercase tracking-wider rounded-none">
+            Coming Soon
+          </span>
+</div>
+</div>
+<div class="product-item flex flex-col justify-between" data-category="musk" data-name="QUIET SHADOW" data-notes="black pepper cashmeran dark musks amber">
+<div class="flex flex-col">
+<div class="relative w-full aspect-[3/4] bg-surface-container-high rounded overflow-hidden mb-space-sm">
+<img class="w-full h-full object-cover opacity-85" data-alt="Solid black glass perfume bottle emerging from pitch-black shadowy gallery background with singular sharp edge highlight." src="https://lh3.googleusercontent.com/aida-public/AB6AXuDEixNVmE2wyTaRXsfGild6_faqo1buP2FnXWpNoSHDoBONCZ7r4N4Y1q3TuqBYxPWauOwv6O6tAwafD59pjTeNJv_sv9-MGe-odDw0uZiu13oUquGQpx6prtJ5kDQLwat6ivcORCzv34gUHIINA_tUBo6Kvbjxj-zWvy-x9XPWlClzPYsv38rREzIdccaXpCLpDlBck2bsdDN3b5_grHHSYeETZaWtBrPOyQ9Su-16D1iQx9qaRS4VLQ"/>
+</div>
+<span class="font-label-caps text-label-caps uppercase text-on-tertiary-container tracking-wider">Chapter 13</span>
+<h2 class="font-headline-sm text-headline-sm text-on-surface mt-[2px] leading-tight">QUIET SHADOW</h2>
+<p class="font-body-sm text-body-sm text-on-surface-variant mt-space-xs line-clamp-1">Black Pepper · Cashmeran · Musks</p>
+</div>
+<div class="mt-space-md pt-space-xs">
+<span class="inline-flex items-center justify-center w-full py-space-sm bg-surface-container text-on-tertiary-container font-label-caps text-label-caps uppercase tracking-wider rounded-none">
+            Coming Soon
+          </span>
+</div>
+</div>
+</div>
+<div class="hidden py-space-3xl flex flex-col items-center justify-center text-center" id="no-results">
+<span class="material-symbols-outlined text-[36px] text-on-tertiary-container mb-space-xs">filter_vintage</span>
+<h3 class="font-headline-sm text-headline-sm text-on-surface">No chapters found</h3>
+<p class="font-body-sm text-body-sm text-on-surface-variant mt-space-xs max-w-xs">
+        Try adjusting your search query or switching scent-family filter.
+      </p>
+<button class="mt-space-md font-label-caps text-label-caps uppercase tracking-wider text-secondary underline" id="reset-filter-btn">
+        Reset Search
+      </button>
+</div>
+</div>
+<div class="px-margin-mobile py-space-xl bg-surface-container-low mt-space-lg flex flex-col gap-space-md">
+<div class="flex flex-col gap-space-xs">
+<span class="font-label-caps text-label-caps uppercase text-on-tertiary-container tracking-widest">Extrait Standard</span>
+<h3 class="font-headline-sm text-headline-sm text-on-surface">Small Batch Compositions</h3>
+<p class="font-body-md text-body-md text-on-surface-variant">
+        Each formulation rests at 30% pure fragrance oil concentration. Hand-decanted and macerated for six weeks in darkened temperature-calibrated chambers.
+      </p>
+</div>
+<div class="grid grid-cols-2 gap-space-sm pt-space-xs">
+<div class="p-space-md bg-surface rounded flex flex-col">
+<span class="font-price-num text-[20px] text-on-surface font-semibold">30%</span>
+<span class="font-label-caps text-label-caps uppercase text-on-tertiary-container mt-1">Concentration</span>
+</div>
+<div class="p-space-md bg-surface rounded flex flex-col">
+<span class="font-price-num text-[20px] text-on-surface font-semibold">42 Days</span>
+<span class="font-label-caps text-label-caps uppercase text-on-tertiary-container mt-1">Maceration</span>
+</div>
+</div>
+</div>
+<div class="fixed bottom-20 left-1/2 -translate-x-1/2 bg-primary text-on-primary px-space-md py-space-sm rounded shadow-lg opacity-0 pointer-events-none transition-all duration-300 z-50 flex items-center gap-space-sm max-w-[90vw]" id="toast">
+<span class="material-symbols-outlined text-[16px] text-secondary-container">check_circle</span>
+<span class="font-label-caps text-label-caps uppercase tracking-wider truncate" id="toast-text">Added to bag</span>
+</div>
+</div>
+<script>
+  (function() {
+    const searchInput = document.getElementById('collection-search');
+    const clearBtn = document.getElementById('clear-search');
+    const filterContainer = document.getElementById('filter-container');
+    const filterChips = filterContainer.querySelectorAll('.filter-chip');
+    const items = document.querySelectorAll('.product-item');
+    const noResults = document.getElementById('no-results');
+    const resetBtn = document.getElementById('reset-filter-btn');
+    const toast = document.getElementById('toast');
+    const toastText = document.getElementById('toast-text');
+
+    let currentFilter = 'all';
+    let searchQuery = '';
+
+    function applyFilters() {
+      let visibleCount = 0;
+      const q = searchQuery.toLowerCase().trim();
+
+      items.forEach(item => {
+        const cat = item.getAttribute('data-category');
+        const name = (item.getAttribute('data-name') || '').toLowerCase();
+        const notes = (item.getAttribute('data-notes') || '').toLowerCase();
+
+        const matchesCat = (currentFilter === 'all' || cat === currentFilter);
+        const matchesQuery = (!q || name.includes(q) || notes.includes(q));
+
+        if (matchesCat && matchesQuery) {
+          item.classList.remove('hidden');
+          visibleCount++;
+        } else {
+          item.classList.add('hidden');
+        }
+      });
+
+      if (visibleCount === 0) {
+        noResults.classList.remove('hidden');
+      } else {
+        noResults.classList.add('hidden');
+      }
+    }
+
+    searchInput.addEventListener('input', (e) => {
+      searchQuery = e.target.value;
+      if (searchQuery.length > 0) {
+        clearBtn.classList.remove('hidden');
+      } else {
+        clearBtn.classList.add('hidden');
+      }
+      applyFilters();
+    });
+
+    clearBtn.addEventListener('click', () => {
+      searchInput.value = '';
+      searchQuery = '';
+      clearBtn.classList.add('hidden');
+      applyFilters();
+    });
+
+    filterChips.forEach(chip => {
+      chip.addEventListener('click', () => {
+        filterChips.forEach(c => {
+          c.classList.remove('bg-primary', 'text-on-primary');
+          c.classList.add('bg-surface-container', 'text-on-surface-variant');
+        });
+        chip.classList.remove('bg-surface-container', 'text-on-surface-variant');
+        chip.classList.add('bg-primary', 'text-on-primary');
+
+        currentFilter = chip.getAttribute('data-filter');
+        applyFilters();
+      });
+    });
+
+    resetBtn.addEventListener('click', () => {
+      searchInput.value = '';
+      searchQuery = '';
+      clearBtn.classList.add('hidden');
+      currentFilter = 'all';
+      filterChips.forEach(c => {
+        if (c.getAttribute('data-filter') === 'all') {
+          c.classList.remove('bg-surface-container', 'text-on-surface-variant');
+          c.classList.add('bg-primary', 'text-on-primary');
+        } else {
+          c.classList.remove('bg-primary', 'text-on-primary');
+          c.classList.add('bg-surface-container', 'text-on-surface-variant');
+        }
+      });
+      applyFilters();
+    });
+
+    let toastTimeout;
+    document.querySelectorAll('.add-to-cart-btn').forEach(btn => {
+      btn.addEventListener('click', (e) => {
+        const prod = e.currentTarget.getAttribute('data-product');
+        toastText.textContent = prod + ' added to bag';
+        toast.classList.remove('opacity-0', 'pointer-events-none');
+        toast.classList.add('opacity-100');
+
+        clearTimeout(toastTimeout);
+        toastTimeout = setTimeout(() => {
+          toast.classList.remove('opacity-100');
+          toast.classList.add('opacity-0', 'pointer-events-none');
+        }, 2200);
+      });
+    });
+  })();
+</script><footer class="w-full bg-tertiary-container text-surface-container-lowest px-margin-mobile pt-space-2xl pb-space-3xl"><div class="max-w-md mx-auto flex flex-col gap-space-xl"><div class="flex flex-col gap-space-xs"><p class="font-headline-md text-headline-md italic text-surface-container-lowest font-headline-md">Fragrance for what remains after the moment.</p><span class="font-label-caps text-label-caps uppercase tracking-widest text-on-primary-container">Olfactive Archive • Est. MMXXIV</span></div><div class="flex flex-col gap-space-sm"><label class="font-label-caps text-label-caps uppercase tracking-wider text-on-primary-container">Nocturnal Dispatch</label><div class="flex items-center justify-between pb-space-xs bg-transparent"><input class="w-full bg-transparent font-body-sm text-body-sm text-surface-container-lowest placeholder:text-on-primary-container focus:outline-none" placeholder="Enter email address" type="email"/><button class="min-h-[44px] px-space-md font-label-caps text-label-caps uppercase tracking-widest bg-secondary-container text-on-secondary-container hover:opacity-95">Join</button></div></div><div class="grid grid-cols-2 gap-space-lg"><div class="flex flex-col gap-space-sm"><span class="font-label-caps text-label-caps uppercase tracking-wider text-on-primary-container">Formulations</span><a class="font-body-sm text-body-sm text-surface-container-lowest hover:text-secondary-container min-h-[44px] flex items-center" data-path="catalog" href="#">Fragrance Chapters 01-13</a><a class="font-body-sm text-body-sm text-surface-container-lowest hover:text-secondary-container min-h-[44px] flex items-center" data-path="extrait-facts" href="#">Care &amp; Extrait Facts</a></div><div class="flex flex-col gap-space-sm"><span class="font-label-caps text-label-caps uppercase tracking-wider text-on-primary-container">Service</span><a class="font-body-sm text-body-sm text-surface-container-lowest hover:text-secondary-container min-h-[44px] flex items-center" data-path="shipping" href="#">Shipping &amp; Returns</a><a class="font-body-sm text-body-sm text-surface-container-lowest hover:text-secondary-container min-h-[44px] flex items-center" data-path="legal" href="#">Legal Notices</a></div></div><div class="pt-space-md flex flex-col gap-space-xs"><p class="font-body-sm text-body-sm text-on-primary-container">© 2024 AFTERSTORY. All compositions preserved.</p></div></div></footer></main><nav class="fixed bottom-0 w-full z-50 pb-safe bg-tertiary-container/95 backdrop-blur-xl shadow-[0_-1px_8px_rgba(0,0,0,0.08)]" data-active-classes="text-secondary-container"><div class="flex justify-around items-center h-16 px-gutter-mobile"><a aria-current="page" class="flex flex-col items-center justify-center gap-space-xs min-h-[44px] min-w-[44px] transition-colors text-secondary-container" data-path="catalog" href="#"><span class="material-symbols-outlined text-[20px]">grid_view</span><span class="font-label-caps text-label-caps uppercase">Shop</span></a><a class="flex flex-col items-center justify-center gap-space-xs min-h-[44px] min-w-[44px] text-on-primary-container transition-colors" data-path="our-story" href="#"><span class="material-symbols-outlined text-[20px]">auto_stories</span><span class="font-label-caps text-label-caps uppercase">Story</span></a><a class="flex flex-col items-center justify-center gap-space-xs min-h-[44px] min-w-[44px] text-on-primary-container transition-colors" data-path="shopping-cart" href="#"><span class="material-symbols-outlined text-[20px]">local_mall</span><span class="font-label-caps text-label-caps uppercase">Cart (1)</span></a><a class="flex flex-col items-center justify-center gap-space-xs min-h-[44px] min-w-[44px] text-on-primary-container transition-colors" data-path="saved" href="#"><span class="material-symbols-outlined text-[20px]">bookmark</span><span class="font-label-caps text-label-caps uppercase">Archive</span></a></div></nav></body></html>

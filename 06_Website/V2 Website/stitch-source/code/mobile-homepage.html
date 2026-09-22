@@ -1,0 +1,327 @@
+<!DOCTYPE html>
+
+<html lang="en"><head><meta charset="utf-8"/><meta content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no, viewport-fit=cover" name="viewport"/><meta content="mobile_tab" name="shell-type"/><link href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@20..48,100..700,0..1,-50..200" rel="stylesheet"/><link href="https://fonts.googleapis.com" rel="preconnect"/><link crossorigin="" href="https://fonts.gstatic.com" rel="preconnect"/><link href="https://fonts.googleapis.com/css2?family=EB+Garamond:ital,wght@0,400;0,500;1,400&amp;family=Inter:wght@400;500;600&amp;display=swap" rel="stylesheet"/>
+<link href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:wght,FILL@100..700,0..1&amp;display=swap" rel="stylesheet"/><style>@layer base{html,body{width:100vw;margin:0;padding:0;}body{overscroll-behavior:none;}.pb-safe{padding-bottom:env(safe-area-inset-bottom,0px);}.pt-safe{padding-top:env(safe-area-inset-top,0px);}main>:first-child{margin-top:0!important;}main>:last-child{margin-bottom:0!important;}}::-webkit-scrollbar{display:none;}</style><script src="https://cdn.tailwindcss.com"></script><script id="tailwind-config">tailwind.config = { darkMode: "class", theme: { extend: { "colors": { "primary-fixed-dim": "#bfc7d5", "on-secondary-fixed": "#390b00", "tertiary": "#000000", "tertiary-fixed-dim": "#b2cadc", "secondary-fixed": "#ffdbd0", "on-background": "#1a1c1f", "surface": "#f9f9fd", "outline": "#75777c", "on-surface-variant": "#44474b", "surface-container": "#ededf2", "surface-bright": "#f9f9fd", "error-container": "#ffdad6", "surface-tint": "#575f6b", "on-secondary-fixed-variant": "#832600", "secondary-container": "#fb6732", "surface-container-highest": "#e2e2e6", "on-tertiary-container": "#708797", "on-secondary-container": "#5a1700", "inverse-on-surface": "#f0f0f4", "primary-fixed": "#dbe3f1", "on-error": "#ffffff", "outline-variant": "#c5c6cc", "tertiary-fixed": "#cee6f8", "primary-container": "#141c26", "on-error-container": "#93000a", "surface-container-low": "#f3f3f7", "on-surface": "#1a1c1f", "secondary-fixed-dim": "#ffb59d", "on-tertiary-fixed-variant": "#334958", "error": "#ba1a1a", "background": "#f9f9fd", "on-primary-container": "#7c8491", "surface-container-lowest": "#ffffff", "inverse-primary": "#bfc7d5", "on-tertiary": "#ffffff", "on-primary-fixed": "#141c26", "primary": "#000000", "on-primary-fixed-variant": "#3f4753", "surface-variant": "#e2e2e6", "inverse-surface": "#2f3034", "secondary": "#ac3400", "surface-container-high": "#e8e8ec", "surface-dim": "#d9dade", "on-tertiary-fixed": "#051e2b", "on-primary": "#ffffff", "tertiary-container": "#051e2b", "on-secondary": "#ffffff" }, "borderRadius": { "DEFAULT": "0.25rem", "lg": "0.5rem", "xl": "0.75rem", "full": "9999px" }, "spacing": { "space-md": "1rem", "margin-mobile": "1.25rem", "space-3xl": "6rem", "margin": "3rem", "gutter": "1.5rem", "space-lg": "1.5rem", "gutter-mobile": "1rem", "space-xs": "0.25rem", "space-2xl": "4rem", "space-sm": "0.5rem", "space-xl": "2.5rem" }, "fontFamily": { "price-num": ["Inter"], "body-md": ["Inter"], "body-sm": ["Inter"], "headline-lg-mobile": ["EB Garamond"], "title-editorial": ["EB Garamond"], "label-caps": ["Inter"], "display-hero": ["EB Garamond"], "headline-sm": ["EB Garamond"], "display-hero-mobile": ["EB Garamond"], "headline-lg": ["EB Garamond"], "headline-md": ["EB Garamond"], "body-lg": ["Inter"] }, "fontSize": { "price-num": ["15px", {"lineHeight": "20px", "letterSpacing": "-0.01em", "fontWeight": "500"}], "body-md": ["14px", {"lineHeight": "22px", "letterSpacing": "0em", "fontWeight": "400"}], "body-sm": ["12px", {"lineHeight": "18px", "letterSpacing": "0.01em", "fontWeight": "400"}], "headline-lg-mobile": ["28px", {"lineHeight": "36px", "letterSpacing": "0em", "fontWeight": "400"}], "title-editorial": ["18px", {"lineHeight": "26px", "letterSpacing": "0.02em", "fontWeight": "400"}], "label-caps": ["11px", {"lineHeight": "16px", "letterSpacing": "0.08em", "fontWeight": "600"}], "display-hero": ["56px", {"lineHeight": "64px", "letterSpacing": "-0.02em", "fontWeight": "400"}], "headline-sm": ["22px", {"lineHeight": "28px", "letterSpacing": "0em", "fontWeight": "500"}], "display-hero-mobile": ["36px", {"lineHeight": "44px", "letterSpacing": "-0.01em", "fontWeight": "400"}], "headline-lg": ["40px", {"lineHeight": "48px", "letterSpacing": "-0.01em", "fontWeight": "400"}], "headline-md": ["28px", {"lineHeight": "36px", "letterSpacing": "0em", "fontWeight": "400"}], "body-lg": ["16px", {"lineHeight": "26px", "letterSpacing": "-0.01em", "fontWeight": "400"}] } } } }</script></head><body class="bg-surface text-on-surface font-body-md text-body-md flex flex-col min-h-screen"><header class="fixed top-0 w-full z-50 pt-safe bg-tertiary-container/95 backdrop-blur-xl shadow-[0_1px_8px_rgba(0,0,0,0.08)]"><div class="h-16 px-margin-mobile flex items-center justify-between"><div class="flex items-center gap-space-sm"><img alt="AFTERSTORY Logo Mark" class="h-8 w-auto object-contain" src="https://lh3.googleusercontent.com/aida/AEtjO1VE9aWdVOCWCgG4rShzE8QjN-5uhy0gVK6bBR66W84DviDsVVmOk83p1vhC-qjx-cm7WebV5w2bkze9L6miFyXDdv1rGVjdnHstcdL3RJAWWP1LMEpdwDytYP759vhk1J_3Sf7HdjHiG9FZza2Z_2Yri6BuwD_t2lmFBb7JpXeqmMN8byri4xVthj8Y0JUeRBHUqCaQDykrRncsM6M2jp6nshMIOnBPHOaGIdwGgAKOUAsYIBcXHlwHHqCo"/><span class="font-label-caps text-label-caps uppercase tracking-widest text-surface-container-lowest">AFTERSTORY</span><span class="font-body-sm text-body-sm text-on-primary-container px-space-xs">/</span><span class="font-headline-sm text-headline-sm text-surface-container-lowest italic">Catalog</span></div><div class="flex items-center gap-space-md"><nav class="hidden sm:flex items-center gap-space-md" data-active-classes="text-secondary-container"><a aria-current="page" class="font-label-caps uppercase tracking-wider min-h-[44px] inline-flex items-center text-secondary-container" data-path="catalog" href="#">Shop</a><a class="font-label-caps text-label-caps uppercase tracking-wider text-on-primary-container hover:text-surface-container-lowest min-h-[44px] inline-flex items-center" data-path="our-story" href="#">Our Story</a><a class="font-label-caps text-label-caps uppercase tracking-wider text-on-primary-container hover:text-surface-container-lowest min-h-[44px] inline-flex items-center" data-path="shopping-cart" href="#">Cart (1)</a></nav><div class="w-8 h-8 rounded-full bg-primary flex items-center justify-center"><span class="material-symbols-outlined text-on-primary text-[18px]">person</span></div></div></div></header><main class="flex-1 w-full bg-surface pt-16 flex flex-col"><div class="flex flex-col w-full">
+<!-- 1. Cinematic Midnight Hero -->
+<section class="w-full bg-tertiary-container text-surface-container-lowest px-margin-mobile pt-space-xl pb-space-2xl relative overflow-hidden">
+<div class="flex flex-col items-center text-center max-w-sm mx-auto">
+<span class="font-label-caps text-label-caps uppercase tracking-widest text-on-tertiary-container mb-space-sm">
+        AFTERSTORY PERFUMERY — CHAPTER EDITIONS
+      </span>
+<h1 class="font-headline-lg-mobile text-headline-lg-mobile text-surface-container-lowest italic mb-space-md leading-tight">
+        Fragrance for what remains after the moment.
+      </h1>
+<p class="font-label-caps text-label-caps uppercase tracking-wider text-on-tertiary-container mb-space-lg">
+        50 ML Extrait de Parfum • 25% Oil Concentration
+      </p>
+<!-- Pedestal Bottle Visual Frame -->
+<div class="relative w-full aspect-[3/4] max-w-[280px] mb-space-lg bg-primary-container shadow-2xl overflow-hidden">
+<img alt="Tobacco Bloom Chapter 02 bottle displayed on raw slate pedestal under cinematic cool gallery spotlight" class="w-full h-full object-cover object-center transform scale-100 transition-transform duration-700 ease-out hover:scale-105" src="https://lh3.googleusercontent.com/aida-public/AB6AXuC_JwOsU75h4GaANQRacYOLQK_MZ49xj_MjhJA3uaWUO7Es93iNPoo7cnYodbI_81peeA6hRjfvgEP2WiNqzh4nkZPhrJphwYjrF-RhS1brSnA8QnnEkQy8rMa5FU6F2JPWLcpdy2lL32G6Wme6L7kjQXm1BI6A_pTI0GulKLtYKemDHymSc6YoOpXaF4KE84slShUXXtsOgQ_E8oo-xn0OBY0DUnOrrU0YM5dtLQfJU2VDPskTIBr2Bg"/>
+<div class="absolute inset-0 bg-gradient-to-t from-tertiary-container/60 via-transparent to-transparent pointer-events-none"></div>
+<div class="absolute bottom-3 left-3 right-3 flex items-center justify-between pointer-events-none">
+<span class="font-label-caps text-label-caps tracking-widest text-surface-container-lowest uppercase bg-tertiary-container/80 px-space-xs py-0.5">
+            Archival Lot 02
+          </span>
+<span class="font-label-caps text-label-caps tracking-widest text-secondary-container uppercase bg-tertiary-container/80 px-space-xs py-0.5">
+            25% Extrait
+          </span>
+</div>
+</div>
+<!-- Hero Call to Action -->
+<a class="w-full max-w-[280px] min-h-[48px] px-space-md py-space-sm bg-secondary-container text-on-secondary-container font-label-caps text-label-caps uppercase tracking-widest flex items-center justify-center gap-space-xs shadow-md active:opacity-90 transition-opacity" href="#catalog-section">
+<span>Explore the collection</span>
+<span class="material-symbols-outlined text-[16px]">arrow_downward</span>
+</a>
+<div class="mt-space-md flex items-center gap-space-md text-on-tertiary-container">
+<div class="flex items-center gap-1">
+<span class="material-symbols-outlined text-[14px] text-secondary-container">verified</span>
+<span class="font-body-sm text-body-sm">Cold-Filtered</span>
+</div>
+<span class="text-surface-tint">•</span>
+<div class="flex items-center gap-1">
+<span class="material-symbols-outlined text-[14px] text-secondary-container">shield</span>
+<span class="font-body-sm text-body-sm">Nocturnal Sillage</span>
+</div>
+</div>
+</div>
+</section>
+<!-- Accord Quick Bar Indicator -->
+<div class="w-full bg-primary-container px-margin-mobile py-space-sm">
+<div class="flex items-center justify-between max-w-sm mx-auto">
+<div class="flex items-center gap-space-xs">
+<span class="font-label-caps text-label-caps uppercase tracking-wider text-on-primary-container">Concentration:</span>
+<span class="font-label-caps text-label-caps tracking-widest text-surface-container-lowest">25% Pure Oil</span>
+</div>
+<div class="flex items-center gap-space-xs">
+<span class="font-label-caps text-label-caps uppercase tracking-wider text-on-primary-container">Longevity:</span>
+<span class="font-label-caps text-label-caps tracking-widest text-secondary-container">12+ Hours</span>
+</div>
+</div>
+</div>
+<!-- 2. Curated Fragrance Selection -->
+<section class="w-full bg-surface-container-lowest text-on-surface px-gutter-mobile py-space-2xl" id="catalog-section">
+<div class="max-w-md mx-auto flex flex-col gap-space-md mb-space-lg">
+<div class="flex flex-col">
+<span class="font-label-caps text-label-caps uppercase tracking-widest text-on-surface-variant mb-space-xs">
+          Olfactive Catalog • Chapter Formulations
+        </span>
+<h2 class="font-headline-md text-headline-md text-on-surface italic">
+          Confirmed Editions
+        </h2>
+<p class="font-body-sm text-body-sm text-on-surface-variant mt-1">
+          Bottled at 25% Extrait de Parfum concentration. Blended with intention.
+        </p>
+</div>
+<!-- Filter / Category Indicator Pills -->
+<div class="flex items-center gap-space-xs overflow-x-auto pb-1 no-scrollbar">
+<button class="px-space-sm py-1 bg-primary text-on-primary font-label-caps text-label-caps uppercase tracking-wider whitespace-nowrap">
+          All Editions (3)
+        </button>
+<button class="px-space-sm py-1 bg-surface-container text-on-surface-variant font-label-caps text-label-caps uppercase tracking-wider whitespace-nowrap">
+          Smoky &amp; Resinous
+        </button>
+<button class="px-space-sm py-1 bg-surface-container text-on-surface-variant font-label-caps text-label-caps uppercase tracking-wider whitespace-nowrap">
+          Floral &amp; Musks
+        </button>
+</div>
+</div>
+<!-- 2-Column Mobile Grid -->
+<div class="grid grid-cols-2 gap-space-md max-w-md mx-auto">
+<!-- Card 1: Tobacco Bloom -->
+<div class="flex flex-col bg-surface-container-low p-space-sm shadow-sm group">
+<div class="relative w-full aspect-[3/4] bg-surface-container-high overflow-hidden mb-space-sm">
+<img alt="Tobacco Bloom Chapter 02 perfume bottle resting on raw black slate" class="w-full h-full object-cover object-center group-hover:scale-105 transition-transform duration-500" src="https://lh3.googleusercontent.com/aida-public/AB6AXuC_JwOsU75h4GaANQRacYOLQK_MZ49xj_MjhJA3uaWUO7Es93iNPoo7cnYodbI_81peeA6hRjfvgEP2WiNqzh4nkZPhrJphwYjrF-RhS1brSnA8QnnEkQy8rMa5FU6F2JPWLcpdy2lL32G6Wme6L7kjQXm1BI6A_pTI0GulKLtYKemDHymSc6YoOpXaF4KE84slShUXXtsOgQ_E8oo-xn0OBY0DUnOrrU0YM5dtLQfJU2VDPskTIBr2Bg"/>
+<span class="absolute top-2 left-2 bg-tertiary-container/90 text-surface-container-lowest font-label-caps text-label-caps px-1.5 py-0.5 uppercase tracking-wider">
+            Ch. 02
+          </span>
+</div>
+<div class="flex flex-col flex-1 justify-between gap-space-xs">
+<div class="flex flex-col">
+<h3 class="font-headline-sm text-headline-sm text-on-surface font-headline-sm leading-tight">
+              Tobacco Bloom
+            </h3>
+<span class="font-label-caps text-label-caps text-on-surface-variant uppercase tracking-wider mt-0.5">
+              Chapter 02
+            </span>
+<p class="font-body-sm text-body-sm text-on-surface-variant line-clamp-1 mt-1">
+              Tobacco / Vanilla / Warm Woods
+            </p>
+<p class="font-title-editorial text-title-editorial italic text-on-surface line-clamp-2 mt-1.5 leading-snug">
+              “Tobacco bloom, lingering softly after the evening ends.”
+            </p>
+</div>
+<div class="flex flex-col gap-space-sm pt-space-xs">
+<span class="font-label-caps text-label-caps uppercase text-on-surface-variant">
+              50 ML Extrait de Parfum
+            </span>
+<div class="flex items-baseline gap-space-xs">
+<span class="font-price-num text-price-num text-on-surface">₹499</span>
+<span class="font-body-sm text-body-sm line-through text-outline">₹799</span>
+<span class="font-label-caps text-label-caps text-secondary uppercase font-semibold">37% Off</span>
+</div>
+<button class="w-full min-h-[44px] bg-secondary-container text-on-secondary-container font-label-caps text-label-caps uppercase tracking-widest flex items-center justify-center gap-1 active:bg-secondary active:text-on-secondary transition-colors" onclick="addToCart('Tobacco Bloom', 'Chapter 02')">
+<span class="material-symbols-outlined text-[16px]">add_shopping_cart</span>
+<span>Add to Bag</span>
+</button>
+</div>
+</div>
+</div>
+<!-- Card 2: First Light -->
+<div class="flex flex-col bg-surface-container-low p-space-sm shadow-sm group">
+<div class="relative w-full aspect-[3/4] bg-surface-container-high overflow-hidden mb-space-sm">
+<img class="w-full h-full object-cover object-center group-hover:scale-105 transition-transform duration-500" data-alt="A minimalist architectural perfume bottle titled FIRST LIGHT CHAPTER 03 with transparent pale liquid set against cool dawn mist and grey concrete in soft diffused morning blue light." src="https://lh3.googleusercontent.com/aida-public/AB6AXuAdA_q4XTobK8r0RxhTP9HIHJXO808k6R4ry34QlpJPTZVe8_Vj78cloX9FOe1KEnVl7bVgxiVnsN_U9EMxlKuspyPTtJjZnTyPaQWfxVJzcrjpd28_xyKVP5UR7UawqFNUkHbSGv_ZzRo2BjYd6UWZy98HCE-qwuClA5hjHsib3szfS2qqCXUhNC3tMy8VbOTfLZJG_xyVPuesCL9U6hEApWSOonTYRCCZsdde7vSM6dT5bfVwWWvpZw"/>
+<span class="absolute top-2 left-2 bg-tertiary-container/90 text-surface-container-lowest font-label-caps text-label-caps px-1.5 py-0.5 uppercase tracking-wider">
+            Ch. 03
+          </span>
+</div>
+<div class="flex flex-col flex-1 justify-between gap-space-xs">
+<div class="flex flex-col">
+<h3 class="font-headline-sm text-headline-sm text-on-surface font-headline-sm leading-tight">
+              First Light
+            </h3>
+<span class="font-label-caps text-label-caps text-on-surface-variant uppercase tracking-wider mt-0.5">
+              Chapter 03
+            </span>
+<p class="font-body-sm text-body-sm text-on-surface-variant line-clamp-1 mt-1">
+              Citrus / Green Florals / Clean Woods
+            </p>
+<p class="font-title-editorial text-title-editorial italic text-on-surface line-clamp-2 mt-1.5 leading-snug">
+              “First light, finding its way through quiet mornings.”
+            </p>
+</div>
+<div class="flex flex-col gap-space-sm pt-space-xs">
+<span class="font-label-caps text-label-caps uppercase text-on-surface-variant">
+              50 ML Extrait de Parfum
+            </span>
+<div class="flex items-baseline gap-space-xs">
+<span class="font-price-num text-price-num text-on-surface">₹499</span>
+<span class="font-body-sm text-body-sm line-through text-outline">₹799</span>
+<span class="font-label-caps text-label-caps text-secondary uppercase font-semibold">37% Off</span>
+</div>
+<button class="w-full min-h-[44px] bg-secondary-container text-on-secondary-container font-label-caps text-label-caps uppercase tracking-widest flex items-center justify-center gap-1 active:bg-secondary active:text-on-secondary transition-colors" onclick="addToCart('First Light', 'Chapter 03')">
+<span class="material-symbols-outlined text-[16px]">add_shopping_cart</span>
+<span>Add to Bag</span>
+</button>
+</div>
+</div>
+</div>
+<!-- Card 3: White Musk -->
+<div class="flex flex-col bg-surface-container-low p-space-sm shadow-sm group">
+<div class="relative w-full aspect-[3/4] bg-surface-container-high overflow-hidden mb-space-sm">
+<img class="w-full h-full object-cover object-center group-hover:scale-105 transition-transform duration-500" data-alt="Monolithic luxury glass perfume bottle titled WHITE MUSK CHAPTER 06 surrounded by cool white translucent silk drapery and gentle shadows on dark slate flooring." src="https://lh3.googleusercontent.com/aida-public/AB6AXuBtygslkfDZM-Pzd9bCg_lxLjQQlksTU57YOHcahJ2QxvTzPPCf6V1gtR_Jnyvglg8cmntExg98PfJR6P1ILLObSE98oKP1CbhV1fOxQpr0bWuxCl8Zo_XaErjLbvq-fzyuzbUjwDy-lFZWFOV8uAJuidoxk3piZPonbe6uWW-2dntP_jeRH1zPBpGCcjSUF6Hhg5k_xwSSNYAtkb_Q0j9aOEAtdpPTtrlfPZ8HZJq6P4x1CyErKrvvHw"/>
+<span class="absolute top-2 left-2 bg-tertiary-container/90 text-surface-container-lowest font-label-caps text-label-caps px-1.5 py-0.5 uppercase tracking-wider">
+            Ch. 06
+          </span>
+</div>
+<div class="flex flex-col flex-1 justify-between gap-space-xs">
+<div class="flex flex-col">
+<h3 class="font-headline-sm text-headline-sm text-on-surface font-headline-sm leading-tight">
+              White Musk
+            </h3>
+<span class="font-label-caps text-label-caps text-on-surface-variant uppercase tracking-wider mt-0.5">
+              Chapter 06
+            </span>
+<p class="font-body-sm text-body-sm text-on-surface-variant line-clamp-1 mt-1">
+              Powder / White Florals / Musk
+            </p>
+<p class="font-title-editorial text-title-editorial italic text-on-surface line-clamp-2 mt-1.5 leading-snug">
+              “White musk, resting softly against warm bare skin.”
+            </p>
+</div>
+<div class="flex flex-col gap-space-sm pt-space-xs">
+<span class="font-label-caps text-label-caps uppercase text-on-surface-variant">
+              50 ML Extrait de Parfum
+            </span>
+<div class="flex items-baseline gap-space-xs">
+<span class="font-price-num text-price-num text-on-surface">₹499</span>
+<span class="font-body-sm text-body-sm line-through text-outline">₹799</span>
+<span class="font-label-caps text-label-caps text-secondary uppercase font-semibold">37% Off</span>
+</div>
+<button class="w-full min-h-[44px] bg-secondary-container text-on-secondary-container font-label-caps text-label-caps uppercase tracking-widest flex items-center justify-center gap-1 active:bg-secondary active:text-on-secondary transition-colors" onclick="addToCart('White Musk', 'Chapter 06')">
+<span class="material-symbols-outlined text-[16px]">add_shopping_cart</span>
+<span>Add to Bag</span>
+</button>
+</div>
+</div>
+</div>
+<!-- Card 4: Discovery Trio / Vault Sneak Peek -->
+<div class="flex flex-col bg-surface-container p-space-sm shadow-sm justify-between">
+<div class="flex flex-col">
+<span class="font-label-caps text-label-caps uppercase tracking-widest text-secondary mb-space-xs">
+            Curated Set
+          </span>
+<h3 class="font-headline-sm text-headline-sm text-on-surface font-headline-sm leading-tight">
+            The Chapter Trilogy
+          </h3>
+<p class="font-body-sm text-body-sm text-on-surface-variant mt-space-xs">
+            Chapters 02, 03 &amp; 06 preserved in 10 ML travel flacons.
+          </p>
+<div class="mt-space-md p-space-xs bg-surface-container-highest">
+<div class="flex items-center justify-between text-on-surface">
+<span class="font-label-caps text-label-caps uppercase">3 × 10 ML</span>
+<span class="font-price-num text-price-num">₹899</span>
+</div>
+</div>
+</div>
+<button class="w-full min-h-[44px] mt-space-md bg-primary text-on-primary font-label-caps text-label-caps uppercase tracking-widest flex items-center justify-center gap-1 active:opacity-90" onclick="addToCart('The Chapter Trilogy', 'Discovery Set')">
+<span>Reserve Trio</span>
+</button>
+</div>
+</div>
+</section>
+<!-- Interactive Accord Scent Anatomy Module -->
+<section class="w-full bg-surface-container px-gutter-mobile py-space-xl text-on-surface">
+<div class="max-w-md mx-auto flex flex-col gap-space-md">
+<div class="flex items-center justify-between">
+<div>
+<span class="font-label-caps text-label-caps uppercase tracking-widest text-on-surface-variant">
+            Formulation Matrix
+          </span>
+<h3 class="font-headline-sm text-headline-sm italic">
+            Chapter 02 Anatomy
+          </h3>
+</div>
+<span class="font-label-caps text-label-caps text-secondary uppercase bg-surface px-2 py-1">
+          Extrait Tier
+        </span>
+</div>
+<!-- Pyramid Accord Display -->
+<div class="flex flex-col gap-space-xs bg-surface-container-lowest p-space-md shadow-sm">
+<div class="flex items-center justify-between py-1">
+<span class="font-label-caps text-label-caps uppercase tracking-wider text-on-surface-variant">Top Notes</span>
+<span class="font-title-editorial text-title-editorial italic text-on-surface">Dried Tobacco Leaves, Bergamot Rind</span>
+</div>
+<div class="h-px bg-surface-container-highest w-full"></div>
+<div class="flex items-center justify-between py-1">
+<span class="font-label-caps text-label-caps uppercase tracking-wider text-on-surface-variant">Heart Notes</span>
+<span class="font-title-editorial text-title-editorial italic text-on-surface">Madagascan Vanilla, Tonka Bean</span>
+</div>
+<div class="h-px bg-surface-container-highest w-full"></div>
+<div class="flex items-center justify-between py-1">
+<span class="font-label-caps text-label-caps uppercase tracking-wider text-on-surface-variant">Base Notes</span>
+<span class="font-title-editorial text-title-editorial italic text-on-surface">Smoked Cedar, Amber Resin, Dark Slate</span>
+</div>
+</div>
+</div>
+</section>
+<!-- 3. Concise Brand Story Editorial Block -->
+<section class="w-full bg-primary-container text-surface-container-lowest px-margin-mobile py-space-2xl">
+<div class="max-w-md mx-auto flex flex-col gap-space-md">
+<div class="w-8 h-1 bg-secondary-container"></div>
+<span class="font-label-caps text-label-caps uppercase tracking-widest text-on-tertiary-container">
+        Editorial Philosophy • No. 001
+      </span>
+<h2 class="font-headline-lg-mobile text-headline-lg-mobile italic text-surface-container-lowest leading-snug">
+        The Idea of An Afterstory
+      </h2>
+<p class="font-body-lg text-body-lg text-surface-container-low leading-relaxed">
+        We capture what lingers when the crowd has left: the scent on a worn wool coat, the humidity of midnight rain on slate, and the memories that outlive the hour.
+      </p>
+<div class="pt-space-sm flex items-center justify-between text-on-tertiary-container">
+<div class="flex flex-col">
+<span class="font-label-caps text-label-caps uppercase tracking-wider">Provenance</span>
+<span class="font-body-sm text-body-sm text-surface-container-lowest">Nocturnal Blends</span>
+</div>
+<div class="flex flex-col text-right">
+<span class="font-label-caps text-label-caps uppercase tracking-wider">Release Schedule</span>
+<span class="font-body-sm text-body-sm text-surface-container-lowest">Seasonal Chapters</span>
+</div>
+</div>
+</div>
+</section>
+<!-- Toast Notification System (Interactive Moment of Delight) -->
+<div class="fixed bottom-20 left-4 right-4 max-w-sm mx-auto bg-tertiary-container text-surface-container-lowest p-space-md shadow-2xl flex items-center justify-between transform translate-y-32 opacity-0 transition-all duration-300 pointer-events-none z-50" id="cart-toast">
+<div class="flex items-center gap-space-sm">
+<div class="w-8 h-8 bg-secondary-container text-on-secondary-container flex items-center justify-center">
+<span class="material-symbols-outlined text-[18px]">check</span>
+</div>
+<div class="flex flex-col">
+<span class="font-headline-sm text-headline-sm italic leading-tight" id="toast-title">Tobacco Bloom</span>
+<span class="font-label-caps text-label-caps uppercase tracking-widest text-on-tertiary-container" id="toast-subtitle">Added to bag</span>
+</div>
+</div>
+<span class="font-price-num text-price-num text-secondary-container">₹499</span>
+</div>
+</div>
+<script>
+  function addToCart(title, chapter) {
+    const toast = document.getElementById('cart-toast');
+    const toastTitle = document.getElementById('toast-title');
+    const toastSub = document.getElementById('toast-subtitle');
+    
+    if (toast && toastTitle && toastSub) {
+      toastTitle.textContent = title;
+      toastSub.textContent = chapter + " preserved in bag";
+      
+      // Animate in
+      toast.classList.remove('translate-y-32', 'opacity-0', 'pointer-events-none');
+      toast.classList.add('translate-y-0', 'opacity-100');
+
+      // Auto dismiss after 2.6s
+      setTimeout(() => {
+        toast.classList.remove('translate-y-0', 'opacity-100');
+        toast.classList.add('translate-y-32', 'opacity-0', 'pointer-events-none');
+      }, 2600);
+    }
+  }
+</script><footer class="w-full bg-tertiary-container text-surface-container-lowest px-margin-mobile pt-space-2xl pb-space-3xl"><div class="max-w-md mx-auto flex flex-col gap-space-xl"><div class="flex flex-col gap-space-xs"><p class="font-headline-md text-headline-md italic text-surface-container-lowest font-headline-md">Fragrance for what remains after the moment.</p><span class="font-label-caps text-label-caps uppercase tracking-widest text-on-primary-container">Olfactive Archive • Est. MMXXIV</span></div><div class="flex flex-col gap-space-sm"><label class="font-label-caps text-label-caps uppercase tracking-wider text-on-primary-container">Nocturnal Dispatch</label><div class="flex items-center justify-between pb-space-xs bg-transparent"><input class="w-full bg-transparent font-body-sm text-body-sm text-surface-container-lowest placeholder:text-on-primary-container focus:outline-none" placeholder="Enter email address" type="email"/><button class="min-h-[44px] px-space-md font-label-caps text-label-caps uppercase tracking-widest bg-secondary-container text-on-secondary-container hover:opacity-95">Join</button></div></div><div class="grid grid-cols-2 gap-space-lg"><div class="flex flex-col gap-space-sm"><span class="font-label-caps text-label-caps uppercase tracking-wider text-on-primary-container">Formulations</span><a class="font-body-sm text-body-sm text-surface-container-lowest hover:text-secondary-container min-h-[44px] flex items-center" data-path="catalog" href="#">Fragrance Chapters 01-13</a><a class="font-body-sm text-body-sm text-surface-container-lowest hover:text-secondary-container min-h-[44px] flex items-center" data-path="extrait-facts" href="#">Care &amp; Extrait Facts</a></div><div class="flex flex-col gap-space-sm"><span class="font-label-caps text-label-caps uppercase tracking-wider text-on-primary-container">Service</span><a class="font-body-sm text-body-sm text-surface-container-lowest hover:text-secondary-container min-h-[44px] flex items-center" data-path="shipping" href="#">Shipping &amp; Returns</a><a class="font-body-sm text-body-sm text-surface-container-lowest hover:text-secondary-container min-h-[44px] flex items-center" data-path="legal" href="#">Legal Notices</a></div></div><div class="pt-space-md flex flex-col gap-space-xs"><p class="font-body-sm text-body-sm text-on-primary-container">© 2024 AFTERSTORY. All compositions preserved.</p></div></div></footer></main><nav class="fixed bottom-0 w-full z-50 pb-safe bg-tertiary-container/95 backdrop-blur-xl shadow-[0_-1px_8px_rgba(0,0,0,0.08)]" data-active-classes="text-secondary-container"><div class="flex justify-around items-center h-16 px-gutter-mobile"><a aria-current="page" class="flex flex-col items-center justify-center gap-space-xs min-h-[44px] min-w-[44px] transition-colors text-secondary-container" data-path="catalog" href="#"><span class="material-symbols-outlined text-[20px]">grid_view</span><span class="font-label-caps text-label-caps uppercase">Shop</span></a><a class="flex flex-col items-center justify-center gap-space-xs min-h-[44px] min-w-[44px] text-on-primary-container transition-colors" data-path="our-story" href="#"><span class="material-symbols-outlined text-[20px]">auto_stories</span><span class="font-label-caps text-label-caps uppercase">Story</span></a><a class="flex flex-col items-center justify-center gap-space-xs min-h-[44px] min-w-[44px] text-on-primary-container transition-colors" data-path="shopping-cart" href="#"><span class="material-symbols-outlined text-[20px]">local_mall</span><span class="font-label-caps text-label-caps uppercase">Cart (1)</span></a><a class="flex flex-col items-center justify-center gap-space-xs min-h-[44px] min-w-[44px] text-on-primary-container transition-colors" data-path="saved" href="#"><span class="material-symbols-outlined text-[20px]">bookmark</span><span class="font-label-caps text-label-caps uppercase">Archive</span></a></div></nav></body></html>
