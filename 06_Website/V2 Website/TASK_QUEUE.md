@@ -13,10 +13,10 @@ Work through these tasks in order. Do not start a dependent task until its prere
 - **Completion criteria:** The legal name, GSTIN, registered address, state code, and GST rate have been confirmed by the brand owner. The certificate file should still be retained with the production records if required for deployment or accounting.
 
 ### 2. Approve final product photography
-- **Status:** Ready for review
+- **Status:** Done
 - **Owner:** Brand owner
 - **Dependency:** None
-- **Completion criteria:** Final images are approved for FIRST LIGHT, TOBACCO BLOOM, and WHITE MUSK, with an explicit mapping of each image to its product use. Candidate mapping has been prepared; owner approval is still pending.
+- **Completion criteria:** Final images are approved for FIRST LIGHT, TOBACCO BLOOM, and WHITE MUSK, with the approved mapping recorded in the project handoff.
 
 ### 3. Confirm final product content
 - **Status:** Queued
