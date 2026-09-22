@@ -47,7 +47,7 @@ The current implementation decisions supersede any earlier unresolved delivery a
 - Dispatch occurs within 2–3 days, followed by another 2–3 days for delivery. All Indian PIN codes are serviceable.
 - Razorpay is selected for payment; setup is deferred. Guest checkout is allowed and COD is disabled.
 - No returns or refunds are processed.
-- Launch products are FIRST LIGHT, TOBACCO BLOOM, and WHITE MUSK. The other fragrances are Coming Soon only.
+- Launch products are FIRST LIGHT, TOBACCO BLOOM, and WHITE MUSK. The other fragrances are hidden from the storefront for now.
 - When stock reaches zero, disable purchase and show **Under Preparation**.
 - Support is afterstory@gmail.com and WhatsApp 9161666633.
 - The owner alone can access the separate order and inventory dashboard through the existing Google/Firebase owner account.

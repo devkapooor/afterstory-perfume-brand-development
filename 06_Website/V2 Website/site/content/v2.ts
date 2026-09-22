@@ -9,7 +9,6 @@ export type V2Product = {
 };
 
 export const v2Products: V2Product[] = [
-  { code: '01', name: 'STILL HERE', launch: false, stock: 0 },
   {
     code: '02',
     name: 'TOBACCO BLOOM',
@@ -28,8 +27,6 @@ export const v2Products: V2Product[] = [
     launch: true,
     stock: 1,
   },
-  { code: '04', name: 'LAST LOOK', launch: false, stock: 0 },
-  { code: '05', name: 'DARK WOOD', launch: false, stock: 0 },
   {
     code: '06',
     name: 'WHITE MUSK',
@@ -39,13 +36,6 @@ export const v2Products: V2Product[] = [
     launch: true,
     stock: 1,
   },
-  { code: '07', name: 'GOLDEN ORCHID', launch: false, stock: 0 },
-  { code: '08', name: 'YUZU WAVE', launch: false, stock: 0 },
-  { code: '09', name: 'LAST CALL', launch: false, stock: 0 },
-  { code: '10', name: 'CANDY FLOSS', launch: false, stock: 0 },
-  { code: '11', name: 'SLOW CARAMEL', launch: false, stock: 0 },
-  { code: '12', name: 'OLD ESTATE', launch: false, stock: 0 },
-  { code: '13', name: 'QUIET SHADOW', launch: false, stock: 0 },
 ];
 
 export const v2Commerce = {

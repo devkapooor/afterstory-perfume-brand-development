@@ -45,7 +45,7 @@ The existing website at `https://www.afterstory.in` uses source in `../../afters
  
 ## Confirmed commerce and release directions
  
-- **Launch availability:** FIRST LIGHT, TOBACCO BLOOM, and WHITE MUSK are initially purchasable. All other fragrances appear as **Coming Soon** and must not have cart or checkout actions.
+- **Launch availability:** FIRST LIGHT, TOBACCO BLOOM, and WHITE MUSK are initially purchasable. Other fragrances are not displayed in the storefront for now.
 - **Initial sellable stock:** FIRST LIGHT: 1 bottle; TOBACCO BLOOM: 2 bottles; WHITE MUSK: 1 bottle. Verify live stock against 02_Inventory_Costing/INVENTORY_MASTER.csv when implementation begins.
 - **Out-of-stock behavior:** When a product's stock reaches zero, disable purchase and show a button labeled **Under Preparation**.
 - **Delivery:** India-wide delivery. Orders of ₹999 or less incur a ₹100 delivery charge. Orders above ₹999 receive free delivery. Dispatch is within 2–3 days; delivery takes another 2–3 days after dispatch. All Indian PIN codes are serviceable.
