@@ -1,50 +1,64 @@
 import type { Metadata } from 'next';
 import { Cormorant_Garamond, DM_Sans } from 'next/font/google';
 import './globals.css';
-import { site } from '../content/site';
 
-const editorialSerif = Cormorant_Garamond({ variable: '--font-editorial-serif', subsets: ['latin'], weight: ['400'], style: ['normal', 'italic'], display: 'swap' });
-const editorialSans = DM_Sans({ variable: '--font-editorial-sans', subsets: ['latin'], weight: ['400', '500'], display: 'swap' });
+const editorialSerif = Cormorant_Garamond({
+  variable: '--font-editorial-serif',
+  subsets: ['latin'],
+  weight: ['400'],
+  style: ['normal', 'italic'],
+  display: 'swap',
+});
+const editorialSans = DM_Sans({
+  variable: '--font-editorial-sans',
+  subsets: ['latin'],
+  weight: ['400', '500'],
+  display: 'swap',
+});
 
 export const metadata: Metadata = {
-  metadataBase: new URL(site.metadata.url),
-  title: site.metadata.title,
-  description: site.metadata.description,
-  alternates: { canonical: '/' },
-  applicationName: site.name,
-  creator: site.name,
-  publisher: site.name,
-  keywords: ['AFTERSTORY', 'AFTERSTORY perfumes', 'Indian perfume brand', 'unisex perfumes India', 'independent fragrance India'],
-  robots: { index: true, follow: true, googleBot: { index: true, follow: true, 'max-image-preview': 'large', 'max-snippet': -1 } },
+  metadataBase: new URL('https://www.afterstory.in'),
+  title: 'Shop AFTERSTORY | Fragrance for what remains after the moment',
+  description:
+    'Explore the first AFTERSTORY fragrances: FIRST LIGHT, TOBACCO BLOOM and WHITE MUSK.',
+  alternates: { canonical: '/v2' },
+  applicationName: 'AFTERSTORY',
+  creator: 'AFTERSTORY',
+  publisher: 'Amelia Enterprises',
+  keywords: [
+    'AFTERSTORY',
+    'AFTERSTORY perfumes',
+    'Indian perfume brand',
+    'unisex perfumes India',
+  ],
+  robots: { index: true, follow: true },
   openGraph: {
-    title: site.metadata.title,
-    description: site.metadata.socialDescription,
-    url: '/', type: 'website', locale: 'en_IN', siteName: site.name,
+    title: 'Shop AFTERSTORY',
+    description:
+      'Explore FIRST LIGHT, TOBACCO BLOOM and WHITE MUSK from AFTERSTORY.',
+    url: '/v2',
+    type: 'website',
+    locale: 'en_IN',
+    siteName: 'AFTERSTORY',
   },
-  twitter: { card: 'summary', title: site.metadata.title, description: site.metadata.twitterDescription },
+  twitter: {
+    card: 'summary',
+    title: 'Shop AFTERSTORY',
+    description:
+      'Explore FIRST LIGHT, TOBACCO BLOOM and WHITE MUSK from AFTERSTORY.',
+  },
 };
 
-const structuredData = [
-  {
-    '@context': 'https://schema.org',
-    '@type': 'WebSite',
-    '@id': `${site.metadata.url}/#website`,
-    url: `${site.metadata.url}/`,
-    name: site.name,
-    alternateName: ['AFTERSTORY Perfumes', 'Wear AFTERSTORY'],
-    description: site.metadata.description,
-    inLanguage: 'en-IN',
-  },
-  {
-    '@context': 'https://schema.org',
-    '@type': 'Organization',
-    '@id': `${site.metadata.url}/#organization`,
-    name: site.name,
-    url: `${site.metadata.url}/`,
-    sameAs: [site.instagram],
-  },
-];
-
-export default function RootLayout({ children }: Readonly<{ children: React.ReactNode }>) {
-  return <html lang="en"><body className={`${editorialSerif.variable} ${editorialSans.variable}`}><script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(structuredData) }} />{children}</body></html>;
+export default function RootLayout({
+  children,
+}: Readonly<{ children: React.ReactNode }>) {
+  return (
+    <html lang="en">
+      <body
+        className={[editorialSerif.variable, editorialSans.variable].join(' ')}
+      >
+        {children}
+      </body>
+    </html>
+  );
 }
