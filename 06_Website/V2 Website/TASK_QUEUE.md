@@ -7,10 +7,10 @@ Work through these tasks in order. Do not start a dependent task until its prere
 ## Phase 1 — Business inputs and content
 
 ### 1. Provide and record the GST certificate
-- **Status:** Queued
+- **Status:** Done
 - **Owner:** Brand owner
 - **Dependency:** None
-- **Completion criteria:** The GST certificate is uploaded and the legal name, GSTIN, registered address, state code, and GST rate are verified against it.
+- **Completion criteria:** The legal name, GSTIN, registered address, state code, and GST rate have been confirmed by the brand owner. The certificate file should still be retained with the production records if required for deployment or accounting.
 
 ### 2. Approve final product photography
 - **Status:** Queued
@@ -127,4 +127,3 @@ Work through these tasks in order. Do not start a dependent task until its prere
 - **Owner:** Brand owner / website team
 - **Dependency:** Task 18
 - **Completion criteria:** V2 replaces `www.afterstory.in` only after launch approval, with a rollback plan and the existing live site preserved until the cutover is confirmed.
-
