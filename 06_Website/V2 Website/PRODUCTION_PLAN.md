@@ -55,3 +55,11 @@ The current implementation decisions supersede any earlier unresolved delivery a
 - Legal business name: Amelia Enterprises. GSTIN: 09EJZPK1192M1Z7. Registered address: JN E 606, ECLLAVE, JANESHWAR, Jankipuram, Lucknow, Uttar Pradesh. State code: 09. GST contact: 9044822366.
 - Final product imagery is available in 04_Generated_Images/Website_Selected/ and 04_Generated_Images/Packaging/Single_Product_Mockups/. Use these finalized bottle and label assets instead of Stitch-hosted conceptual images.
 - **Responsive scope:** Support mobile, tablet, laptop, and wide desktop layouts. Validate representative sizes across all four ranges.
+## Additional confirmed operational details
+
+- The ₹499 public selling price is GST-inclusive at 18%; the checkout must not add GST a second time.
+- Dispatch uses the GST registered address: JN E 606, ECLLAVE, JANESHWAR, Jankipuram, Lucknow, Uttar Pradesh.
+- Reserve inventory only after Razorpay reports successful payment.
+- Fulfill paid orders on a ready-to-make basis before dispatch.
+- Owner dashboard authentication will use devkapoor.1917@gmail.com. Do not expose this address in public client code.
+- Product-image approval is still pending.

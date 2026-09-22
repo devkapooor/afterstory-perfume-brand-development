@@ -58,3 +58,11 @@ The existing website at `https://www.afterstory.in` uses source in `../../afters
 - **Business identity:** Legal business name is Amelia Enterprises. Registered address: JN E 606, ECLLAVE, JANESHWAR, Jankipuram, Lucknow, Uttar Pradesh. GSTIN: 09EJZPK1192M1Z7. State code: 09. GST contact: 9044822366.
 
 - **Product imagery source:** Use the finalized bottle and label assets in 04_Generated_Images/Website_Selected/ and 04_Generated_Images/Packaging/Single_Product_Mockups/. The launch-three-scents images are suitable for collection/hero use; the individual first-light-story-01.png, tobacco-bloom-story-01.png, and white-musk-story-01.png files are suitable for product detail imagery. Do not use earlier Stitch-hosted conceptual images as final product photography.
+## Additional confirmed operational details
+
+- Product prices are inclusive of **18% GST**. Do not add GST on top of the displayed ₹499 selling price.
+- Dispatch address is the same as the registered GST address: JN E 606, ECLLAVE, JANESHWAR, Jankipuram, Lucknow, Uttar Pradesh.
+- Stock is reserved only after successful Razorpay payment confirmation.
+- After successful payment confirmation, fulfill the order on a ready-to-make basis and then dispatch it under the confirmed 2–3 day dispatch window.
+- Owner dashboard authentication account: devkapoor.1917@gmail.com. Keep this account detail out of public storefront code and client-side data.
+- Final public product-image approval remains pending.
