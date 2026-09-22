@@ -42,3 +42,19 @@ Responsive behavior: design desktop compositions intentionally, rather than stre
 ## Existing site relationship
 
 The existing website at `https://www.afterstory.in` uses source in `../../afterstory-site/` and currently includes a coming-soon page and shop content. Its content files and selected images may provide implementation starting points, but V2 should be prepared in an isolated branch or directory when implementation is approved. Preserve the live deployment until the new experience is tested and explicitly released. The current `content/shop.ts` contains delivery text (`₹99`, free above `₹899`); this conflicts with the Stitch checkout's `₹50` and product page's free-shipping claim. Resolve the actual delivery policy from an approved operational source before implementing checkout.
+ 
+## Confirmed commerce and release directions
+ 
+- **Launch availability:** FIRST LIGHT, TOBACCO BLOOM, and WHITE MUSK are initially purchasable. All other fragrances appear as **Coming Soon** and must not have cart or checkout actions.
+- **Initial sellable stock:** FIRST LIGHT: 1 bottle; TOBACCO BLOOM: 2 bottles; WHITE MUSK: 1 bottle. Verify live stock against 02_Inventory_Costing/INVENTORY_MASTER.csv when implementation begins.
+- **Out-of-stock behavior:** When a product's stock reaches zero, disable purchase and show a button labeled **Under Preparation**.
+- **Delivery:** India-wide delivery. Orders of ₹999 or less incur a ₹100 delivery charge. Orders above ₹999 receive free delivery. Dispatch is within 2–3 days; delivery takes another 2–3 days after dispatch. All Indian PIN codes are serviceable.
+- **Payment and checkout:** Guest checkout is allowed. COD is unavailable. Razorpay is the planned payment provider, with merchant setup to be completed later. GST invoices are required.
+- **Returns:** No returns or refunds are processed.
+- **Support:** Customer support email is afterstory@gmail.com; WhatsApp support number is 9161666633.
+- **Administration:** Provide a separate order and inventory dashboard restricted to the owner through the existing Google/Firebase owner account.
+- **Release:** Keep the current live website untouched during development. Create and test a preview deployment first; replace www.afterstory.in only after the V2 site is approved for release.
+- **Scope:** Build responsively for mobile, tablet, laptop, and wide desktop layouts. Product photography is sourced from the finalized assets in 04_Generated_Images.
+- **Business identity:** Legal business name is Amelia Enterprises. GSTIN is 09EJZPK1192M1Z7; use the uploaded GST certificate for the remaining invoice and registered-address details.
+
+- **Product imagery source:** Use the finalized bottle and label assets in 04_Generated_Images/Website_Selected/ and 04_Generated_Images/Packaging/Single_Product_Mockups/. The launch-three-scents images are suitable for collection/hero use; the individual first-light-story-01.png, tobacco-bloom-story-01.png, and white-musk-story-01.png files are suitable for product detail imagery. Do not use earlier Stitch-hosted conceptual images as final product photography.

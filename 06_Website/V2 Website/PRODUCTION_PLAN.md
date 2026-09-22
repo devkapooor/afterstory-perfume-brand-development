@@ -38,3 +38,20 @@ Suggested implementation modules: site shell/navigation; product catalog and sha
 | Hosting/framework change, if any | Existing site setup is available; no change selected. |
 
 No implementation, preview deployment, or production change has been made as part of this handoff.
+
+## Confirmed direction update
+
+The current implementation decisions supersede any earlier unresolved delivery and launch notes above:
+
+- India-wide delivery: ₹100 for orders of ₹999 or less; free above ₹999.
+- Dispatch occurs within 2–3 days, followed by another 2–3 days for delivery. All Indian PIN codes are serviceable.
+- Razorpay is selected for payment; setup is deferred. Guest checkout is allowed and COD is disabled.
+- No returns or refunds are processed.
+- Launch products are FIRST LIGHT, TOBACCO BLOOM, and WHITE MUSK. The other fragrances are Coming Soon only.
+- When stock reaches zero, disable purchase and show **Under Preparation**.
+- Support is afterstory@gmail.com and WhatsApp 9161666633.
+- The owner alone can access the separate order and inventory dashboard through the existing Google/Firebase owner account.
+- Keep the current live website untouched. Use a preview deployment before any future replacement of www.afterstory.in.
+- Legal business name: Amelia Enterprises. GSTIN: 09EJZPK1192M1Z7. Remaining registered-address and invoice details will come from the uploaded GST certificate.
+- Final product imagery is available in 04_Generated_Images/Website_Selected/ and 04_Generated_Images/Packaging/Single_Product_Mockups/. Use these finalized bottle and label assets instead of Stitch-hosted conceptual images.
+- **Responsive scope:** Support mobile, tablet, laptop, and wide desktop layouts. Validate representative sizes across all four ranges.
