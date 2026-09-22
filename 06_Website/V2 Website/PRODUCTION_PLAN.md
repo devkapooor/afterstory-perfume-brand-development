@@ -52,6 +52,6 @@ The current implementation decisions supersede any earlier unresolved delivery a
 - Support is afterstory@gmail.com and WhatsApp 9161666633.
 - The owner alone can access the separate order and inventory dashboard through the existing Google/Firebase owner account.
 - Keep the current live website untouched. Use a preview deployment before any future replacement of www.afterstory.in.
-- Legal business name: Amelia Enterprises. GSTIN: 09EJZPK1192M1Z7. Remaining registered-address and invoice details will come from the uploaded GST certificate.
+- Legal business name: Amelia Enterprises. GSTIN: 09EJZPK1192M1Z7. Registered address: JN E 606, ECLLAVE, JANESHWAR, Jankipuram, Lucknow, Uttar Pradesh. State code: 09. GST contact: 9044822366.
 - Final product imagery is available in 04_Generated_Images/Website_Selected/ and 04_Generated_Images/Packaging/Single_Product_Mockups/. Use these finalized bottle and label assets instead of Stitch-hosted conceptual images.
 - **Responsive scope:** Support mobile, tablet, laptop, and wide desktop layouts. Validate representative sizes across all four ranges.

@@ -55,6 +55,6 @@ The existing website at `https://www.afterstory.in` uses source in `../../afters
 - **Administration:** Provide a separate order and inventory dashboard restricted to the owner through the existing Google/Firebase owner account.
 - **Release:** Keep the current live website untouched during development. Create and test a preview deployment first; replace www.afterstory.in only after the V2 site is approved for release.
 - **Scope:** Build responsively for mobile, tablet, laptop, and wide desktop layouts. Product photography is sourced from the finalized assets in 04_Generated_Images.
-- **Business identity:** Legal business name is Amelia Enterprises. GSTIN is 09EJZPK1192M1Z7; use the uploaded GST certificate for the remaining invoice and registered-address details.
+- **Business identity:** Legal business name is Amelia Enterprises. Registered address: JN E 606, ECLLAVE, JANESHWAR, Jankipuram, Lucknow, Uttar Pradesh. GSTIN: 09EJZPK1192M1Z7. State code: 09. GST contact: 9044822366.
 
 - **Product imagery source:** Use the finalized bottle and label assets in 04_Generated_Images/Website_Selected/ and 04_Generated_Images/Packaging/Single_Product_Mockups/. The launch-three-scents images are suitable for collection/hero use; the individual first-light-story-01.png, tobacco-bloom-story-01.png, and white-musk-story-01.png files are suitable for product detail imagery. Do not use earlier Stitch-hosted conceptual images as final product photography.
