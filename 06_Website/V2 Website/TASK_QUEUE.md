@@ -19,10 +19,10 @@ Work through these tasks in order. Do not start a dependent task until its prere
 - **Completion criteria:** Final images are approved for FIRST LIGHT, TOBACCO BLOOM, and WHITE MUSK, with the approved mapping recorded in the project handoff.
 
 ### 3. Confirm final product content
-- **Status:** Ready for review
+- **Status:** Done
 - **Owner:** Brand owner
 - **Dependency:** None
-- **Completion criteria:** Product names, fragrance descriptions, notes, usage instructions, size, concentration, price, MRP, and stock display copy are approved. Canonical product content has been prepared; usage instructions remain to be confirmed.
+- **Completion criteria:** Product names, approved descriptions, profiles, stories, usage instructions, size, concentration, price, MRP, category architecture, and stock display copy are approved.
 
 ## Phase 2 — Catalog and storefront
 
@@ -68,7 +68,7 @@ Work through these tasks in order. Do not start a dependent task until its prere
 - **Status:** Queued
 - **Owner:** Website team
 - **Dependency:** Tasks 1 and 7
-- **Completion criteria:** Successful orders generate GST invoices using the verified Amelia Enterprises details and the GST-inclusive ₹499 pricing.
+- **Completion criteria:** Successful orders generate GST invoices using the verified Amelia Enterprises details and the GST-inclusive ₹599 pricing.
 
 ### 11. Build the owner dashboard
 - **Status:** Queued
@@ -94,7 +94,7 @@ Work through these tasks in order. Do not start a dependent task until its prere
 - **Status:** Queued
 - **Owner:** Website team / brand owner
 - **Dependency:** Task 13
-- **Completion criteria:** Verify ₹499, ₹999, and above-₹999 shipping rules; guest checkout; payment success/failure; stock reservation; zero-stock state; invoice generation; and order-status updates.
+- **Completion criteria:** Verify the ₹599 single-product order, the above-₹999 free-delivery threshold, guest checkout, payment success/failure, stock reservation, zero-stock state, invoice generation, and order-status updates.
 
 ### 15. Run responsive and accessibility verification
 - **Status:** Queued

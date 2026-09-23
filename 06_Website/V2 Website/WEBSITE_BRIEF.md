@@ -6,8 +6,8 @@ Make AFTERSTORY immediately recognizable as a perfume store while keeping its qu
 
 ## Canonical brand and catalog
 
-- Brand: AFTERSTORY, an independent Indian unisex fragrance brand. Product designation: **Extrait de Parfum**. Confirmed concentration: **25% by weight**. Display `50 ML` for the three web launch products.
-- Current web launch products: **FIRST LIGHT** (Chapter 03), **TOBACCO BLOOM** (Chapter 02), and **WHITE MUSK** (Chapter 06). Each has public selling price **₹499**, MRP **₹799**, subject to the current canonical pricing register at build/release time. Do not infer stock quantities from launch status.
+- Brand: AFTERSTORY, an independent Indian fragrance brand. Product designation: **Extrait de Parfum**. Confirmed concentration: **25% by weight**. Display `50 ML` for the three web launch products.
+- Current web launch products: **FIRST LIGHT** (Chapter 03), **TOBACCO BLOOM** (Chapter 02), and **WHITE MUSK** (Chapter 06). Each has public selling price **₹599**, MRP **₹799**, subject to the current canonical pricing register at build/release time. Do not infer stock quantities from launch status.
 - Confirmed profiles and stories:
 
   | Product | Profile | Story |
@@ -15,6 +15,13 @@ Make AFTERSTORY immediately recognizable as a perfume store while keeping its qu
   | FIRST LIGHT | Citrus / Green Florals / Clean Woods | First light, finding its way through quiet mornings. |
   | TOBACCO BLOOM | Tobacco / Vanilla / Warm Woods | Tobacco bloom, lingering softly after the evening ends. |
   | WHITE MUSK | Powder / White Florals / Musk | White musk, resting softly against warm bare skin. |
+
+- Approved short descriptions:
+  - **FIRST LIGHT:** A bright, clean fragrance of citrus, green florals, and clean woods.
+  - **TOBACCO BLOOM:** A warm evening fragrance of tobacco, vanilla, and soft woods.
+  - **WHITE MUSK:** A soft, close-to-skin fragrance of powder, white florals, and musk.
+- Approved usage copy: **Spray 2-4 times on pulse points or clothing. Avoid eyes, face, broken skin, heat, and open flames. For external use only.**
+- Category architecture: Provide browsing categories for **Men**, **Women**, and **Unisex**. Do not present every product as unisex by default or repeat that descriptor throughout product pages. Product-to-category assignments are decided when catalog filters are implemented.
 
 - Locked collection order: 01 STILL HERE; 02 TOBACCO BLOOM; 03 FIRST LIGHT; 04 LAST LOOK; 05 DARK WOOD; 06 WHITE MUSK; 07 GOLDEN ORCHID; 08 YUZU WAVE; 09 LAST CALL; 10 CANDY FLOSS; 11 SLOW CARAMEL; 12 OLD ESTATE; 13 QUIET SHADOW. The wider launch selection remains undecided. Do not expose the other ten as purchasable without a separate release decision. Customer-facing prefix for 08–13 is TBD, so avoid locking all 13 to “Chapter” in final copy.
 - Do not offer the 8 ML products in checkout. Their branded-label release remains pending.
@@ -60,9 +67,9 @@ The existing website at `https://www.afterstory.in` uses source in `../../afters
 - **Product imagery source:** Use the finalized bottle and label assets in 04_Generated_Images/Website_Selected/ and 04_Generated_Images/Packaging/Single_Product_Mockups/. The launch-three-scents images are suitable for collection/hero use; the individual first-light-story-01.png, tobacco-bloom-story-01.png, and white-musk-story-01.png files are suitable for product detail imagery. Do not use earlier Stitch-hosted conceptual images as final product photography.
 ## Additional confirmed operational details
 
-- Product prices are inclusive of **18% GST**. Do not add GST on top of the displayed ₹499 selling price.
+- Product prices are inclusive of **18% GST**. Do not add GST on top of the displayed ₹599 selling price.
 - Dispatch address is the same as the registered GST address: JN E 606, ECLLAVE, JANESHWAR, Jankipuram, Lucknow, Uttar Pradesh.
 - Stock is reserved only after successful Razorpay payment confirmation.
 - After successful payment confirmation, fulfill the order on a ready-to-make basis and then dispatch it under the confirmed 2–3 day dispatch window.
 - Owner dashboard authentication account: devkapoor.1917@gmail.com. Keep this account detail out of public storefront code and client-side data.
-- Final public product-image approval remains pending.
+- Final public product-image approval is complete; use the approved assets specified above.

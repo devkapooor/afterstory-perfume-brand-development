@@ -57,7 +57,7 @@ The current implementation decisions supersede any earlier unresolved delivery a
 - **Responsive scope:** Support mobile, tablet, laptop, and wide desktop layouts. Validate representative sizes across all four ranges.
 ## Additional confirmed operational details
 
-- The ₹499 public selling price is GST-inclusive at 18%; the checkout must not add GST a second time.
+- The ₹599 public selling price is GST-inclusive at 18%; the checkout must not add GST a second time.
 - Dispatch uses the GST registered address: JN E 606, ECLLAVE, JANESHWAR, Jankipuram, Lucknow, Uttar Pradesh.
 - Reserve inventory only after Razorpay reports successful payment.
 - Fulfill paid orders on a ready-to-make basis before dispatch.
