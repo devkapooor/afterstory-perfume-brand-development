@@ -47,10 +47,11 @@ Work through these tasks in order. Do not start a dependent task until its prere
 ## Phase 3 — Commerce and operations
 
 ### 7. Configure Razorpay in a test environment
-- **Status:** In progress
+- **Status:** Blocked
 - **Owner:** Website team / Razorpay account owner
 - **Dependency:** Tasks 1, 4, and 5
 - **Completion criteria:** Test payments can be created, verified server-side, and safely marked successful or failed without exposing secret keys.
+- **Blocker:** Firebase Functions and Secret Manager require the Firebase project to be upgraded to the Blaze plan. Resume after the upgrade.
 
 ### 8. Implement payment and stock rules
 - **Status:** Queued
