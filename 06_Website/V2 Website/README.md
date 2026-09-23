@@ -1,6 +1,6 @@
 # AFTERSTORY V2 website handoff
 
-Prepared 2026-09-23. This folder is a **design and production handoff**, not a deployed website or an approved replacement for the current site. The live source remains in `../../afterstory-site/`; its route map is `../../afterstory-site/PROJECT_MAP.md`. Nothing here is wired into the live application.
+Prepared 2026-09-23 and updated after local V2 implementation. This folder contains the V2 application and its implementation references; it is not a deployed or approved replacement for the current live site. The live source remains in `../../afterstory-site/`; its route map is `../../afterstory-site/PROJECT_MAP.md`.
 
 ## What is here
 
@@ -11,9 +11,9 @@ Prepared 2026-09-23. This folder is a **design and production handoff**, not a d
 | `stitch-source/code/` | Original HTML/SVG files from Stitch, unedited. The prototype HTML duplicates the mobile homepage HTML exactly. |
 | `stitch-source/previews/` | Full-resolution screen images where Stitch supplied them, plus the logo and a concept photograph. Stitch did not supply a separate prototype preview. |
 | `stitch-source/assets/` and `asset-manifest.json` | Local copies of the 19 Google-hosted images referenced by the HTML, mapped back to their source URLs and screens. The HTML still points to the source URLs. |
-| `WEBSITE_BRIEF.md` | Intended pages, content, behavior, responsive treatment, and canonical business inputs. |
-| `PRODUCTION_PLAN.md` | Build architecture, integrations, quality gates, and unresolved decisions. |
-| `CONCEPT_AUDIT.md` | Specific discrepancies in the generated concept that must be corrected before production. |
+| `V2_REQUIREMENTS.md` | Active V2 scope, storefront rules, release controls, and quality requirements. |
+| `TASK_QUEUE.md` | Current V2 execution status, dependencies, and blockers. |
+| `99_Archive/Website_Documentation_Consolidation/` | Superseded brief, production plan, and Stitch audit retained for recovery only. |
 
 Stitch project: [AFTERSTORY Fragrance Storefront Concept](https://stitch.withgoogle.com/projects/18236276433058826667). The requested checkout screen is `cf79ab35335b4e678931a66550bc811f`.
 
