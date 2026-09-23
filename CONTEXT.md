@@ -15,11 +15,11 @@ Brand and 13-chapter collection are locked. Current inventory, product identifie
 | Products / SKUs | `02_Inventory_Costing/PRODUCT_MASTER.csv` |
 | Costing / COGS | `02_Inventory_Costing/COSTING.md` |
 | Pricing / MRP / wholesale / retailer | `02_Inventory_Costing/PRICING_MASTER.csv` |
-| Fragrances, chapters, stories | `01_Brand_Records/MASTER_SPEC.md` |
+| Fragrances, chapters, stories | `01_Brand_Records/BRAND_SYSTEM.md` |
 | Fragrance notes / internal reference mapping | `01_Brand_Records/fragrance_reference_map.md` |
 | Packaging specifications | `01_Brand_Records/LABEL_PRODUCTION_SPEC.md` |
 | Labels / artwork approval | `01_Brand_Records/ARTWORK_STATUS.md`; assets in `03_Label_Files/` |
-| Brand identity / locked decisions | `01_Brand_Records/MASTER_SPEC.md`, `BRAND_KIT.md` |
+| Brand identity / locked decisions | `01_Brand_Records/BRAND_SYSTEM.md` |
 | Brand-facing communication | `01_Brand_Records/COMMUNICATION_GUIDE.md` |
 | Purchases | `02_Inventory_Costing/PURCHASES.csv` |
 | Suppliers | `02_Inventory_Costing/SUPPLIER_MASTER.csv` |

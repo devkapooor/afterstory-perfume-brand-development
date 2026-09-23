@@ -1,8 +1,8 @@
 # AFTERSTORY Label Production Specifications
 
-Locked background for both label formats: #F6F1E6 (AFTERSTORY Warm Ivory). See BRAND_KIT.md. Existing exports are not recoloured by this record update.
+Locked background for both label formats: #F6F1E6 (AFTERSTORY Warm Ivory). See BRAND_SYSTEM.md. Existing exports are not recoloured by this record update.
 
-Founder-confirmed geometry, 2026-09-07. Creative rules are in BRAND_PRINCIPLES.md; approval status is in ARTWORK_STATUS.md.
+Founder-confirmed geometry, 2026-09-07. Creative rules are in BRAND_SYSTEM.md; approval status is in ARTWORK_STATUS.md.
 
 Current operating rule: until branded 8 ML labels are explicitly approved and released, use handwritten white labels for every 8 ML bottle. Do not deduct branded-label inventory for these temporary labels.
 

@@ -6,7 +6,7 @@ This is the active V2 handoff and requirements guide. It is an implementation re
 
 - The V2 application is developed in `site/` and must remain isolated from the live V1 source in `../../afterstory-site/` until preview testing and an explicit release decision.
 - V2 must be built as reusable components with structured content. Stitch HTML and external Stitch media are visual references only, never production checkout or final product data.
-- Product names, chapter order, stories, approved short descriptions, concentration, and launch eligibility come from `../../01_Brand_Records/MASTER_SPEC.md` and `../../02_Inventory_Costing/PRODUCT_MASTER.csv`.
+- Product names, chapter order, stories, approved short descriptions, concentration, launch eligibility, and brand direction come from `../../01_Brand_Records/BRAND_SYSTEM.md` and `../../02_Inventory_Costing/PRODUCT_MASTER.csv`.
 - Product price and MRP come from `../../02_Inventory_Costing/PRICING_MASTER.csv`; current sellable stock comes from `../../02_Inventory_Costing/INVENTORY_MASTER.csv` immediately before release. Do not infer stock from a website label.
 - Public policy wording and completed technical work are governed by V2 source code and `TASK_QUEUE.md`, not by historic handoff snapshots.
 

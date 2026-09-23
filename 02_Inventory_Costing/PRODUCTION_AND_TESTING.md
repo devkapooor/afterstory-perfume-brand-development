@@ -10,7 +10,7 @@ This is the active consolidated reference for product development, batches, yiel
 
 Founder reported good smell and longevity for earlier CK1, White Musk and Tobacco Vanilla, nominal 2 mL oil + 6 mL alcohol. Prior alcohol and oil lots were separate. Exact longevity hours, participant count, test conditions and per-scent sales counts were not measured in this record.
 
-The current base contains undisclosed fixatives according to founder, is untested, and lacks supplier documents in the workspace. The founder has confirmed 25% oil concentration; current materials still require evaluation. Brand collection decisions are locked in MASTER_SPEC.md; exact production quantities remain TBD.
+The current base contains undisclosed fixatives according to founder, is untested, and lacks supplier documents in the workspace. The founder has confirmed 25% oil concentration; current materials still require evaluation. Brand collection decisions are locked in BRAND_SYSTEM.md; exact production quantities remain TBD.
 
 ### Historical Candidate Queue (Superseded by Locked 13-Chapter Collection)
 
@@ -22,7 +22,7 @@ The current base contains undisclosed fixatives according to founder, is unteste
 | Woody amber | Oud Wood; Aristocrat challenger | Balance smell, stock and cost |
 | Evening | Tobacco Vanilla; 1 Million | Compare with previous customer feedback |
 
-The former five-role selection above is retained as testing history only. WHITE MUSK is now locked as Chapter 06; all 13 names and profiles are listed in MASTER_SPEC.md. Testing remains a distinct task from brand approval.
+The former five-role selection above is retained as testing history only. WHITE MUSK is now locked as Chapter 06; all 13 names and profiles are listed in BRAND_SYSTEM.md. Testing remains a distinct task from brand approval.
 
 ### Stock Constraints
 

@@ -23,9 +23,7 @@ Perfume Brand Development/
 
   01_Brand_System/
     Core/
-      BRAND_DECISIONS.md
-      BRAND_KIT.md
-      BRAND_PRINCIPLES.md
+      BRAND_SYSTEM.md
     Collection/
       FRAGRANCE_MASTER.md
       fragrance_reference_map.md
@@ -93,7 +91,7 @@ Perfume Brand Development/
 
 | Current source | Planned source | Rule |
 | --- | --- | --- |
-| `MASTER_SPEC.md` | `01_Brand_System/Core/BRAND_DECISIONS.md` | Keep locked decisions and explicit TBD items only. |
+| `BRAND_SYSTEM.md` | `01_Brand_System/Core/BRAND_SYSTEM.md` | Keep locked identity, collection, visual system, and explicit TBD items together. |
 | `AFTERSTORY_Instagram_Visual_Style_Master.md` | `01_Brand_System/Communication/SOCIAL_VISUAL_GUIDE.md` | Keep as the social visual authority. |
 | `PRODUCTION_AND_TESTING.md` | `02_Operations/Production/PRODUCTION_AND_TESTING.md` | Keep batch/testing/calibration records and production-route research together. |
 | `PURCHASES.csv` and invoice files | `03_Finance/Purchases/` | CSV is the transaction index; invoices are evidence. |
@@ -106,7 +104,7 @@ Perfume Brand Development/
 
 | Task | Read only these sources |
 | --- | --- |
-| Brand wording or product story | `BRAND_DECISIONS.md`, `BRAND_KIT.md`, `COMMUNICATION_GUIDE.md` if relevant |
+| Brand wording or product story | `BRAND_SYSTEM.md`, `COMMUNICATION_GUIDE.md` if relevant |
 | Fragrance or chapter lookup | `FRAGRANCE_MASTER.md`, `fragrance_reference_map.md` |
 | Label change or print check | `LABEL_PRODUCTION_SPEC.md`, `ARTWORK_STATUS.md`, selected asset folder |
 | Current stock or production entry | `INVENTORY_MASTER.csv`, `INVENTORY_TRANSACTIONS.csv`, `PRODUCT_MASTER.csv` |

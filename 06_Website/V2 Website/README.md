@@ -19,7 +19,7 @@ Stitch project: [AFTERSTORY Fragrance Storefront Concept](https://stitch.withgoo
 
 ## Source precedence
 
-The files under `stitch-source/` are **reference material**, not approved customer copy, product photography, legal policy, or working checkout code. For names, chapter order, stories, concentration, and launch selection, use `../../01_Brand_Records/MASTER_SPEC.md` and `../../01_Brand_Records/BRAND_PRINCIPLES.md`. For web prices and sale eligibility, use `../../02_Inventory_Costing/PRICING_MASTER.csv` and `PRODUCT_MASTER.csv`. Consult the inventory master at implementation time for actual sellable stock. Current website content in `../../afterstory-site/content/` is a separate implementation snapshot and does not override those canonical records.
+The files under `stitch-source/` are **reference material**, not approved customer copy, product photography, legal policy, or working checkout code. For names, chapter order, stories, concentration, launch selection, and brand direction, use `../../01_Brand_Records/BRAND_SYSTEM.md`. For web prices and sale eligibility, use `../../02_Inventory_Costing/PRICING_MASTER.csv` and `PRODUCT_MASTER.csv`. Consult the inventory master at implementation time for actual sellable stock. Current website content in `../../afterstory-site/content/` is a separate implementation snapshot and does not override those canonical records.
 
 The Stitch project shows a **mobile** homepage, collection, Tobacco Bloom product page, and cart/checkout. It also has a logo mark, concept photograph, and prototype item. It does **not** provide a complete desktop set or a functioning commerce backend. Treat its code as a visual reference and interaction sketch.
 

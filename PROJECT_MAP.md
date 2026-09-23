@@ -10,18 +10,17 @@ Read `CONTEXT.md` first. Use this map only when the route needs clarification.
 | Products | `02_Inventory_Costing/PRODUCT_MASTER.csv` | ACTIVE |
 | Costing | `02_Inventory_Costing/COSTING.md` | ACTIVE |
 | Pricing | `02_Inventory_Costing/PRICING_MASTER.csv` | ACTIVE |
-| Fragrances | `01_Brand_Records/MASTER_SPEC.md` | ACTIVE |
+| Fragrances | `01_Brand_Records/BRAND_SYSTEM.md` | ACTIVE |
 | Packaging | `01_Brand_Records/LABEL_PRODUCTION_SPEC.md` | ACTIVE |
-| Brand | `01_Brand_Records/BRAND_KIT.md` | ACTIVE |
-| Decisions | `01_Brand_Records/MASTER_SPEC.md` | ACTIVE |
+| Brand | `01_Brand_Records/BRAND_SYSTEM.md` | ACTIVE |
+| Decisions | `01_Brand_Records/BRAND_SYSTEM.md` | ACTIVE |
 | Website | `afterstory-site/` | ACTIVE |
 
 ## Business Records
 
 | Path | Purpose | Authority | Read when |
 | --- | --- | --- | --- |
-| `01_Brand_Records/MASTER_SPEC.md` | Locked brand, collection, chapters, stories | CANONICAL | Brand, fragrance, chapter, or lock questions |
-| `01_Brand_Records/BRAND_KIT.md` | Fonts, colour, visual identity | CANONICAL | Brand or design work |
+| `01_Brand_Records/BRAND_SYSTEM.md` | Locked identity, collection, visual system, packaging direction, and terminology | CANONICAL | Brand, fragrance, chapter, design, or lock questions |
 | `01_Brand_Records/COMMUNICATION_GUIDE.md` | Approved reusable brand communication rules | CANONICAL | Customer, retailer, or brand-facing communication |
 | `01_Brand_Records/LABEL_PRODUCTION_SPEC.md` | Label dimensions and technical requirements | CANONICAL | Label or packaging work |
 | `01_Brand_Records/ARTWORK_STATUS.md` | Artwork approval status | CANONICAL | Artwork or label-release questions |
