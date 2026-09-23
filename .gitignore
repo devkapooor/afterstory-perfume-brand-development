@@ -7,6 +7,9 @@ afterstory-site/.vinext/
 afterstory-site/.firebase/
 afterstory-site/.wrangler/
 afterstory-site/.openai/
+**/node_modules/
+**/.firebase/
+**/.wrangler/
 99_Archive/
 04_Generated_Images/Rejected_or_Superseded/
 03_Label_Files/Old_50ml_Size_Archive/

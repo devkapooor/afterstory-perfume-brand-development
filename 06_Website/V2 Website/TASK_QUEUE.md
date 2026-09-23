@@ -47,7 +47,7 @@ Work through these tasks in order. Do not start a dependent task until its prere
 ## Phase 3 — Commerce and operations
 
 ### 7. Configure Razorpay in a test environment
-- **Status:** Queued
+- **Status:** In progress
 - **Owner:** Website team / Razorpay account owner
 - **Dependency:** Tasks 1, 4, and 5
 - **Completion criteria:** Test payments can be created, verified server-side, and safely marked successful or failed without exposing secret keys.
