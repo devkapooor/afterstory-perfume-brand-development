@@ -35,9 +35,8 @@ Read `CONTEXT.md` first. Use this map only when the route needs clarification.
 | `99_Archive/Inventory_Old/INVENTORY.md` | Detailed pre-consolidation stock and purchase history | HISTORICAL | Reconciling a row marked unresolved |
 | `02_Inventory_Costing/PRODUCTION_AND_TESTING.md` | Batch, testing, fill-weight calibration, and production-route research | CANONICAL | Batch, sample, test, release, production measurement, or compliance questions |
 | `02_Inventory_Costing/COSTING.md` | Costing and commercial assumptions | CANONICAL | COGS and margin questions; pricing master controls approved prices |
-| `03_Label_Files/README.md` | Label-file register | SUPPORTING | Locating print-ready files |
 | `03_Label_Files/50ml_Final_Sticker_PNGs_Bulk_1/` | Current 50 ml label PNG assets | GENERATED | Printing or visual review |
-| `04_Generated_Images/README.md` | Generated-image library guide | SUPPORTING | Locating artwork assets |
+| `04_Generated_Images/ASSET_CATALOG.csv` | Current label and generated-asset routing | SUPPORTING | Locating approved, reference, or historical artwork |
 | `05_Invoices_Receipts/` | Original supplier invoices and receipts | CANONICAL | Verifying a purchase document |
 | `06_Website/README.md` | Pointer to website workspace | SUPPORTING | Website routing only |
 | `afterstory-site/PROJECT_MAP.md` | Website-specific routing | APPLICATION | Any website change |

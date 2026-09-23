@@ -27,6 +27,6 @@ Brand and 13-chapter collection are locked. Current inventory, product identifie
 | Invoices / receipts | `05_Invoices_Receipts/` |
 | Expenses | `02_Inventory_Costing/EXPENSES.csv` |
 | Batch testing / yield / fill weights / production-route research | `02_Inventory_Costing/PRODUCTION_AND_TESTING.md` |
-| Generated artwork | `04_Generated_Images/README.md` and required asset folder |
+| Generated artwork / label assets | `04_Generated_Images/ASSET_CATALOG.csv` and required asset folder |
 | Website / application | `afterstory-site/PROJECT_MAP.md`; source in `afterstory-site/content/`, `components/`, `app/` |
 | Historical / superseded records | `99_Archive/` only when specifically needed |
