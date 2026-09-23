@@ -36,5 +36,3 @@ Live domain verified 2026-09-07: https://www.afterstory.in serves the production
 - Keep the installed package versions and committed lockfile stable.
 - `firebase hosting:channel:deploy prelaunch --project afterstory-36c7a`: deploy a temporary review URL.
 - `firebase deploy --only hosting --project afterstory-36c7a`: production release only after preview approval.
-
-See `CLEANUP_REPORT.md` for the completed size audit and verification results.
