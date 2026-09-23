@@ -1,6 +1,6 @@
 # AFTERSTORY Brand Records
 
-Read root `CONTEXT.md` first. Use `BRAND_SYSTEM.md` for locked decisions, identity, collection, packaging direction, and explicit TBD items.
+Read root `OPERATING_MAP.md` first. Use `BRAND_SYSTEM.md` for locked decisions, identity, collection, packaging direction, and explicit TBD items.
 
 ## Active References
 

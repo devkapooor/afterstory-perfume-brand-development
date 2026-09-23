@@ -16,9 +16,7 @@ Status: Planning only. No move, deletion, or archive action is authorised by thi
 Perfume Brand Development/
   00_Control/
     AGENTS.md
-    CONTEXT.md
-    PROJECT_MAP.md
-    REVIEW_REQUIRED.md
+    OPERATING_MAP.md
     WORK_PACKS.md
 
   01_Brand_System/
@@ -128,7 +126,7 @@ Perfume Brand Development/
 
 1. Freeze routine changes briefly and take a Git checkpoint.
 2. Create the target folders without moving files.
-3. Move canonical records one domain at a time and update `CONTEXT.md` and `PROJECT_MAP.md` after each domain.
+3. Move canonical records one domain at a time and update `OPERATING_MAP.md` after each domain.
 4. Hash-check each asset move and verify website builds after digital moves.
 5. Archive superseded material with a short retention register.
 6. Remove generated output and duplicates only after the new references are verified.
@@ -138,7 +136,7 @@ Perfume Brand Development/
 
 - Never delete or overwrite a source file during migration. Copy or move only after its destination, references, and checks are ready.
 - Before moving a website file, verify imports, configuration references, and a successful production build after the move.
-- Before moving a business record, update its route in `CONTEXT.md` and `PROJECT_MAP.md`, then verify the canonical data is unchanged.
+- Before moving a business record, update its route in `OPERATING_MAP.md`, then verify the canonical data is unchanged.
 - Hash-check moved assets and retain the original until the destination is verified.
 - Make small, single-purpose Git commits after each completed migration packet so any error has a clear recovery point.
 - Stop and ask for direction if a migration would alter live hosting, domain routing, financial records, banking records, inventory, or source-of-truth data.

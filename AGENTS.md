@@ -4,14 +4,14 @@
 
 The user communicates naturally and is not expected to know file paths. Classify the task before reading files using the rules below.
 
-When routing is needed, read `CONTEXT.md`, then only the required canonical source(s). If the route remains unclear, read `PROJECT_MAP.md`, then use targeted search. Broaden investigation only when necessary; never scan the repository by default.
+When routing is needed, read `OPERATING_MAP.md`, then only the required canonical source(s). If the route remains unclear, use targeted search. Broaden investigation only when necessary; never scan the repository by default.
 
 ## Task Classification Before File Access
 
 1. **General / creative task**: Use zero file reads when the prompt is sufficient and no existing brand standard or business data is needed.
-2. **Brand-sensitive creative task**: First determine whether an approved standard is relevant. Read only the minimum canonical brand, fragrance, or communication source necessary; exclude unrelated business data. A known canonical source can be read directly without `CONTEXT.md`.
-3. **Data-dependent task**: Read `CONTEXT.md` first, then only the required canonical business sources.
-4. **Operational update**: Read `CONTEXT.md` first, then read and write only the required canonical operational records.
+2. **Brand-sensitive creative task**: First determine whether an approved standard is relevant. Read only the minimum canonical brand, fragrance, or communication source necessary; exclude unrelated business data. A known canonical source can be read directly without `OPERATING_MAP.md`.
+3. **Data-dependent task**: Read `OPERATING_MAP.md` first, then only the required canonical business sources.
+4. **Operational update**: Read `OPERATING_MAP.md` first, then read and write only the required canonical operational records.
 5. **Website / technical task**: Use only relevant application files and any canonical business source required by the change; use the routing sequence above if their location is unclear.
 
 ## Persistence and Reusability
@@ -25,7 +25,7 @@ Classify completed work before saving it.
 
 Do not ask to save work marked temporary, one-time, just for now, or do not save. Save without asking when the user says save this, use this going forward, make this standard, lock this, or from now on.
 
-Use `01_Brand_Records/COMMUNICATION_GUIDE.md` as the canonical source for reusable communication principles. Create it only after the first communication standard is approved, and register its route in `CONTEXT.md` and `PROJECT_MAP.md`. Store concise principles, not a history of generated messages or a separate file per message.
+Use `01_Brand_Records/COMMUNICATION_GUIDE.md` as the canonical source for reusable communication principles. Create it only after the first communication standard is approved, and register its route in `OPERATING_MAP.md`. Store concise principles, not a history of generated messages or a separate file per message.
 
 Use the title `AFTERSTORY Communication Guide`. Add sections only for approved standards: `Global Voice` (only cross-channel rules), `Retailer WhatsApp`, `Customer WhatsApp` with an `Order Updates` subsection, `Instagram`, `Product Copy`, or `Website Copy`, as needed. Do not create empty sections.
 
@@ -51,7 +51,7 @@ Apply the temporary-work and explicit-save exceptions above. Do not ask persiste
 - Use Git history when a Git repository exists; do not create duplicate files with names such as `final_v2`, `final_new`, `latest_final`, `updated_final`, or `copy_of_final`.
 - For a confirmed stock movement, identify the item in `PRODUCT_MASTER.csv`, append one row to `INVENTORY_TRANSACTIONS.csv`, then update the matching `INVENTORY_MASTER.csv` balance. Do not recreate historical movements unless evidence supports them.
 - Update approved price changes in `PRICING_MASTER.csv`. Preserve prior pricing rows when effective-date history matters.
-- Consult `REVIEW_REQUIRED.md` only when a canonical row is marked unresolved or a task specifically asks about open issues.
+- Consult `OPERATING_MAP.md`'s Open Verification section only when a canonical row is marked unresolved or a task specifically asks about open issues.
 
 ## Documentation Consistency
 
@@ -83,6 +83,6 @@ The goal is not to edit every Markdown file mechanically. The goal is that all a
 
 ## Routing Examples
 
-- “How many Golden Orchid bottles do we have?”: `CONTEXT.md` -> inventory route -> canonical inventory source.
-- “Calculate margin at a retailer price of INR 799.”: `CONTEXT.md` -> pricing + costing routes -> minimum relevant sources.
-- “What is the final 8 ml label size?”: `CONTEXT.md` -> packaging route -> label specification.
+- “How many Golden Orchid bottles do we have?”: `OPERATING_MAP.md` -> inventory route -> canonical inventory source.
+- “Calculate margin at a retailer price of INR 799.”: `OPERATING_MAP.md` -> pricing + costing routes -> minimum relevant sources.
+- “What is the final 8 ml label size?”: `OPERATING_MAP.md` -> packaging route -> label specification.
