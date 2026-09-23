@@ -66,6 +66,14 @@ When a confirmed change affects information represented in active Markdown recor
 
 The goal is not to edit every Markdown file mechanically. The goal is that all active records affected by a decision remain consistent, while one canonical source remains authoritative.
 
+## Commit Discipline
+
+- Complete each discrete implementation or record-update step with a small, focused Git commit and push it before beginning the next independent step.
+- Before committing, review every changed Markdown file and run the documentation-consistency check for active Markdown records affected by the change.
+- Do not commit unrelated working-tree changes, generated output, build artifacts, private banking records, secrets, or temporary files.
+- Do not create a commit for a read-only lookup, a temporary answer, or work that made no tracked file changes.
+- If a task cannot be safely committed because it is incomplete, keep working within that same step. Do not create a misleading partial completion commit.
+
 ## Scope Discipline
 
 - `99_Archive` is excluded from routine business lookup. Search it only when the user explicitly requests history, canonical/current sources lack required information, a prior decision/value must be traced, or superseded information must be recovered. Do not search it merely to verify current canonical data.
