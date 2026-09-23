@@ -15,6 +15,7 @@ export function V2ProductDetail({
   commerce: Commerce;
 }) {
   const [added, setAdded] = useState(false);
+  const [quantity, setQuantity] = useState(1);
   const unavailable = product.stock < 1;
 
   function addToCart() {
@@ -29,11 +30,11 @@ export function V2ProductDetail({
             line.code === product.code
               ? {
                   ...line,
-                  quantity: Math.min(line.quantity + 1, product.stock),
+                  quantity: Math.min(line.quantity + quantity, product.stock),
                 }
               : line,
           )
-        : [...current, { code: product.code, quantity: 1 }];
+        : [...current, { code: product.code, quantity }];
       window.localStorage.setItem('afterstory-v2-cart', JSON.stringify(next));
       setAdded(true);
     } catch {
@@ -74,50 +75,42 @@ export function V2ProductDetail({
             <h1>{product.name}</h1>
             <p className="v2-product-story">{product.story}</p>
             <p className="v2-product-description">{product.description}</p>
-            <p className="v2-product-profile">{product.profile}</p>
             <div className="v2-product-price">
               <strong>\u20B9{commerce.price.toLocaleString('en-IN')}</strong>
               <span>MRP \u20B9{commerce.mrp.toLocaleString('en-IN')}</span>
               <span>Inclusive of GST</span>
             </div>
             <p className="v2-product-format">{commerce.format}</p>
-            <button
-              className="v2-button v2-button-ember v2-product-button"
-              type="button"
-              onClick={addToCart}
-              disabled={unavailable}
-            >
-              {unavailable
-                ? 'Under Preparation'
-                : added
-                  ? 'Added to cart'
-                  : 'Add to cart'}
-            </button>
-            <dl className="v2-product-facts">
+            <div className="v2-product-purchase">
               <div>
-                <dt>Shipping</dt>
-                <dd>{commerce.delivery}</dd>
+                <label className="v2-quantity-label" htmlFor={`quantity-${product.code}`}>
+                  Quantity
+                </label>
+                <div className="v2-quantity-control">
+                  <button aria-label="Decrease quantity" type="button" onClick={() => setQuantity((value) => Math.max(1, value - 1))} disabled={quantity === 1 || unavailable}>-</button>
+                  <output id={`quantity-${product.code}`}>{quantity}</output>
+                  <button aria-label="Increase quantity" type="button" onClick={() => setQuantity((value) => Math.min(product.stock, value + 1))} disabled={quantity === product.stock || unavailable}>+</button>
+                </div>
               </div>
-              <div>
-                <dt>Payment</dt>
-                <dd>{commerce.payment}</dd>
-              </div>
-              <div>
-                <dt>Returns</dt>
-                <dd>{commerce.returns}</dd>
-              </div>
-              <div>
-                <dt>How to wear</dt>
-                <dd>
-                  Spray 2-4 times on pulse points or clothing. Avoid eyes,
-                  face, broken skin, heat, and open flames. For external use
-                  only.
-                </dd>
-              </div>
-            </dl>
+              <button className="v2-button v2-button-ember v2-product-button" type="button" onClick={addToCart} disabled={unavailable}>
+                {unavailable ? 'Under Preparation' : added ? 'Added to bag' : `Add ${quantity} to bag`}
+              </button>
+            </div>
+            <div className="v2-product-details">
+              <details open><summary>Scent profile</summary><p>{product.profile}</p></details>
+              <details><summary>How to wear</summary><p>Spray 2-4 times on pulse points or clothing. Avoid eyes, face, broken skin, heat, and open flames. For external use only.</p></details>
+              <details><summary>Shipping and payment</summary><p>{commerce.delivery} {commerce.payment}</p></details>
+              <details><summary>Returns and delivery issues</summary><p>{commerce.returns} Read the full <Link href="/v2/policies">shipping and returns policy</Link>.</p></details>
+            </div>
           </article>
         </div>
       </main>
+      <div className="v2-mobile-purchase" aria-label="Add product to bag">
+        <span><strong>₹{commerce.price.toLocaleString('en-IN')}</strong><small>Inclusive of GST</small></span>
+        <button className="v2-button v2-button-ember" type="button" onClick={addToCart} disabled={unavailable}>
+          {unavailable ? 'Under Preparation' : added ? 'Added to bag' : 'Add to bag'}
+        </button>
+      </div>
     </div>
   );
 }

@@ -39,7 +39,7 @@ Work through these tasks in order. Do not start a dependent task until its prere
 - **Completion criteria:** Approved policy copy is implemented locally at `/v2/policies`, including shipping, privacy, terms, returns/refunds, GST, business, support, and contact information. Revalidate final provider details before production deployment.
 
 ### 6. Complete product detail pages
-- **Status:** Queued
+- **Status:** Done
 - **Owner:** Website team
 - **Dependency:** Tasks 2–3
 - **Completion criteria:** Each launch product has an accurate detail page with approved imagery, content, price, stock state, delivery information, and add-to-cart flow.
