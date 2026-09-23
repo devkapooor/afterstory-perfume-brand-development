@@ -21,6 +21,21 @@ Live domain verified 2026-09-07: https://www.afterstory.in serves the production
 
 ## Working Rules
 
+## V2 Component Map
+
+| Change | Edit |
+| --- | --- |
+| Launch product data, pricing and delivery copy | `content/v2.ts` |
+| V2 page composition and cart state | `components/v2/V2Storefront.tsx` |
+| Navigation or footer | `components/v2/V2Header.tsx`, `components/v2/V2Footer.tsx` |
+| Hero, collection, product cards, story/shipping sections | `components/v2/V2Hero.tsx`, `V2Collection.tsx`, `V2ProductCard.tsx`, `V2StorefrontSections.tsx` |
+| Cart storage, cart drawer and cart rules | `components/v2/cart.ts`, `V2CartDrawer.tsx` |
+| Product-page composition | `components/v2/V2ProductDetail.tsx` |
+| Product image, purchase controls or disclosures | `components/v2/V2ProductGallery.tsx`, `V2ProductPurchase.tsx`, `V2ProductDisclosures.tsx` |
+| V2 styles | `app/v2/v2.css` |
+
+- For V2 work, start with `content/v2.ts` and the one matching component above. Do not open the old landing or shop components unless the task explicitly concerns V1.
+
 - Start with this map and the smallest relevant file. Do not routinely read all components or the whole business history.
 - Search `app`, `content`, and `components/landing` by default. Inspect `components/ui` only when using a primitive.
 - Do not scan `node_modules`, dependency backups, `dist`, `out`, `.vinext`, image archives or purchase invoices for unrelated website changes.
