@@ -35,6 +35,7 @@ Live domain verified 2026-09-07: https://www.afterstory.in serves the production
 | V2 styles | `app/v2/v2.css` |
 
 - For V2 work, start with `content/v2.ts` and the one matching component above. Do not open the old landing or shop components unless the task explicitly concerns V1.
+- `components/landing`, `components/shop`, and `components/ui` are inactive V2 scaffolds. They mirror the old site's component domains but contain no copied V1 code.
 
 - Start with this map and the smallest relevant file. Do not routinely read all components or the whole business history.
 - Search `app`, `content`, and `components/landing` by default. Inspect `components/ui` only when using a primitive.
