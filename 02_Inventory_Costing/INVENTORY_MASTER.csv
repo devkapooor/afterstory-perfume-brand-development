@@ -1,10 +1,10 @@
 SKU_or_Product_ID,Product_Name,Size_ml,Quantity_On_Hand,Unit,Last_Updated,Status,Notes
-AS-03-50,FIRST LIGHT 50 mL,50,1,pcs,2026-09-23,ON_HAND,"One bottle gifted to founder's mother on 2026-09-23; remaining bottle is available for the confirmed order"
+AS-03-50,FIRST LIGHT 50 mL,50,1,pcs,2026-09-23,WEB_LAUNCH_RESERVED,"One bottle allocated to V2 website launch inventory by founder; supersedes prior pending-order availability note"
 AS-01-50,STILL HERE 50 mL,50,2,pcs,2026-09-22,FRIEND_SALE_DISCLOSURE_REQUIRED,"SH-P02 is 30.12% w/w; founder permits friend sale only with concentration disclosed as approximately 30%; labels state 25%"
-AS-02-50,TOBACCO BLOOM 50 mL,50,2,pcs,2026-09-22,ON_HAND,TB-P01 output; final stickers applied
+AS-02-50,TOBACCO BLOOM 50 mL,50,2,pcs,2026-09-23,WEB_LAUNCH_RESERVED,"Two bottles allocated to V2 website launch inventory by founder; final stickers applied"
 AS-04-50,LAST LOOK 50 mL,50,1,pcs,2026-09-22,RESERVED,"LL-P03 filled to 52 mL; final sticker applied; reserved for Shahzar"
 AS-05-50,DARK WOOD 50 mL,50,2,pcs,2026-09-22,ON_HAND,DW-P01 output; final stickers applied
-AS-06-50,WHITE MUSK 50 mL,50,1,pcs,2026-09-23,ON_HAND,"One bottle gifted to founder's mother on 2026-09-23; remaining bottle is available for the confirmed order"
+AS-06-50,WHITE MUSK 50 mL,50,1,pcs,2026-09-23,WEB_LAUNCH_RESERVED,"One bottle allocated to V2 website launch inventory by founder; supersedes prior pending-order availability note"
 AS-07-50,GOLDEN ORCHID 50 mL,50,2,pcs,2026-09-22,FRIEND_SALE_DISCLOSURE_REQUIRED,"GO-P01 used 30 mL oil plus 72 g premix; founder permits friend sale only with concentration communicated as approximately 30%; labels state 25%"
 AS-08-50,YUZU WAVE 50 mL,50,2,pcs,2026-09-22,ON_HAND,YW-P01 output; final stickers applied
 AS-09-50,LAST CALL 50 mL,50,2,pcs,2026-09-22,ON_HAND,"LC-P01 output; one bottle reserved for Shahzar; final stickers applied"

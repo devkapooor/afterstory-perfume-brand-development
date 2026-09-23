@@ -27,10 +27,10 @@ Work through these tasks in order. Do not start a dependent task until its prere
 ## Phase 2 — Catalog and storefront
 
 ### 4. Verify launch inventory
-- **Status:** Queued
+- **Status:** In progress
 - **Owner:** Website team
 - **Dependency:** Tasks 1–3
-- **Completion criteria:** Launch quantities are checked against the inventory source immediately before launch, and zero stock displays **Under Preparation**.
+- **Completion criteria:** Initial 2026-09-23 launch allocation is FIRST LIGHT: 1, TOBACCO BLOOM: 2, WHITE MUSK: 1. Recheck against the inventory source immediately before production launch; zero stock displays **Under Preparation**.
 
 ### 5. Complete storefront content and policy pages
 - **Status:** Queued

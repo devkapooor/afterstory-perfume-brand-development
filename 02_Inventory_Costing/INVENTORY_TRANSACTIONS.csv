@@ -93,3 +93,6 @@ Date,Transaction_ID,SKU_or_Product_ID,Product_Name,Transaction_Type,Quantity_Cha
 2026-09-22,WASTE-20260922-003,RM-PLAIN-ALCOHOL,Plain perfumer's alcohol,OTHER,-50,Today's preparation session,Equipment and session wastage
 2026-09-23,GIFT-20260923-001,AS-03-50,FIRST LIGHT 50 mL,GIFT,-1,Founder family gift,Gifted to founder's mother; no revenue or receivable
 2026-09-23,GIFT-20260923-002,AS-06-50,WHITE MUSK 50 mL,GIFT,-1,Founder family gift,Gifted to founder's mother; no revenue or receivable
+2026-09-23,ALLOC-20260923-001,AS-03-50,FIRST LIGHT 50 mL,ALLOCATION,0,V2 website launch,"One prepared bottle designated as V2 launch inventory; quantity unchanged"
+2026-09-23,ALLOC-20260923-002,AS-02-50,TOBACCO BLOOM 50 mL,ALLOCATION,0,V2 website launch,"Two prepared bottles designated as V2 launch inventory; quantity unchanged"
+2026-09-23,ALLOC-20260923-003,AS-06-50,WHITE MUSK 50 mL,ALLOCATION,0,V2 website launch,"One prepared bottle designated as V2 launch inventory; quantity unchanged"
