@@ -29,7 +29,7 @@ export const metadata: Metadata = {
     'AFTERSTORY',
     'AFTERSTORY perfumes',
     'Indian perfume brand',
-    'unisex perfumes India',
+    'fragrance categories India',
   ],
   robots: { index: true, follow: true },
   openGraph: {

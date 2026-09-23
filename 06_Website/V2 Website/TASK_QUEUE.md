@@ -33,10 +33,10 @@ Work through these tasks in order. Do not start a dependent task until its prere
 - **Completion criteria:** Founder physically confirmed the 2026-09-23 launch allocation: FIRST LIGHT: 1, TOBACCO BLOOM: 2, WHITE MUSK: 1. Recheck against the inventory source immediately before production launch; zero stock displays **Under Preparation**.
 
 ### 5. Complete storefront content and policy pages
-- **Status:** In progress
+- **Status:** Done
 - **Owner:** Website team
 - **Dependency:** Tasks 1–3
-- **Completion criteria:** Policy draft is prepared in `POLICY_PAGES_DRAFT.md`. Approve the delivery-issue window, paid-order cancellation rule, grievance contact/support hours, and final provider details before publishing and internal review.
+- **Completion criteria:** Approved policy copy is implemented locally at `/v2/policies`, including shipping, privacy, terms, returns/refunds, GST, business, support, and contact information. Revalidate final provider details before production deployment.
 
 ### 6. Complete product detail pages
 - **Status:** Queued

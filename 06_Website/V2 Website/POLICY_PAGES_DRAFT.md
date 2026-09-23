@@ -1,6 +1,6 @@
 # AFTERSTORY V2 Policy Pages Draft
 
-Status: Internal draft. Do not publish until the open decisions below are approved and the final payment, order, and customer-data systems are configured.
+Status: Approved V2 source copy. The `/v2/policies` route is implemented locally. Do not deploy publicly until the final payment, order, and customer-data systems are configured.
 
 ## Storefront Details
 
@@ -22,9 +22,9 @@ Customers must provide a complete and accurate delivery address and contact numb
 
 Fragrances are personal-use products. Returns and exchanges are not accepted after delivery, except where required by applicable law or where an item is confirmed as damaged, incorrect, or materially defective on arrival.
 
-For a damaged, incorrect, or materially defective item, customers must contact AFTERSTORY at afterstory@gmail.com or +91 9161666633 with their order number, an unboxing video, and any other reasonable evidence requested during review. The unboxing video should show the unopened package, shipping label, package opening, and the item received.
+For a damaged, incorrect, or materially defective item, customers must contact AFTERSTORY within 48 hours of delivery at afterstory@gmail.com or +91 9161666633 with their order number, an unboxing video, and any other reasonable evidence requested during review. The unboxing video should show the unopened package, shipping label, package opening, and the item received.
 
-Open decision before publication: set the reporting period for delivery issues and the cancellation rule for paid orders before preparation begins.
+Paid orders cannot be cancelled after successful payment, except where required by applicable law.
 
 ## Privacy Policy
 
@@ -46,9 +46,7 @@ An item marked **Under Preparation** is not available to purchase at that time. 
 
 ## Contact and Grievances
 
-For support, order questions, or grievances, contact AFTERSTORY at afterstory@gmail.com or +91 9161666633. The customer-support contact must be monitored during published business hours.
-
-Open decision before publication: approve the named grievance contact, response-time commitment, and displayed support hours.
+For support, order questions, or grievances, contact Dev Kapoor at afterstory@gmail.com or +91 9161666633. Support hours are 9:00 AM to 6:00 PM IST. AFTERSTORY aims to respond within 24 hours.
 
 ## Invoice Notice
 
@@ -56,7 +54,4 @@ GST invoices will be issued for successful orders using the verified Amelia Ente
 
 ## Open Decisions
 
-1. Delivery-issue reporting window: recommended 48 hours from delivery.
-2. Paid-order cancellation: recommended only before preparation begins.
-3. Grievance contact: name/designation, support hours, and response-time commitment.
-4. Payment provider and delivery partner: insert their final names and policies only after configuration.
+1. Payment provider and delivery partner: insert their final names and policies only after configuration.

@@ -73,10 +73,12 @@ export function V2ProductDetail({
             <p className="v2-eyebrow">Chapter {product.code}</p>
             <h1>{product.name}</h1>
             <p className="v2-product-story">{product.story}</p>
+            <p className="v2-product-description">{product.description}</p>
             <p className="v2-product-profile">{product.profile}</p>
             <div className="v2-product-price">
               <strong>\u20B9{commerce.price.toLocaleString('en-IN')}</strong>
               <span>MRP \u20B9{commerce.mrp.toLocaleString('en-IN')}</span>
+              <span>Inclusive of GST</span>
             </div>
             <p className="v2-product-format">{commerce.format}</p>
             <button
@@ -103,6 +105,14 @@ export function V2ProductDetail({
               <div>
                 <dt>Returns</dt>
                 <dd>{commerce.returns}</dd>
+              </div>
+              <div>
+                <dt>How to wear</dt>
+                <dd>
+                  Spray 2-4 times on pulse points or clothing. Avoid eyes,
+                  face, broken skin, heat, and open flames. For external use
+                  only.
+                </dd>
               </div>
             </dl>
           </article>

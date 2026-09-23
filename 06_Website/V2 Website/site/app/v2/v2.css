@@ -425,9 +425,14 @@
   margin: 0 0 30px;
 }
 .v2-product-profile,
-.v2-product-format {
+.v2-product-format,
+.v2-product-description {
   color: #53636d;
   line-height: 1.7;
+}
+.v2-product-description {
+  font-size: 1rem;
+  margin: 0 0 14px;
 }
 .v2-product-price {
   align-items: baseline;
@@ -475,6 +480,42 @@
   color: #53636d;
   line-height: 1.6;
   margin: 0;
+}
+.v2-policy-main {
+  background: var(--white);
+  margin: 0 auto;
+  max-width: 900px;
+  min-height: calc(100svh - 70px);
+  padding: clamp(64px, 10vw, 130px) max(24px, 8vw);
+}
+.v2-policy-main h1,
+.v2-policy-main h2 {
+  font-family: var(--font-editorial-serif), Georgia, serif;
+  font-weight: 400;
+}
+.v2-policy-main h1 {
+  font-size: clamp(3.3rem, 7vw, 6.5rem);
+  letter-spacing: -0.04em;
+  line-height: 0.96;
+  margin: 0 0 28px;
+}
+.v2-policy-intro,
+.v2-policy-main section p {
+  color: #53636d;
+  line-height: 1.8;
+}
+.v2-policy-intro {
+  font-size: 1.06rem;
+  max-width: 680px;
+}
+.v2-policy-main section {
+  border-top: 1px solid #d5dfe4;
+  margin-top: 44px;
+  padding-top: 24px;
+}
+.v2-policy-main h2 {
+  font-size: clamp(1.9rem, 3vw, 2.8rem);
+  margin: 0 0 12px;
 }
 @media (max-width: 800px) {
   .v2-hero {

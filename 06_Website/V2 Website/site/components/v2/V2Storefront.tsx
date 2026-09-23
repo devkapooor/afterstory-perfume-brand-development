@@ -92,8 +92,7 @@ export function V2Storefront({ commerce }: { commerce: Commerce }) {
               Fragrance for what remains <em>after the moment.</em>
             </h1>
             <p className="v2-hero-copy">
-              A quiet collection of unisex extrait de parfums, made to be
-              remembered.
+              A quiet collection of extrait de parfums, made to be remembered.
             </p>
             <a className="v2-button v2-button-ember" href="#collection">
               Explore the collection <span>↓</span>
@@ -174,9 +173,8 @@ export function V2Storefront({ commerce }: { commerce: Commerce }) {
           <p className="v2-eyebrow">The AFTERSTORY approach</p>
           <h2>Every scent begins a story. The rest becomes yours.</h2>
           <p>
-            Small-batch unisex fragrances with a clear point of view. Each
-            composition is made as an invitation to remember a moment in your
-            own way.
+            Small-batch fragrances with a clear point of view. Each composition
+            is made as an invitation to remember a moment in your own way.
           </p>
         </section>
         <section className="v2-details" id="shipping">
@@ -210,7 +208,8 @@ export function V2Storefront({ commerce }: { commerce: Commerce }) {
           >
             WhatsApp
           </a>
-          <a href="#shipping">Shipping &amp; returns</a>
+          <Link href="/v2/policies">Shipping &amp; returns</Link>
+          <Link href="/v2/policies">Policies</Link>
         </div>
       </footer>
       {cartOpen && (
