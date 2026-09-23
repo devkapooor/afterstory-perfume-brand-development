@@ -53,6 +53,19 @@ Apply the temporary-work and explicit-save exceptions above. Do not ask persiste
 - Update approved price changes in `PRICING_MASTER.csv`. Preserve prior pricing rows when effective-date history matters.
 - Consult `REVIEW_REQUIRED.md` only when a canonical row is marked unresolved or a task specifically asks about open issues.
 
+## Documentation Consistency
+
+When a confirmed change affects information represented in active Markdown records:
+
+1. Update the canonical source first.
+2. Identify only the active Markdown files that repeat, summarize, or operationally depend on that changed information.
+3. Update those affected files in the same change, or replace repeated facts with a clear reference to the canonical source where appropriate.
+4. Run a targeted search for the changed identifier, value, or wording to find stale active references. Exclude `99_Archive`, generated output, dependencies, and historical evidence unless the task explicitly concerns them.
+5. Do not create new duplicate facts merely to make a document feel complete. Each new repeated fact must have a maintenance purpose.
+6. If two active sources conflict, stop and surface the conflict instead of silently choosing one.
+
+The goal is not to edit every Markdown file mechanically. The goal is that all active records affected by a decision remain consistent, while one canonical source remains authoritative.
+
 ## Scope Discipline
 
 - `99_Archive` is excluded from routine business lookup. Search it only when the user explicitly requests history, canonical/current sources lack required information, a prior decision/value must be traced, or superseded information must be recovered. Do not search it merely to verify current canonical data.
