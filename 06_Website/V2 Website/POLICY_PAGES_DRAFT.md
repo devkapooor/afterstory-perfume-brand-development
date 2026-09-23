@@ -22,7 +22,7 @@ Customers must provide a complete and accurate delivery address and contact numb
 
 Fragrances are personal-use products. Returns and exchanges are not accepted after delivery, except where required by applicable law or where an item is confirmed as damaged, incorrect, or materially defective on arrival.
 
-For a damaged, incorrect, or materially defective item, customers must contact AFTERSTORY at afterstory@gmail.com or +91 9161666633 with their order number, clear photographs, and any other reasonable evidence requested during review.
+For a damaged, incorrect, or materially defective item, customers must contact AFTERSTORY at afterstory@gmail.com or +91 9161666633 with their order number, an unboxing video, and any other reasonable evidence requested during review. The unboxing video should show the unopened package, shipping label, package opening, and the item received.
 
 Open decision before publication: set the reporting period for delivery issues and the cancellation rule for paid orders before preparation begins.
 
