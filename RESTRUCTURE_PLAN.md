@@ -136,3 +136,12 @@ Perfume Brand Development/
 5. Archive superseded material with a short retention register.
 6. Remove generated output and duplicates only after the new references are verified.
 7. Delete the V1 website only after V2 production cutover and rollback approval.
+
+## Zero-Regression Safeguards
+
+- Never delete or overwrite a source file during migration. Copy or move only after its destination, references, and checks are ready.
+- Before moving a website file, verify imports, configuration references, and a successful production build after the move.
+- Before moving a business record, update its route in `CONTEXT.md` and `PROJECT_MAP.md`, then verify the canonical data is unchanged.
+- Hash-check moved assets and retain the original until the destination is verified.
+- Make small, single-purpose Git commits after each completed migration packet so any error has a clear recovery point.
+- Stop and ask for direction if a migration would alter live hosting, domain routing, financial records, banking records, inventory, or source-of-truth data.
