@@ -46,8 +46,7 @@ Perfume Brand Development/
       INVENTORY_TRANSACTIONS.csv
     Production/
       PRODUCTION_RUNBOOK.md
-      TESTING.md
-      FILL_WEIGHT_CALIBRATION.md
+      PRODUCTION_AND_TESTING.md
     Costing/
       COSTING.md
     Sales/
@@ -96,7 +95,7 @@ Perfume Brand Development/
 | --- | --- | --- |
 | `MASTER_SPEC.md` | `01_Brand_System/Core/BRAND_DECISIONS.md` | Keep locked decisions and explicit TBD items only. |
 | `AFTERSTORY_Instagram_Visual_Style_Master.md` | `01_Brand_System/Communication/SOCIAL_VISUAL_GUIDE.md` | Keep as the social visual authority. |
-| `PRODUCTION_ROUTE.md` | `02_Operations/Production/PRODUCTION_RUNBOOK.md` | Merge confirmed production process only. |
+| `PRODUCTION_AND_TESTING.md` | `02_Operations/Production/PRODUCTION_AND_TESTING.md` | Keep batch/testing/calibration records and production-route research together. |
 | `PURCHASES.csv` and invoice files | `03_Finance/Purchases/` | CSV is the transaction index; invoices are evidence. |
 | `07_Banking_Records/` | `03_Finance/Banking_Private/` | Remain Git-ignored and excluded from routine work. |
 | `03_Label_Files/` and selected generated images | `04_Assets/` | Separate print-ready files from working/rejected artwork. |

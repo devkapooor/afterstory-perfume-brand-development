@@ -94,7 +94,7 @@ Two-bottle remainder = 998 - 2*packed cost - 20 shipping pack - 110 courier - 99
 
 ## Provisional COGS Using Current Fill-Weight Targets
 
-Updated 2026-09-22. These figures use the working targets in `FILL_WEIGHT_CALIBRATION.md`: 40.3 g finished blend per 50 mL bottle and 6.45 g per 8 mL bottle, both at 25% w/w oil. Premix volume is converted using the recorded 0.655 g/mL density. Existing packaging, label, carton, labour, landed-cost, and 3% liquid-wastage allowances remain unchanged.
+Updated 2026-09-22. These figures use the working targets in `PRODUCTION_AND_TESTING.md`: 40.3 g finished blend per 50 mL bottle and 6.45 g per 8 mL bottle, both at 25% w/w oil. Premix volume is converted using the recorded 0.655 g/mL density. Existing packaging, label, carton, labour, landed-cost, and 3% liquid-wastage allowances remain unchanged.
 
 | Oil scenario | 50 mL packed COGS | 8 mL packed COGS |
 | --- | ---: | ---: |

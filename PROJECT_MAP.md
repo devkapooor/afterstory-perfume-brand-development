@@ -34,10 +34,8 @@ Read `CONTEXT.md` first. Use this map only when the route needs clarification.
 | `02_Inventory_Costing/PURCHASES.csv` | Structured purchase history | CANONICAL | Purchase or landed-cost source question |
 | `02_Inventory_Costing/EXPENSES.csv` | Recorded operating expenses | CANONICAL | Expense or session-cost question |
 | `99_Archive/Inventory_Old/INVENTORY.md` | Detailed pre-consolidation stock and purchase history | HISTORICAL | Reconciling a row marked unresolved |
-| `02_Inventory_Costing/TESTING.md` | Batch and testing records | CANONICAL | Batch, sample, test, or release questions |
-| `02_Inventory_Costing/FILL_WEIGHT_CALIBRATION.md` | Fill weights, yields, density observations | CANONICAL | Production measurement questions |
+| `02_Inventory_Costing/PRODUCTION_AND_TESTING.md` | Batch, testing, fill-weight calibration, and production-route research | CANONICAL | Batch, sample, test, release, production measurement, or compliance questions |
 | `02_Inventory_Costing/COSTING.md` | Costing and commercial assumptions | CANONICAL | COGS and margin questions; pricing master controls approved prices |
-| `02_Inventory_Costing/PRODUCTION_ROUTE.md` | Production and compliance reference | SUPPORTING | Process or compliance research |
 | `03_Label_Files/README.md` | Label-file register | SUPPORTING | Locating print-ready files |
 | `03_Label_Files/50ml_Final_Sticker_PNGs_Bulk_1/` | Current 50 ml label PNG assets | GENERATED | Printing or visual review |
 | `04_Generated_Images/README.md` | Generated-image library guide | SUPPORTING | Locating artwork assets |
