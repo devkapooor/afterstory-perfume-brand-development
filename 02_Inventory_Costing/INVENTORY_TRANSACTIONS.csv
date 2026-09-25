@@ -99,3 +99,6 @@ Date,Transaction_ID,SKU_or_Product_ID,Product_Name,Transaction_Type,Quantity_Cha
 2026-09-23,VERIFY-20260923-001,AS-03-50,FIRST LIGHT 50 mL,VERIFICATION,0,V2 website launch,"Founder physically confirmed 1 prepared bottle; quantity unchanged"
 2026-09-23,VERIFY-20260923-002,AS-02-50,TOBACCO BLOOM 50 mL,VERIFICATION,0,V2 website launch,"Founder physically confirmed 2 prepared bottles; quantity unchanged"
 2026-09-23,VERIFY-20260923-003,AS-06-50,WHITE MUSK 50 mL,VERIFICATION,0,V2 website launch,"Founder physically confirmed 1 prepared bottle; quantity unchanged"
+2026-09-25,SALE-20260925-001,AS-07-50,GOLDEN ORCHID 50 mL,SALE,-1,Shahzar,"Sold as part of three-bottle sale; total payment received for order: INR 1,200"
+2026-09-25,SALE-20260925-002,AS-10-50,CANDY FLOSS 50 mL,SALE,-1,Shahzar,"Sold as part of three-bottle sale; total payment received for order: INR 1,200"
+2026-09-25,SALE-20260925-003,AS-09-50,LAST CALL 50 mL,SALE,-1,Shahzar,"Sold as part of three-bottle sale; total payment received for order: INR 1,200; fulfils prior reservation"
