@@ -30,7 +30,7 @@ AS-12-08-REFERENCE,OLD ESTATE 8 mL reference sample,8,1,pcs,2026-09-22,NOT_FOR_S
 RM-CKONE-A,CK One perfume oil,,193,g,2026-09-22,VERIFIED,"250 g opening less 32 g CL-P01 and 25 g FL-P01"
 RM-TOBACCO-VANILLA-A,Tobacco Vanilla perfume oil,,223,g,2026-09-22,VERIFIED,27 g taken for TB-P01
 RM-1MILLION-A,1 Million perfume oil,,62.5,g,2026-09-22,VERIFIED,12.5 g taken for LL-P03
-RM-GUCCI-FLORA-A,Gucci Flora perfume oil,,75,g,2026-09-22,VERIFIED,25 g taken for SH-P02
+RM-GUCCI-FLORA-A,Gucci Flora perfume oil,,35,g,2026-10-12,VERIFIED,25 g taken for SH-P02; 40 g taken for SH-P03
 RM-WHITE-MUSK-A,White Musk perfume oil,,46,g,2026-09-22,VERIFIED,"100 g opening less 29 g MK-P01 and 25 g WM-P01"
 RM-OUD-WOOD-A,Oud Wood perfume oil,,75,g,2026-09-22,VERIFIED,25 g taken for DW-P01
 RM-ISSEY-MIYAKE-MAN-A,Issey Miyake Man perfume oil,,0,g,2026-09-22,VERIFIED,25 g taken for YW-P01
@@ -43,7 +43,7 @@ RM-GUCCI-FLORA-B,Gucci Flora perfume oil,,,g,2026-09-22,UNRESOLVED,"Zaveri lot; 
 RM-BOMBSHELL-A,Bombshell perfume oil,,,g,2026-09-22,UNRESOLVED,"Perfume Cartel invoice lot; 100 g purchased. EMBER use and GO-P01's 30 mL use are not fully measured, so current balance requires physical measurement"
 RM-BOMBSHELL-B,Victoria Secret Bombshell perfume oil,,100,g,2026-09-22,VERIFIED,No recorded consumption; EMBER used Perfume Cartel Bombshell
 RM-BOMBSHELL-PC,Bombshell perfume oil,,,g,2026-09-22,HISTORICAL_REFERENCE,"Legacy GO-P01 transaction reference; supplier mapping confirmed as the Perfume Cartel invoice lot. Current balance is maintained under RM-BOMBSHELL-A"
-RM-PREMIX,Alcohol plus fixatives premix,,1227.12,mL,2026-09-22,ESTIMATED,"50 mL session wastage deducted; remeasure physically"
+RM-PREMIX,Alcohol plus fixatives premix,,953.91,mL,2026-10-12,ESTIMATED,"50 mL session wastage deducted; 183.21 mL consumed and 90 mL wasted for SH-P03; remeasure physically"
 RM-PLAIN-ALCOHOL,Plain perfumer's alcohol,,650,mL,2026-09-22,VERIFIED,50 mL session wastage deducted
 PK-BOTTLE-50,50 mL Amore full-set bottle,,20,pcs,2026-09-22,VERIFIED,SH-P02 used 2 bottle sets
 PK-BOTTLE-08,Bare 8 mL tester bottle,,575,pcs,2026-09-22,VERIFIED,GO-P01 used 3 bottles
@@ -53,4 +53,4 @@ PK-LABEL-NS-HIDE-08,HIDE 8 mL label,,12,pcs,2026-09-22,VERIFIED,Founder physical
 PK-LABEL-NS-EMBER-08,EMBER 8 mL label,,1,pcs,2026-09-22,VERIFIED,Founder physical count
 PK-LABEL-NS-MUSK-08,MUSK 8 mL label,,0,pcs,2026-09-22,VERIFIED,15 used in MK-P01
 PK-LABEL-NS-CLEAN-08,CLEAN 8 mL label,,0,pcs,2026-09-22,VERIFIED,Founder physical count
-PK-GLOVES-NITRILE,Nitrile gloves,,90,pcs,2026-09-22,ESTIMATED,Two gloves used in session
+PK-GLOVES-NITRILE,Nitrile gloves,,88,pcs,2026-10-12,ESTIMATED,Two gloves used for SH-P03; prior balance 90 pcs
