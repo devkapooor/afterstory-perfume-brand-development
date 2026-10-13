@@ -1,5 +1,11 @@
 # 8 ML Label Review
 
+## Current Revision Requirement
+
+Founder-confirmed 2026-10-14: wrap three bottle faces only, at 50 mm height. Retaining the existing 15 mm panels gives 45 x 50 mm trim, with the fourth face uncovered. Canonical geometry is in `01_Brand_Records/LABEL_PRODUCTION_SPEC.md`. The reviewed four-panel PDF below is superseded for current production; its original file remains unchanged. Redistribute all existing label content across three panels, resolve the outstanding checks below, and create a revised export before print approval. Continue handwritten white labels until branded labels are explicitly approved and released.
+
+## Earlier File Review (2026-09-07)
+
 Reviewed 2026-09-07: AFTERSTORY_8ml_Wraparound_Labels_Print_Ready_v2.pdf. Original unchanged. Status: REVIEW; not approved for print.
 
 Text extracted from all 13 pages; all pages rendered and visually inspected as a contact sheet.
@@ -19,4 +25,4 @@ Text extracted from all 13 pages; all pages rendered and visually inspected as a
 - Chapter copy is 4.6 pt on the inspected first page. Check physical 100% size proof for readability, especially small chapter text and long story lines.
 - Actual bottle fit, adhesion, printer acceptance and physical proof remain unverified. This review is a design/file review, not complete label-content or production clearance.
 
-Next: resolve prefix for 08-13, create a separate revision with locked embedded fonts and proper print geometry, then check a physical proof. Production quantities remain TBD.
+Next: design the revised three-panel layout, resolve prefix for 08-13, export with locked embedded fonts and current production geometry, then check a physical proof. Production quantities remain TBD.

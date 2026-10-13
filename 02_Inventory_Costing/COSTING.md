@@ -35,11 +35,13 @@ Current packaging update: the 50 mL label is now a 138 x 40 mm wrap, superseding
 
 ## Explicit Assumptions
 
-Latest quote update: founder reports INR 60 per A3 sheet, printed and cut, vinyl described as waterproof. Founder has approved 30 labels per sheet as the working costing assumption for 60 x 55 mm pocket labels. The printer has NOT confirmed this yield. Adopted unit cost = 60/30 = INR 2 per 8 mL sticker, before any unconfirmed extras or spoilage.
+Recorded quote: founder reports INR 60 per A3 sheet, printed and cut, vinyl described as waterproof. Founder approved 30 labels per sheet as the working costing assumption for the former 60 x 55 mm pocket labels. The printer has NOT confirmed this yield. Adopted unit cost = 60/30 = INR 2 per 8 mL sticker, before any unconfirmed extras or spoilage.
+
+2026-10-14 geometry revision: the current 8 mL label uses the three-face geometry in `01_Brand_Records/LABEL_PRODUCTION_SPEC.md`. Sheet yield and unit cost for the revised size have not been confirmed. Retain INR 2 only as the existing provisional modelling allowance; do not infer a new cost or yield from the smaller label area.
 
 All pocket-bottle tables below now use INR 2 per sticker, replacing the previous INR 1 allowance. The 50 mL sticker cost is INR 100/26 = INR 3.846 per sticker, founder-confirmed from the 2026-09-15 print run.
 
-INR 1 would require 60 labels per sheet. Their combined area, 60*60*55 = 198000 square mm, exceeds standard A3 area 124740 square mm, so 60 full-size labels cannot fit on one standard A3 sheet, regardless of arrangement.
+Earlier-size calculation only: at the former 60 x 55 mm size, INR 1 would require 60 labels per sheet. Their combined area, 60*60*55 = 198000 square mm, exceeds standard A3 area 124740 square mm, so 60 labels of that former size cannot fit on one standard A3 sheet, regardless of arrangement. This calculation does not establish yield for the revised label.
 
 Printer quantity per sheet, included taxes, minimum order, usable print area, bleed/gaps and spoiled-sheet policy remain unconfirmed. Quote is a founder-reported supplier price. Do not infer alcohol/rub resistance from the description waterproof.
 

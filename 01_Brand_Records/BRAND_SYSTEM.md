@@ -6,7 +6,7 @@ This is the active canonical record for AFTERSTORY's locked identity, collection
 
 LOCKED: brand identity; 13 fragrance names; chapter order; scent profiles; story sentences; 8 mL label architecture; 50 mL dimensions and 1:2:1 architecture; DARK WOOD 50 mL design direction; Instagram visual language.
 
-TBD: exact production quantity of every fragrance in each bottle size; individual approval of the twelve non-DARK-WOOD artworks; customer-facing prefix for fragrances 08-13; 8 mL branded-label print approval.
+TBD: exact production quantity of every fragrance in each bottle size; individual approval of the twelve non-DARK-WOOD artworks; customer-facing prefix for fragrances 08-13; revised 8 mL three-panel content placement and branded-label print approval.
 
 The 50 ML template is final. The current 13 PNG sticker artworks in `03_Label_Files/50ml_Final_Sticker_PNGs_Bulk_1/` are the finalized sticker designs being used for the present 50 mL batch. Older print-ready archive files are superseded for current-batch use unless explicitly selected again. Finalized artwork does not itself confirm PDF/prepress quality, printer bleed, physical fit, batch release, or product testing.
 
@@ -81,7 +81,7 @@ AFTERSTORY Warm Ivory is locked for both label formats and the brand-kit swatch:
 
 ## Packaging Architecture
 
-**8 mL:** 60 x 55 mm continuous wrap across four 15 mm panels. Front: brand, chapter, fragrance name, and accent. Story: vertical sentence. Product: Extrait de Parfum / 8 ML / 25% on one vertical axis. Scent: three-part profile. Use ivory, charcoal, vertical typography, strong negative space, restrained scent accent, no large illustration, gradients, or clutter.
+**8 mL:** three-face continuous wrap, 50 mm high, founder-confirmed 2026-10-14; the fourth bottle face remains uncovered. Retaining 15 mm per panel gives a 45 mm total width. See `LABEL_PRODUCTION_SPEC.md` for canonical geometry. Preserve brand, chapter, fragrance name, accent, story sentence, Extrait de Parfum / 8 ML / 25%, and the three-part scent profile; their placement across the three panels remains to be designed and approved. Use ivory, charcoal, vertical typography, strong negative space, restrained scent accent, no large illustration, gradients, or clutter.
 
 **50 mL:** supplied bottle diameter 45 mm; 138 x 40 mm wrap with approximately 3.4 mm seam gap. Panels: 34.5 / 69 / 34.5 mm. Left: notes, website, handle, and SCENTS FOR WHAT REMAINS. Middle: brand, chapter, name, fine rule, story, Extrait de Parfum, 25% concentration, separator, and 50 ML. Right: scent-specific artwork only. Use a warm-ivory textured appearance, fine charcoal rules, subtly rounded corners, and the horizontal editorial 1:2:1 architecture.
 
@@ -92,6 +92,6 @@ Never enlarge the 8 ML design as a substitute for the 50 ML system. The 138 x 40
 - Website launch selection: FIRST LIGHT, TOBACCO BLOOM, and WHITE MUSK. This does not set production quantities; every fragrance and pack quantity remains batch-by-batch and TBD.
 - Current stock is in `02_Inventory_Costing/INVENTORY_MASTER.csv`; historical stock and payment evidence is in `99_Archive/Inventory_Old/INVENTORY.md`.
 - Density-dependent output and replenishment estimates are not finalized purchase quantities.
-- The 8 mL print-ready wrap file has outstanding font, prefix, and print-geometry issues. Use `03_Label_Files/8ML_LABEL_REVIEW.md` for its active review status.
+- The existing 8 mL four-panel wrap file is superseded by the revised three-face geometry and requires a new layout/export, alongside the outstanding font, prefix, and print-geometry issues. Use `03_Label_Files/8ML_LABEL_REVIEW.md` for its active review status.
 - Current finalized 50 mL stickers are `1.png` through `13.png` in `03_Label_Files/50ml_Final_Sticker_PNGs_Bulk_1/`. The earlier combined 50 mL file remains historical evidence in `03_Label_Files/Old_50ml_Size_Archive/`.
 - Design approval does not assert physical print proof, file inspection, batch testing, supplier documentation, or commercial release compliance.
