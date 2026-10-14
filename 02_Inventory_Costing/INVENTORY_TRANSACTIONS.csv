@@ -103,6 +103,8 @@ Date,Transaction_ID,SKU_or_Product_ID,Product_Name,Transaction_Type,Quantity_Cha
 2026-10-12,PROD-20261012-052,RM-PREMIX,Alcohol plus fixatives premix,PRODUCTION,-183.21,SH-P03,"120 g weighed for in-progress STILL HERE batch; converted at recorded 0.655 g/mL density"
 2026-10-12,WASTE-20261012-004,RM-PREMIX,Alcohol plus fixatives premix,OTHER,-90,SH-P03,"Premix wastage recorded during STILL HERE batch preparation; quantity in mL"
 2026-10-12,WASTE-20261012-005,PK-GLOVES-NITRILE,Nitrile gloves,OTHER,-2,SH-P03,"Two gloves used during STILL HERE batch preparation"
+2026-10-12,PROD-20261012-053,RM-OUD-WOOD-A,Oud Wood perfume oil,PRODUCTION,-40,DW-P02,40 g weighed for in-progress DARK WOOD batch
+2026-10-12,PROD-20261012-054,RM-PREMIX,Alcohol plus fixatives premix,PRODUCTION,-183.21,DW-P02,"120 g weighed for in-progress DARK WOOD batch; converted at recorded 0.655 g/mL density"
 2026-09-25,SALE-20260925-001,AS-07-50,GOLDEN ORCHID 50 mL,SALE,-1,Shahzar,"Sold as part of three-bottle sale; total payment received for order: INR 1,200"
 2026-09-25,SALE-20260925-002,AS-10-50,CANDY FLOSS 50 mL,SALE,-1,Shahzar,"Sold as part of three-bottle sale; total payment received for order: INR 1,200"
 2026-09-25,SALE-20260925-003,AS-09-50,LAST CALL 50 mL,SALE,-1,Shahzar,"Sold as part of three-bottle sale; total payment received for order: INR 1,200; fulfils prior reservation"
