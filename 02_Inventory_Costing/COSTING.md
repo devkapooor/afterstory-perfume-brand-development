@@ -4,13 +4,15 @@
 
 Updated 2026-09-21 from founder-reported status. Do not infer missing selling prices or payment receipt.
 
+Naming update 2026-10-31: historical counter sales below are displayed under the corresponding AFTERSTORY fragrance reference. Original names and sales-summary rows are preserved in `99_Archive/Legacy_New_Shop/README.md`. The original bottles were sold under retired counter labels; this display change does not reclassify their branding, quantities, or receipts.
+
 | Batch | Product | Quantity | Fulfilment | Payment | Selling price |
 | --- | --- | ---: | --- | --- | ---: |
 | LL-P01 + pending production | Shahzar order: LAST LOOK, LAST CALL, TOBACCO BLOOM 50 mL | 3 | Confirmed; LAST LOOK reserved, 2 pending production | Not recorded | INR 1,199 total, delivery included |
 | Pending production | Friend bundle: FIRST LIGHT, WHITE MUSK, CANDY FLOSS 50 mL | 3 | Order confirmed; not yet produced | Receipt not yet recorded | INR 1,199 total, delivery included |
-| CL-P01 | CLEAN 8 mL | 15 | Sold to New Shop | Received | INR 60/bottle; INR 900 total |
-| MK-P01 | MUSK 8 mL | 15 | Sold to New Shop | Received | INR 60/bottle; INR 900 total |
-| TBD | EMBER 8 mL | 5 | Sold to New Shop | Received | INR 60/bottle; INR 300 total |
+| CL-P01 | FIRST LIGHT 8 mL | 15 | Sold to New Shop | Received | INR 60/bottle; INR 900 total |
+| MK-P01 | WHITE MUSK 8 mL | 15 | Sold to New Shop | Received | INR 60/bottle; INR 900 total |
+| TBD | GOLDEN ORCHID 8 mL | 5 | Sold to New Shop | Received | INR 60/bottle; INR 300 total |
 | SC-P01 | SLOW CARAMEL 50 mL | 1 | Sold | Received / not pending | INR 200 |
 | QS-P01 | QUIET SHADOW 50 mL | 2 | Delivered | Pending | Not recorded |
 | AS-OE-250912-PRX-T01 | OLD ESTATE 50 mL, premix comparison | 1 | Delivered | Pending | Not recorded |
@@ -148,7 +150,7 @@ Do not treat GST collected as profit. Delivery charge tax treatment remains to b
 
 AR3 invoice shows 2186.82 GST potentially relevant to input credit, not a verified available credit. Do not automatically subtract this from inventory cost or count it as cash. Check invoice eligibility and reconciliation before applying credits. The second invoice and INR 1500 freight have no supported tax breakup in the supplied records, so no credit is assumed for them. Regular registration alone does not prove every input credit is available.
 
-Historical New Shop Omaxe price note: INR 50 total, not INR 50 plus GST. This is superseded for current quoting by the founder-confirmed INR 60 New Shop price in `PRICING_MASTER.csv`.
+The former counter-line pricing history, including the earlier INR 50 inclusive supply-price note and subsequent INR 60 records, is retained in `99_Archive/Legacy_New_Shop/`. Those names and prices were retired on 2026-10-31. Historical scenarios below are not current quotes; use only approved current rows in `PRICING_MASTER.csv` for quoting.
 
 ### Pocket Bottle: Output GST Deducted, No Input Credit Yet
 

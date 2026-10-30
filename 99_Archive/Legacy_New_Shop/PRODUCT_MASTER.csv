@@ -1,0 +1,11 @@
+Product_ID,Identifier_Type,Product_Name,Fragrance,Size_ml,Product_Type,Status,Notes
+NS-CLEAN-08,SYSTEM_INTERNAL,CLEAN 8 mL,CK One,8,New Shop product,HISTORICAL,Non-branded New Shop label line
+NS-MUSK-08,SYSTEM_INTERNAL,MUSK 8 mL,Al Nuaim White Musk,8,New Shop product,HISTORICAL,Non-branded New Shop label line
+NS-EMBER-08,SYSTEM_INTERNAL,EMBER 8 mL,Bombshell,8,New Shop product,HISTORICAL,Non-branded New Shop label line
+NS-CROWN-08,SYSTEM_INTERNAL,CROWN 8 mL,,8,New Shop product,PLANNED,Oil mapping is not confirmed
+NS-HIDE-08,SYSTEM_INTERNAL,HIDE 8 mL,Tobacco Vanilla,8,New Shop product,PLANNED,No recorded production
+PK-LABEL-NS-CROWN-08,SYSTEM_INTERNAL,CROWN 8 mL label,,,Packaging,ACTIVE,New Shop label
+PK-LABEL-NS-HIDE-08,SYSTEM_INTERNAL,HIDE 8 mL label,,,Packaging,ACTIVE,New Shop label
+PK-LABEL-NS-EMBER-08,SYSTEM_INTERNAL,EMBER 8 mL label,,,Packaging,ACTIVE,New Shop label
+PK-LABEL-NS-MUSK-08,SYSTEM_INTERNAL,MUSK 8 mL label,,,Packaging,ACTIVE,New Shop label
+PK-LABEL-NS-CLEAN-08,SYSTEM_INTERNAL,CLEAN 8 mL label,,,Packaging,REVIEW_REQUIRED,Usage count is not confirmed

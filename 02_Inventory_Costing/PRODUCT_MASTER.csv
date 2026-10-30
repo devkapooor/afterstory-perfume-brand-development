@@ -25,11 +25,6 @@ AS-10-08,SYSTEM_INTERNAL,CANDY FLOSS 8 mL,CANDY FLOSS,8,Extrait de Parfum,LABEL_
 AS-11-08,SYSTEM_INTERNAL,SLOW CARAMEL 8 mL,SLOW CARAMEL,8,Extrait de Parfum,LABEL_RELEASE_PENDING,8 mL architecture is locked but branded label release is pending
 AS-12-08,SYSTEM_INTERNAL,OLD ESTATE 8 mL,OLD ESTATE,8,Extrait de Parfum,LABEL_RELEASE_PENDING,8 mL architecture is locked but branded label release is pending
 AS-13-08,SYSTEM_INTERNAL,QUIET SHADOW 8 mL,QUIET SHADOW,8,Extrait de Parfum,LABEL_RELEASE_PENDING,8 mL architecture is locked but branded label release is pending
-NS-CLEAN-08,SYSTEM_INTERNAL,CLEAN 8 mL,CK One,8,New Shop product,HISTORICAL,Non-branded New Shop label line
-NS-MUSK-08,SYSTEM_INTERNAL,MUSK 8 mL,Al Nuaim White Musk,8,New Shop product,HISTORICAL,Non-branded New Shop label line
-NS-EMBER-08,SYSTEM_INTERNAL,EMBER 8 mL,Bombshell,8,New Shop product,HISTORICAL,Non-branded New Shop label line
-NS-CROWN-08,SYSTEM_INTERNAL,CROWN 8 mL,,8,New Shop product,PLANNED,Oil mapping is not confirmed
-NS-HIDE-08,SYSTEM_INTERNAL,HIDE 8 mL,Tobacco Vanilla,8,New Shop product,PLANNED,No recorded production
 AS-04-50-PERSONAL,SYSTEM_INTERNAL,LAST LOOK 50 mL personal bottle,LAST LOOK,50,Personal reference,NOT_FOR_SALE,Founder personal bottle
 AS-04-08-REFERENCE,SYSTEM_INTERNAL,LAST LOOK 8 mL reference sample,LAST LOOK,8,Reference sample,NOT_FOR_SALE,Internal retained sample
 AS-12-08-REFERENCE,SYSTEM_INTERNAL,OLD ESTATE 8 mL reference sample,OLD ESTATE,8,Reference sample,NOT_FOR_SALE,Internal retained sample OE-A01
@@ -59,9 +54,4 @@ RM-PLAIN-ALCOHOL,SYSTEM_INTERNAL,Plain perfumer's alcohol,,,Raw material,REVIEW_
 PK-BOTTLE-50,SYSTEM_INTERNAL,50 mL Amore full-set bottle,,,Packaging,ACTIVE,Bottle set
 PK-BOTTLE-08,SYSTEM_INTERNAL,Bare 8 mL tester bottle,,,Packaging,ACTIVE,Bottle
 PK-LABEL-50-FINAL,SYSTEM_INTERNAL,Final 50 mL sticker,,,Packaging,ACTIVE,Current 13-artwork print run
-PK-LABEL-NS-CROWN-08,SYSTEM_INTERNAL,CROWN 8 mL label,,,Packaging,ACTIVE,New Shop label
-PK-LABEL-NS-HIDE-08,SYSTEM_INTERNAL,HIDE 8 mL label,,,Packaging,ACTIVE,New Shop label
-PK-LABEL-NS-EMBER-08,SYSTEM_INTERNAL,EMBER 8 mL label,,,Packaging,ACTIVE,New Shop label
-PK-LABEL-NS-MUSK-08,SYSTEM_INTERNAL,MUSK 8 mL label,,,Packaging,ACTIVE,New Shop label
-PK-LABEL-NS-CLEAN-08,SYSTEM_INTERNAL,CLEAN 8 mL label,,,Packaging,REVIEW_REQUIRED,Usage count is not confirmed
 PK-GLOVES-NITRILE,SYSTEM_INTERNAL,Nitrile gloves,,,Consumable,ACTIVE,Count is estimated from recorded use

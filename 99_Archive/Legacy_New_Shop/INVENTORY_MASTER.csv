@@ -1,0 +1,6 @@
+SKU_or_Product_ID,Product_Name,Size_ml,Quantity_On_Hand,Unit,Last_Updated,Status,Notes
+PK-LABEL-NS-CROWN-08,CROWN 8 mL label,,10,pcs,2026-09-22,VERIFIED,No recorded use
+PK-LABEL-NS-HIDE-08,HIDE 8 mL label,,12,pcs,2026-09-22,VERIFIED,Founder physical count
+PK-LABEL-NS-EMBER-08,EMBER 8 mL label,,1,pcs,2026-09-22,VERIFIED,Founder physical count
+PK-LABEL-NS-MUSK-08,MUSK 8 mL label,,0,pcs,2026-09-22,VERIFIED,15 used in MK-P01
+PK-LABEL-NS-CLEAN-08,CLEAN 8 mL label,,0,pcs,2026-09-22,VERIFIED,Founder physical count

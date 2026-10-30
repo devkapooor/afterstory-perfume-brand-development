@@ -57,6 +57,8 @@ Evaluate each chosen lot separately before blending different supplier oils. Rec
 
 Batch code standard, founder-confirmed 2026-09-15: use short codes only in the format `SC-P01`, where the first part is the AFTERSTORY scent code, the middle letter is base type (`P` = premix, `A` = plain perfumer's alcohol), and the number is the batch sequence. Use the same short format across 50 mL bottles and 8 mL samples.
 
+Naming update, founder-confirmed 2026-10-31: chapter names below use the current AFTERSTORY fragrance references. Original counter names and their mappings are archived in `99_Archive/Legacy_New_Shop/README.md`. Historical batch IDs remain unchanged. Reference-name updates do not assert that earlier bottles had AFTERSTORY labels or alter formula, quantity, sale, or release status.
+
 | Batch / sample ID | Date | Fragrance | Internal chapter name | Base | Formula | Pack | Status |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | GO-P01 | 2026-09-22 | Perfume Cartel Bombshell | GOLDEN ORCHID | Premix | 30 mL oil + 72 g premix; oil density not recorded | 2 x 50 mL + 3 x 8 mL | 124 mL reported; final 50 mL stickers and handwritten white 8 mL labels applied. Founder permits friend sale only with concentration communicated as approximately 30%; labels state 25%. |
@@ -72,12 +74,12 @@ Batch code standard, founder-confirmed 2026-09-15: use short codes only in the f
 | WM-P01 | 2026-09-22 | Al Nuaim White Musk | WHITE MUSK | Premix | 25 g oil + 75 g premix; 100 g total; 25% w/w | 2 x 50 mL + 3 x 8 mL | Final 50 mL stickers applied; generic handwritten white tester labels on 8 mL bottles; residual blend and allocation pending |
 | FL-P01 | 2026-09-22 | CK One | FIRST LIGHT | Premix | 25 g oil + 75 g premix; 100 g total; 25% w/w | 2 full x 50 mL + 2 full x 8 mL + 1 half-filled x 8 mL | Final 50 mL stickers applied; generic handwritten white tester labels on 8 mL bottles; ownership and allocation pending |
 | SC-P02 | 2026-09-22 | Bianco Latte | SLOW CARAMEL | Premix | 12.5 g oil + 37.5 g premix; 50 g total; 25% w/w | 1 x 50 mL bottle + 1 x 8 mL bottle | Final 50 mL sticker applied; generic handwritten white tester label on 8 mL bottle; fill level, residual blend, and allocation pending |
-| TBD | 2026-09-20 | Bombshell | EMBER (New Shop 8 mL label) | Base pending | Exact formula pending | 6 x 8 mL bottles | 6 labeled; 5 sold to New Shop at INR 60 each; 1 distributed as a sample |
-| EM-P01 | 2026-10-12 | Perfume Cartel Bombshell | EMBER (New Shop 8 mL label) | Premix | 40 g oil + 120 g premix; 160 g total; 25% w/w oil | Planned: 20 x 8 mL bottles | Approximately 200 mL solution obtained; implied density approximately 0.800 g/mL; filling, final yield, residual blend, labels and release status pending |
-| MK-P01 | 2026-09-19 | Al Nuaim White Musk | MUSK (New Shop 8 mL label) | Premix | 29 g oil + 87 g premix; 116 g total; 25% w/w | 18 x 8 mL bottles | 15 labeled bottles sold to New Shop at INR 60 each; 3 unlabeled bottles distributed as samples; residual blend pending |
-| MK-P02 | 2026-10-12 | Al Nuaim White Musk | MUSK (New Shop 8 mL label) | Premix | 44 g oil + 137 g premix; 181 g total; 24.31% w/w oil | Planned: 20 x 8 mL bottles | Additional premix added during preparation; blend prepared; final yield, residual blend, labels and release status pending |
-| CL-P01 | 2026-09-19 | CK One | CLEAN (New Shop 8 mL label) | Premix | 32 g oil + 96 g premix; 128 g total; 25% w/w | 19 x 8 mL bottles | 15 sold to New Shop at INR 60 each; 4 distributed as samples; labels used and residual blend pending |
-| CL-P02 | 2026-10-12 | CK One | CLEAN (New Shop 8 mL label) | Premix | 45 g oil + 133 g premix; 178 g total; 25.28% w/w oil | Planned: 25 x 8 mL bottles | Blend prepared and stored in amber bottles; filling, final yield, residual blend, labels and release status pending |
+| TBD | 2026-09-20 | Bombshell | GOLDEN ORCHID | Base pending | Exact formula pending | 6 x 8 mL bottles | 6 labeled; 5 sold to New Shop at INR 60 each; 1 distributed as a sample |
+| EM-P01 | 2026-10-12 | Perfume Cartel Bombshell | GOLDEN ORCHID | Premix | 40 g oil + 120 g premix; 160 g total; 25% w/w oil | Planned: 20 x 8 mL bottles | Approximately 200 mL solution obtained; implied density approximately 0.800 g/mL; filling, final yield, residual blend, labels and release status pending |
+| MK-P01 | 2026-09-19 | Al Nuaim White Musk | WHITE MUSK | Premix | 29 g oil + 87 g premix; 116 g total; 25% w/w | 18 x 8 mL bottles | 15 labeled bottles sold to New Shop at INR 60 each; 3 unlabeled bottles distributed as samples; residual blend pending |
+| MK-P02 | 2026-10-12 | Al Nuaim White Musk | WHITE MUSK | Premix | 44 g oil + 137 g premix; 181 g total; 24.31% w/w oil | Planned: 20 x 8 mL bottles | Additional premix added during preparation; blend prepared; final yield, residual blend, labels and release status pending |
+| CL-P01 | 2026-09-19 | CK One | FIRST LIGHT | Premix | 32 g oil + 96 g premix; 128 g total; 25% w/w | 19 x 8 mL bottles | 15 sold to New Shop at INR 60 each; 4 distributed as samples; labels used and residual blend pending |
+| CL-P02 | 2026-10-12 | CK One | FIRST LIGHT | Premix | 45 g oil + 133 g premix; 178 g total; 25.28% w/w oil | Planned: 25 x 8 mL bottles | Blend prepared and stored in amber bottles; filling, final yield, residual blend, labels and release status pending |
 | SH-P01 | 2026-09-14 | Gucci Flora, Zaveri lot | STILL HERE | Premix | 12.5 mL oil + 37.5 mL premix, mixed by volume before w/w production rule was locked | 50 mL bottle | Sold for INR 200 as opportunistic personal sample sale; not release-approved |
 | QS-P01 | 2026-09-15 | Ajmal Musk Rijali Spl | QUIET SHADOW | Premix | 2 x 50 mL bottles; standard 25% w/w premix method recorded as 12.5 g oil + 37.5 g premix per bottle | 50 mL bottle | Both delivered; payment pending; selling price not recorded (updated 2026-09-19) |
 | SC-P01 | 2026-09-15 | Bianco Latte | SLOW CARAMEL | Premix | 12.5 g oil + 37.5 g premix; 25% w/w | 50 mL bottle | Sold for INR 200; payment not pending (updated 2026-09-19) |
@@ -120,8 +122,8 @@ Do not treat a calculated density as locked until all bottles in the batch are c
 | LC-P01 | LAST CALL / Gucci Guilty Men | 100 g | 2 x 50 mL + 3 x 8 mL | 124 mL | 0.806 g/mL | Provisional: residual blend not reported. |
 | LL-P03 | LAST LOOK / 1 Million | 50 g | 1 x 52 mL in 50 mL bottle + 1 x 8 mL | 60 mL | 0.833 g/mL | Provisional: residual blend not reported. |
 | TB-P01 | TOBACCO BLOOM / Tobacco Vanilla | 108 g | 2 x 50 mL; 3 x 8 mL; 2 x 5 mL | 134 mL | 0.806 g/mL | Provisional: residual blend not reported. |
-| CL-P01 | CLEAN / CK One | 128 g | 19 x 8 mL | 152 mL | 0.842 g/mL | Provisional: residual blend not confirmed. |
-| MK-P01 | MUSK / White Musk | 116 g | 18 x 8 mL | 144 mL | 0.806 g/mL | Provisional: residual blend not confirmed. |
+| CL-P01 | FIRST LIGHT / CK One | 128 g | 19 x 8 mL | 152 mL | 0.842 g/mL | Provisional: residual blend not confirmed. |
+| MK-P01 | WHITE MUSK / White Musk | 116 g | 18 x 8 mL | 144 mL | 0.806 g/mL | Provisional: residual blend not confirmed. |
 | FL-P01 | FIRST LIGHT / CK One | 100 g | 2 x 50 mL, 2 x 8 mL, 1 x half 8 mL | 120 mL | 0.833 g/mL | Provisional: full-fill level and residual blend not confirmed. |
 | WM-P01 | WHITE MUSK / Al Nuaim White Musk | 100 g | 2 x 50 mL, 3 x 8 mL | 124 mL if all bottles are full | 0.806 g/mL | Provisional: residual blend not confirmed. |
 | CF-P01 | CANDY FLOSS / D&G Devotion | 102 g | 2 x 50 mL, 2 x 7 mL, 1 x 6 mL | 120 mL | 0.850 g/mL | Provisional: 24.51% w/w formula exception; residual blend not confirmed. |

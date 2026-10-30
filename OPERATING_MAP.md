@@ -28,10 +28,15 @@ The brand and 13-chapter collection are locked. Inventory, products, prices, pur
 | Live V1 website | `afterstory-site/PROJECT_MAP.md`; then its `content/`, `components/`, `app/`, or selected `public/` asset |
 | Isolated V2 website | `06_Website/V2 Website/README.md`, `V2_REQUIREMENTS.md`, and `TASK_QUEUE.md` |
 | Historical or superseded evidence | `99_Archive/` only when current records lack required evidence or history is requested |
+| Retired counter names, product IDs, prices, or label stock | `99_Archive/Legacy_New_Shop/README.md`; historical lookup only |
+
+## Current Naming
+
+Use the approved AFTERSTORY collection names from `01_Brand_Records/BRAND_SYSTEM.md` in routine summaries and counter planning. Former counter names and label-stock rows were archived on 2026-10-31. Their historical product IDs resolve against `99_Archive/Legacy_New_Shop/PRODUCT_MASTER.csv`; existing movement-ledger rows and batch IDs remain unchanged. Archived prices do not establish current AFTERSTORY prices.
 
 ## Open Verification
 
-**Physical raw-material balance:** the Zaveri Gucci Flora lot has a historical 12.5 mL use without mass conversion; the Perfume Cartel Bombshell lot has a 30 mL GOLDEN ORCHID use and an unmeasured EMBER use. Neither has a measured current balance. Physically weigh each remaining lot before its next batch; do not promise output from those lots until then.
+**Physical raw-material balance:** the Zaveri Gucci Flora lot has a historical 12.5 mL use without mass conversion; the Perfume Cartel Bombshell lot has a 30 mL GOLDEN ORCHID use and unmeasured historical counter-batch use. Neither has a measured current balance. Physically weigh each remaining lot before its next batch; do not promise output from those lots until then.
 
 ## Working Boundaries
 

@@ -40,17 +40,12 @@ RM-BIANCO-LATTE-A,Bianco Latte perfume oil,,0,g,2026-09-22,VERIFIED,25 g used ac
 RM-AJMAL-ARISTOCRAT-A,Ajmal Aristocrat perfume oil,,0,g,2026-09-22,VERIFIED,Founder-confirmed zero balance
 RM-MUSK-RIJALI-A,Ajmal Musk Rijali Spl perfume oil,,0,g,2026-09-22,VERIFIED,Founder-confirmed zero balance
 RM-GUCCI-FLORA-B,Gucci Flora perfume oil,,,g,2026-09-22,UNRESOLVED,"Zaveri lot; 12.5 mL historical sample use confirmed, but current mass balance requires physical measurement"
-RM-BOMBSHELL-A,Bombshell perfume oil,,,g,2026-09-22,UNRESOLVED,"Perfume Cartel invoice lot; 100 g purchased. EMBER use and GO-P01's 30 mL use are not fully measured, so current balance requires physical measurement"
-RM-BOMBSHELL-B,Victoria Secret Bombshell perfume oil,,100,g,2026-09-22,VERIFIED,No recorded consumption; EMBER used Perfume Cartel Bombshell
+RM-BOMBSHELL-A,Bombshell perfume oil,,,g,2026-09-22,UNRESOLVED,"Perfume Cartel invoice lot; 100 g purchased. Historical counter-batch use and GO-P01's 30 mL use are not fully measured, so current balance requires physical measurement"
+RM-BOMBSHELL-B,Victoria Secret Bombshell perfume oil,,100,g,2026-09-22,VERIFIED,No recorded consumption; historical counter batches used Perfume Cartel Bombshell
 RM-BOMBSHELL-PC,Bombshell perfume oil,,,g,2026-09-22,HISTORICAL_REFERENCE,"Legacy GO-P01 transaction reference; supplier mapping confirmed as the Perfume Cartel invoice lot. Current balance is maintained under RM-BOMBSHELL-A"
 RM-PREMIX,Alcohol plus fixatives premix,,265.28,mL,2026-10-12,ESTIMATED,"50 mL session wastage deducted; 183.21 mL each consumed for SH-P03, DW-P02 and EM-P01; 203.05 mL consumed for CL-P02; 209.16 mL consumed for MK-P02; 90 mL wasted for SH-P03; remeasure physically"
 RM-PLAIN-ALCOHOL,Plain perfumer's alcohol,,650,mL,2026-09-22,VERIFIED,50 mL session wastage deducted
 PK-BOTTLE-50,50 mL Amore full-set bottle,,20,pcs,2026-09-22,VERIFIED,SH-P02 used 2 bottle sets
 PK-BOTTLE-08,Bare 8 mL tester bottle,,575,pcs,2026-09-22,VERIFIED,GO-P01 used 3 bottles
 PK-LABEL-50-FINAL,Final 50 mL sticker,,0,pcs,2026-09-22,VERIFIED,GO-P01 used final 2 stickers
-PK-LABEL-NS-CROWN-08,CROWN 8 mL label,,10,pcs,2026-09-22,VERIFIED,No recorded use
-PK-LABEL-NS-HIDE-08,HIDE 8 mL label,,12,pcs,2026-09-22,VERIFIED,Founder physical count
-PK-LABEL-NS-EMBER-08,EMBER 8 mL label,,1,pcs,2026-09-22,VERIFIED,Founder physical count
-PK-LABEL-NS-MUSK-08,MUSK 8 mL label,,0,pcs,2026-09-22,VERIFIED,15 used in MK-P01
-PK-LABEL-NS-CLEAN-08,CLEAN 8 mL label,,0,pcs,2026-09-22,VERIFIED,Founder physical count
 PK-GLOVES-NITRILE,Nitrile gloves,,88,pcs,2026-10-12,ESTIMATED,Two gloves used for SH-P03; prior balance 90 pcs

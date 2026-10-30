@@ -19,6 +19,7 @@ The 50 ML template is final. The current 13 PNG sticker artworks in `03_Label_Fi
 - Supplied maceration direction: 14-21 days; actual batch evaluation remains separate from brand approval.
 - Website: `https://www.afterstory.in`; printed website: `afterstory.in`; Instagram: `@wearafterstory`.
 - Inspiration identifiers are internal reference material only. Do not automatically place them in customer-facing copy, labels, packaging, Instagram creatives, or website content.
+- Founder-confirmed 2026-10-31: use only the approved AFTERSTORY collection names in current product, inventory, production, and counter-planning displays. Former counter names, label stock, and prices are retired to `99_Archive/Legacy_New_Shop/`. Keep historical batch IDs and transaction wording for traceability; do not infer a mapping for an unconfirmed retired fragrance.
 
 ## Locked Collection
 
