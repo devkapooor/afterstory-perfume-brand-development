@@ -10,13 +10,14 @@ AS-08-50,YUZU WAVE 50 mL,50,2,pcs,2026-09-22,ON_HAND,YW-P01 output; final sticke
 AS-09-50,LAST CALL 50 mL,50,1,pcs,2026-09-25,ON_HAND,"LC-P01 output; one bottle sold to Shahzar on 2026-09-25, fulfilling prior reservation; final stickers applied"
 AS-10-50,CANDY FLOSS 50 mL,50,1,pcs,2026-09-25,ON_HAND,"Final labels applied; batch is 24.51% w/w; one bottle sold to Shahzar on 2026-09-25"
 AS-11-50,SLOW CARAMEL 50 mL,50,1,pcs,2026-09-22,ON_HAND,"Final label applied; fill level and allocation remain pending"
-AS-03-08,FIRST LIGHT 8 mL,8,2,pcs,2026-09-22,TESTER_POOL,"Generic handwritten labels; not branded 8 mL labels"
+AS-01-08,STILL HERE 8 mL,8,,pcs,2026-10-31,COUNT_PENDING,"SH-P03 confirmed filled; per-fragrance count and current unsold balance pending. Estimated combined five-batch output is recorded in PRODUCTION_AND_TESTING.md"
+AS-03-08,FIRST LIGHT 8 mL,8,2,pcs,2026-10-31,RECONCILIATION_REQUIRED,"Earlier tester-pool balance of 2 recorded 2026-09-22 with generic handwritten labels. Excludes newly confirmed CL-P02 filling; per-fragrance count and current unsold balance pending; see PRODUCTION_AND_TESTING.md"
 AS-04-08,LAST LOOK 8 mL,8,1,pcs,2026-09-22,ON_HAND_TEMPORARY_LABEL,LL-P03 output; white handwritten label applied
-AS-05-08,DARK WOOD 8 mL,8,2,pcs,2026-09-22,ON_HAND_TEMPORARY_LABEL,DW-P01 output; handwritten white labels applied
+AS-05-08,DARK WOOD 8 mL,8,2,pcs,2026-10-31,RECONCILIATION_REQUIRED,"Earlier DW-P01 balance of 2 recorded 2026-09-22 with handwritten white labels. Excludes newly confirmed DW-P02 filling; per-fragrance count and current unsold balance pending; see PRODUCTION_AND_TESTING.md"
 AS-02-08,TOBACCO BLOOM 8 mL,8,3,pcs,2026-09-22,ON_HAND_TEMPORARY_LABEL,TB-P01 output; handwritten white labels applied
 AS-03-04-TESTER,FIRST LIGHT 4 mL tester,4,1,pcs,2026-09-22,TESTER_POOL,Partial bottle from FL-P01
-AS-06-08,WHITE MUSK 8 mL,8,3,pcs,2026-09-22,TESTER_POOL,"Generic handwritten labels; not branded 8 mL labels"
-AS-07-08,GOLDEN ORCHID 8 mL,8,3,pcs,2026-09-22,ON_HAND_TEMPORARY_LABEL,GO-P01 output; handwritten white labels applied
+AS-06-08,WHITE MUSK 8 mL,8,3,pcs,2026-10-31,RECONCILIATION_REQUIRED,"Earlier tester-pool balance of 3 recorded 2026-09-22 with generic handwritten labels. Excludes newly confirmed MK-P02 filling; per-fragrance count and current unsold balance pending; see PRODUCTION_AND_TESTING.md"
+AS-07-08,GOLDEN ORCHID 8 mL,8,3,pcs,2026-10-31,RECONCILIATION_REQUIRED,"Earlier GO-P01 balance of 3 recorded 2026-09-22 with handwritten white labels. Excludes newly confirmed EM-P01 filling; per-fragrance count and current unsold balance pending; see PRODUCTION_AND_TESTING.md"
 AS-08-08,YUZU WAVE 8 mL,8,3,pcs,2026-09-22,ON_HAND_TEMPORARY_LABEL,YW-P01 output; handwritten white labels assumed under current operating rule
 AS-09-08,LAST CALL 8 mL,8,3,pcs,2026-09-22,ON_HAND_TEMPORARY_LABEL,LC-P01 output; handwritten white labels applied
 AS-10-07-TESTER,CANDY FLOSS 7 mL tester,7,2,pcs,2026-09-22,TESTER_POOL,Partial bottles from CF-P01
@@ -46,6 +47,6 @@ RM-BOMBSHELL-PC,Bombshell perfume oil,,,g,2026-09-22,HISTORICAL_REFERENCE,"Legac
 RM-PREMIX,Alcohol plus fixatives premix,,265.28,mL,2026-10-12,ESTIMATED,"50 mL session wastage deducted; 183.21 mL each consumed for SH-P03, DW-P02 and EM-P01; 203.05 mL consumed for CL-P02; 209.16 mL consumed for MK-P02; 90 mL wasted for SH-P03; remeasure physically"
 RM-PLAIN-ALCOHOL,Plain perfumer's alcohol,,650,mL,2026-09-22,VERIFIED,50 mL session wastage deducted
 PK-BOTTLE-50,50 mL Amore full-set bottle,,20,pcs,2026-09-22,VERIFIED,SH-P02 used 2 bottle sets
-PK-BOTTLE-08,Bare 8 mL tester bottle,,575,pcs,2026-09-22,VERIFIED,GO-P01 used 3 bottles
+PK-BOTTLE-08,Bare 8 mL tester bottle,,575,pcs,2026-10-31,RECONCILIATION_REQUIRED,"Earlier balance of 575 recorded 2026-09-22 after GO-P01. Excludes bottle use for newly confirmed five-batch filling; current empty-bottle count and consumption reconciliation pending; see PRODUCTION_AND_TESTING.md"
 PK-LABEL-50-FINAL,Final 50 mL sticker,,0,pcs,2026-09-22,VERIFIED,GO-P01 used final 2 stickers
 PK-GLOVES-NITRILE,Nitrile gloves,,88,pcs,2026-10-12,ESTIMATED,Two gloves used for SH-P03; prior balance 90 pcs
