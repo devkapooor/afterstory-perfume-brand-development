@@ -2,6 +2,8 @@
 
 INTERNAL ONLY. Founder-supplied inspiration metadata; not verified supplier formula identity or evidence of affiliation. Do not automatically reproduce competitor names in customer-facing copy or artwork. Current supplier-lot balances are in `02_Inventory_Costing/INVENTORY_MASTER.csv`.
 
+Production and procurement status is governed by `02_Inventory_Costing/PRODUCT_MASTER.csv`, including the 2026-10-31 discontinuation decisions affecting chapters 11-13. This inspiration map preserves their identity and historical references; it does not authorize new production. Existing ready stock remains available for sale.
+
 | Number | AFTERSTORY name | Supplied inspiration reference |
 | --- | --- | --- |
 | 01 | STILL HERE | Gucci Flora Gorgeous Gardenia |

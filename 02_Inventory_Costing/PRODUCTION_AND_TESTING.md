@@ -4,6 +4,8 @@ This is the active consolidated reference for product development, batches, yiel
 
 ## Product Development Record
 
+Lifecycle update 2026-10-31: follow `PRODUCT_MASTER.csv` for the discontinued oils and affected product-production statuses, and `01_Brand_Records/BRAND_SYSTEM.md`'s Decision Status for the founder's scope. Earlier candidate comparisons, batch records, and calibration rows below are historical evidence, not instructions to resume discontinued production. Existing ready stock remains available for sale; no stock quantity or historical movement is removed by this decision.
+
 2026-09-06. Planning and record templates only; no new materials have been blended, tested or released by the assistant.
 
 ### Evidence So Far

@@ -1,5 +1,7 @@
 # AFTERSTORY Preliminary Costing
 
+Lifecycle update 2026-10-31: current procurement and production eligibility is governed by `PRODUCT_MASTER.csv`. Cost scenarios for the discontinued oils are historical comparisons only; they do not authorize new purchases or production. Existing ready perfume stock remains available for sale at its approved price. Historical sales, costs, and receivables are retained.
+
 ## Sales and Receivables Status
 
 Updated 2026-09-21 from founder-reported status. Do not infer missing selling prices or payment receipt.
@@ -129,7 +131,7 @@ Remainders are BEFORE output-tax reconciliation, advertising, damage/refunds, co
 - Every extra 20 courier charge lowers order remainder by 20.
 - Proposed 50 mL label + carton target is <=25/bottle, plus the existing landed bottle cost of 49.93. This is a quote target, not a guaranteed market price.
 - 499 remains a plausible target for ordinary candidate oils under these assumptions. Confirm tax treatment, real packaging/courier/payment costs and chosen recipes before locking margin.
-- Musk Rijali Spl is unsuitable for the 50 wholesale pocket format under this scenario. Keep it as a small premium test material, not an approved launch scent.
+- Historical finding: Musk Rijali Spl was unsuitable for the 50 wholesale pocket format under this scenario. The former suggestion to retain it for premium testing is superseded by its discontinued status in `PRODUCT_MASTER.csv`.
 - Existing stock still carries cost even though paid. The 5000 budget funds new cash outlays; it is not profit and does not replenish consumed oil automatically.
 
 ## Validation Needed

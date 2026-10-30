@@ -6,6 +6,8 @@ Read this only when a request needs project routing. Then open the smallest list
 
 The brand and 13-chapter collection are locked. Inventory, products, prices, purchases, suppliers, and expenses use canonical CSV registers. Current 50 mL sticker artwork is finalized for the present batch; branded 8 mL label print approval remains pending.
 
+Collection names and artwork do not determine ongoing production. For the 2026-10-31 discontinuation decisions and sale of existing ready stock, use `02_Inventory_Costing/PRODUCT_MASTER.csv` and `01_Brand_Records/BRAND_SYSTEM.md`'s Decision Status. Keep discontinued oils separate from active procurement; retain existing ready perfume stock for sale.
+
 ## Task Routing
 
 | Topic | Canonical source or route |

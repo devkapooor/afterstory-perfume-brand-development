@@ -8,6 +8,8 @@ LOCKED: brand identity; 13 fragrance names; chapter order; scent profiles; story
 
 TBD: exact production quantity of every fragrance in each bottle size; individual approval of the twelve non-DARK-WOOD artworks; customer-facing prefix for fragrances 08-13; revised 8 mL three-panel content placement and branded-label print approval.
 
+Commercial lifecycle update, founder-confirmed 2026-10-31: Ajmal Aristocrat and Ajmal Musk Rijali Spl oils are discontinued for future procurement and production use. Their mapped OLD ESTATE and QUIET SHADOW products have future production paused with no replacement oil approved. SLOW CARAMEL and its Bianco Latte oil are discontinued for future production and restocking. Existing ready perfume stock remains available for sale until sold; retain its quantities, prices, and historical records. Tester/reference classifications remain separate. Current lifecycle statuses are canonical in `02_Inventory_Costing/PRODUCT_MASTER.csv`; balances are in `INVENTORY_MASTER.csv`. Existing chapter names, numbers, and design references are retained.
+
 The 50 ML template is final. The current 13 PNG sticker artworks in `03_Label_Files/50ml_Final_Sticker_PNGs_Bulk_1/` are the finalized sticker designs being used for the present 50 mL batch. Older print-ready archive files are superseded for current-batch use unless explicitly selected again. Finalized artwork does not itself confirm PDF/prepress quality, printer bleed, physical fit, batch release, or product testing.
 
 ## Brand and Product
@@ -41,7 +43,7 @@ All names have exactly two words and begin their corresponding story sentence. C
 | 12 | OLD ESTATE | Citrus / Florals / Oud | Old estate, where time still lives in silence. | Olive |
 | 13 | QUIET SHADOW | Clean Musk / Soft Florals / Creamy Musk | Quiet shadow, staying close without asking for attention. | Smoky violet-grey |
 
-Use SLOW CARAMEL when positioning a primary vanilla/gourmand fragrance. Accents are restrained directions, not specified print colour values.
+SLOW CARAMEL's former primary vanilla/gourmand positioning is retained as historical brand context; follow the commercial lifecycle status above for current production and sales. Accents are restrained directions, not specified print colour values.
 
 ## Visual and Copy Direction
 
